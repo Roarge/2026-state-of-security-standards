@@ -1,6 +1,6 @@
 # How far security standards for smart city infrastructure cover the steps of AI-related security events
 
-Data and method for a study by Roar Georgsen, University of South-Eastern Norway (USN), prepared for a doctoral trial lecture on 13 November 2026 and for a journal article that follows it. This repository is the supplementary material of that article. It holds the tables behind the main numbers of the study, the definitions used to classify the documents and a script that recomputes the main figures.
+Data and method for a study by Roar Georgsen, University of South-Eastern Norway (USN), prepared for a doctoral trial lecture on 17 November 2026 and for a journal article that follows it. This repository is the supplementary material of that article. It holds the tables behind the main numbers of the study, the definitions used to classify the documents and a script that recomputes the main figures.
 
 ## Introduction
 
