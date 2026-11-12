@@ -47,11 +47,11 @@ One row for each of the 68 security events that have attack steps.
 
 ## attack_steps.csv
 
-One row for each of the 510 attack steps.
+One row for each of the 524 attack steps.
 
 | Column | Meaning |
 |---|---|
-| `step_id`, `event_id`, `order` | The step, its event and its place in the course of the event |
+| `step_id`, `event_id`, `order` | The step, its event and its place in the course of the event. Event C-001 is the exception: its 14 steps that were added later, numbered 9 to 22, follow the eight earlier steps by number and not by the calendar, so for these steps the number does not say when in the event the step took place |
 | `description` | What the attacker did, in one or two sentences |
 | `defensive_need` | What a defender would have had to do to prevent the step, detect it, limit its effect or respond to it. The documents are judged against this sentence |
 | `techniques` | Identifiers of the technique in MITRE ATT&CK (starting with `T`), MITRE ATLAS (starting with `AML.`) or the OWASP Top 10 for Agentic Applications (starting with `ASI`). The first is the main one |
@@ -60,13 +60,13 @@ One row for each of the 510 attack steps.
 | `ai_target` | `true` when the step attacks an AI system, model or agent, or its tools |
 | `autonomy_level` | The level of the step's event |
 | `source_url` | The public source the step rests on |
-| `check_still_asked_for_revision` | `yes` when the last check of the step by a second model still asked for a change, after a revision in 72 cases and after a repeated check in one. `no` covers both the steps the check accepted and the steps that were kept unchanged against the check's objection, with a recorded reason. Seven of the eight steps of event C-001 are of the second kind |
-| `source_note` | For the steps of event C-001, the kind of source that supports the core of the step: an independent investigation or the affected organisation's own account. Empty for all other events |
+| `check_still_asked_for_revision` | `yes` when the last check of the step by a second model still asked for a change, after a revision in 75 cases and after a repeated check in one. `no` covers both the steps the check accepted and the steps that were kept unchanged against the check's objection, with a recorded reason. Of the 22 steps of event C-001, 17 are of the second kind, two were accepted and three carry `yes` |
+| `source_note` | For the 22 steps of event C-001, the kind of source that supports the core of the step: `Supported by an independent investigation` for 11 steps and `Supported by the affected party's own account` for the other 11, where the affected party is the organisation whose systems were broken into. Empty for all other events |
 | `text_shortened_for_publication` | `yes` when a literal secret, a piece of attack text, a path or a name in the description or the defensive need was replaced by a description of it for this public table. The coders saw the original |
 
 ## coverage.csv
 
-One row for each of the 42,330 pairs of a document and a step, with the final code.
+One row for each of the 43,492 pairs of a document and a step, with the final code.
 
 | Column | Meaning |
 |---|---|
@@ -162,9 +162,9 @@ What each variation leaves out or changes, and why it is worth testing:
 | S4a | Uses the answers of coder A alone in place of the final codes. Coder A gave full coverage far more often than coder B, and the result should not depend on which of the two is believed |
 | S4b | Uses the answers of coder B alone. This coder was the stricter of the two, and its answer became the final code wherever the two agreed |
 | S5 | Leaves out the three drafts. A draft can still change, and nobody is yet asked to follow it |
-| S6 | Leaves out the seven standards coded on 12 November 2026, after the first results were known. This row shows the results as they stood before that choice |
+| S6 | Leaves out the seven standards coded on 12 November 2026, after the first results were known. This row shows what the results are without them |
 | S7 | Leaves out the two events that the search missed and that entered only because they stood on an earlier list of known events, which was used to test how complete the search was. Events added from such a list may reflect what the researcher already had in mind |
-| S8 | Keeps only the 323 steps from the events in which an AI system carried out most or all of the steps. These events are the centre of the study, and their result should also be seen on its own |
+| S8 | Keeps only the 337 steps from the events in which an AI system carried out most or all of the steps. These events are the centre of the study, and their result should also be seen on its own |
 | S9 | Leaves out the 22 events for which the only account of what the AI system did comes from the company that built it. Nobody outside has confirmed these accounts |
 | S10 | Leaves out the seven events whose record in the study's list of events was not read a second time by an independent checker. A record that nobody checked is more likely to hold an error |
 | S11 | Leaves out the pairs in which one coder's answer came from a repeated request after the model had declined the first. Most of these repeats ran on the same model as the other coder, so the two answers are less independent |

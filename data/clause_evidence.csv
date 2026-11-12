@@ -758,6 +758,48 @@ document_id,step_id,clause_id,quote,quote_cut
 4SQHZUSL_YY2EYK99,C-001-S08,AU-13,Enterprises should ensure that monitoring is in place for contractor systems to detect the unauthorized disclosure of any data,no
 4SQHZUSL_YY2EYK99,C-001-S08,AC-22,"This information should be reviewed to ensure that only appropriate content is released for public consumption, whether alone or with other information.",no
 4SQHZUSL_YY2EYK99,C-001-S08,AC-4,Specifying the requirements and how information flow is enforced should ensure that only the required information is communicated to various participants in the supply chain.,no
+4SQHZUSL_YY2EYK99,C-001-S09,A.2.21 (SI family),"Organizations must: (i) identify, report, and correct information and information system flaws in a timely manner; (ii) provide protection from malicious code at appropriate locations",yes
+4SQHZUSL_YY2EYK99,C-001-S09,A.2.3 (AC family),"Organizations must limit information system access to authorized users, processes acting on behalf of authorized users, devices (including other information systems), and the types of",yes
+4SQHZUSL_YY2EYK99,C-001-S09,SI-7(14),"The enterprise should ensure that code authentication mechanisms, such as digital signatures, are implemented to ensure the integrity of software, firmware, and information.",no
+4SQHZUSL_YY2EYK99,C-001-S09,CM-14,Enterprises should verify that the acquired hardware and software components are genuine and valid by using digitally signed components from trustworthy certificate authorities.,no
+4SQHZUSL_YY2EYK99,C-001-S10,AC-4,Specifying the requirements and how information flow is enforced should ensure that only the required information is communicated to various participants in the supply chain.,no
+4SQHZUSL_YY2EYK99,C-001-S10,SC-4,Protecting information in shared resources in support of various supply chain activities is challenging when outsourcing key operations.,no
+4SQHZUSL_YY2EYK99,C-001-S10,SI-4,"This control includes monitoring vulnerabilities that result from past supply chain cybersecurity compromises, such as malicious code implanted during software development and set to activate",yes
+4SQHZUSL_YY2EYK99,C-001-S11,A.2.20 (SC family),"Organizations must: (i) monitor, control, and protect organizational communications (i.e., information transmitted or received by organizational information systems) at the external boundaries and key internal",yes
+4SQHZUSL_YY2EYK99,C-001-S11,AC-20,Access to the supply chain from such external information systems should be monitored and audited.,no
+4SQHZUSL_YY2EYK99,C-001-S11,SC-7,"The enterprise should implement appropriate monitoring mechanisms and processes at the boundaries between the agency systems and suppliers, developers, system integrators, external system service providers,",yes
+4SQHZUSL_YY2EYK99,C-001-S12,A.2.20 (SC family),"Organizations must: (i) monitor, control, and protect organizational communications (i.e., information transmitted or received by organizational information systems) at the external boundaries and key internal",yes
+4SQHZUSL_YY2EYK99,C-001-S12,SC-7,"The enterprise should implement appropriate monitoring mechanisms and processes at the boundaries between the agency systems and suppliers, developers, system integrators, external system service providers,",yes
+4SQHZUSL_YY2EYK99,C-001-S14,A.2.3 (AC family),"Organizations must limit information system access to authorized users, processes acting on behalf of authorized users, devices (including other information systems), and the types of",yes
+4SQHZUSL_YY2EYK99,C-001-S14,AC-6(6),Enterprises should ensure that protections are in place to prevent non-enterprise users from having privileged access to enterprise supply chain and related supply chain information.,no
+4SQHZUSL_YY2EYK99,C-001-S14,AC-17,enterprises should implement secure remote access mechanisms and allow remote access only to vetted personnel,no
+4SQHZUSL_YY2EYK99,C-001-S15,A.2.3 (AC family),"Organizations must limit information system access to authorized users, processes acting on behalf of authorized users, devices (including other information systems), and the types of",yes
+4SQHZUSL_YY2EYK99,C-001-S15,CM-7,Least functionality reduces the attack surface.,no
+4SQHZUSL_YY2EYK99,C-001-S15,SC-7,"The enterprise should implement appropriate monitoring mechanisms and processes at the boundaries between the agency systems and suppliers, developers, system integrators, external system service providers,",yes
+4SQHZUSL_YY2EYK99,C-001-S16,A.2.5 (AU family),"Organizations must: (i) create, protect, and retain information system audit records to the extent needed to enable the monitoring, analysis, investigation, and reporting of unlawful,",yes
+4SQHZUSL_YY2EYK99,C-001-S16,IA-5,This control facilitates traceability and non-repudiation throughout the supply chain.,no
+4SQHZUSL_YY2EYK99,C-001-S16,AC-6(6),Enterprises should ensure that protections are in place to prevent non-enterprise users from having privileged access to enterprise supply chain and related supply chain information.,no
+4SQHZUSL_YY2EYK99,C-001-S17,IA-3,"Enterprises should implement capabilities to distinctly and positively identify devices and software within their supply chain and, once identified, verify that the identity is authentic.",no
+4SQHZUSL_YY2EYK99,C-001-S17,IA-5,This control facilitates traceability and non-repudiation throughout the supply chain.,no
+4SQHZUSL_YY2EYK99,C-001-S17,SC-7,"The enterprise should implement appropriate monitoring mechanisms and processes at the boundaries between the agency systems and suppliers, developers, system integrators, external system service providers,",yes
+4SQHZUSL_YY2EYK99,C-001-S17,AC-17,enterprises should implement secure remote access mechanisms and allow remote access only to vetted personnel,no
+4SQHZUSL_YY2EYK99,C-001-S18,SC-28,The enterprise should also ensure that they provide appropriate protections within the information systems and networks for data at rest,no
+4SQHZUSL_YY2EYK99,C-001-S18,IA-5,This control facilitates traceability and non-repudiation throughout the supply chain.,no
+4SQHZUSL_YY2EYK99,C-001-S18,AC-6(6),Enterprises should ensure that protections are in place to prevent non-enterprise users from having privileged access to enterprise supply chain and related supply chain information.,no
+4SQHZUSL_YY2EYK99,C-001-S19,AC-6(6),Enterprises should ensure that protections are in place to prevent non-enterprise users from having privileged access to enterprise supply chain and related supply chain information.,no
+4SQHZUSL_YY2EYK99,C-001-S19,AU-6,The enterprise should ensure that both supply chain and information security auditable events are appropriately filtered and correlated for analysis and reporting.,no
+4SQHZUSL_YY2EYK99,C-001-S19,CM-3,"Enterprises should determine, implement, monitor, and audit configuration settings and change controls within the information systems and networks and throughout the SDLC.",no
+4SQHZUSL_YY2EYK99,C-001-S20,A.2.20 (SC family),"Organizations must: (i) monitor, control, and protect organizational communications (i.e., information transmitted or received by organizational information systems) at the external boundaries and key internal",yes
+4SQHZUSL_YY2EYK99,C-001-S20,SC-7,"The enterprise should implement appropriate monitoring mechanisms and processes at the boundaries between the agency systems and suppliers, developers, system integrators, external system service providers,",yes
+4SQHZUSL_YY2EYK99,C-001-S20,A.2.3 (AC family),"Organizations must limit information system access to authorized users, processes acting on behalf of authorized users, devices (including other information systems), and the types of",yes
+4SQHZUSL_YY2EYK99,C-001-S21,A.2.5 (AU family),"Organizations must: (i) create, protect, and retain information system audit records to the extent needed to enable the monitoring, analysis, investigation, and reporting of unlawful,",yes
+4SQHZUSL_YY2EYK99,C-001-S21,AU-3,The audit records of a supply chain event should be securely handled and maintained in a manner that conforms to record retention requirements and preserves,yes
+4SQHZUSL_YY2EYK99,C-001-S21,AU-6,The enterprise should ensure that both supply chain and information security auditable events are appropriately filtered and correlated for analysis and reporting.,no
+4SQHZUSL_YY2EYK99,C-001-S21,SI-4,"This control includes monitoring vulnerabilities that result from past supply chain cybersecurity compromises, such as malicious code implanted during software development and set to activate",yes
+4SQHZUSL_YY2EYK99,C-001-S22,SA-8,"Use security mechanisms that help to reduce opportunities to exploit supply chain cybersecurity vulnerabilities, such as encryption, access control, identity management, and malware or tampering",yes
+4SQHZUSL_YY2EYK99,C-001-S22,CM-7(6),"The enterprise should ensure that code authentication mechanisms such as digital signatures are implemented when executing code to assure the integrity of software, firmware, and",yes
+4SQHZUSL_YY2EYK99,C-001-S22,SC-7(13),"If a compromise or information leakage happens in any one environment, the other environments should still be protected through the separation and isolation mechanisms or",yes
+4SQHZUSL_YY2EYK99,C-001-S22,A.2.21 (SI family),"Organizations must: (i) identify, report, and correct information and information system flaws in a timely manner; (ii) provide protection from malicious code at appropriate locations",yes
 4SQHZUSL_YY2EYK99,C-002-S02,CM-3(2),"Test, validate, and document changes to the system before finalizing implementation of the changes.",no
 4SQHZUSL_YY2EYK99,C-002-S02,CM-6,,withheld
 4SQHZUSL_YY2EYK99,C-003-S01,CM-3(8),Prevent or restrict changes to the configuration of the system under enterprise-defined circumstances.,no
@@ -1036,7 +1078,7 @@ document_id,step_id,clause_id,quote,quote_cut
 4SQHZUSL_YY2EYK99,SX-002-S09,CM-7,Least functionality reduces the attack surface.,no
 4SQHZUSL_YY2EYK99,SX-002-S09,SC-7,"The enterprise should implement appropriate monitoring mechanisms and processes at the boundaries between the agency systems and suppliers, developers, system integrators, external system service providers,",yes
 4SQHZUSL_YY2EYK99,SX-002-S09,RA-5,"Vulnerability monitoring should cover suppliers, developers, system integrators, external system service providers",no
-4SQHZUSL_YY2EYK99,SX-003-S01,A.2.20 FIPS 200 System and Communications Protection,"monitor, control, and protect organizational communications (i.e., information transmitted or received by organizational information systems) at the external boundaries and key internal boundaries of the",yes
+4SQHZUSL_YY2EYK99,SX-003-S01,A.2.20 FIPS 200 System and Communications Protection,,withheld
 4SQHZUSL_YY2EYK99,SX-003-S02,IA-2,Enterprises should ensure that identification and requirements are defined and applied for enterprise users accessing an ICT/OT system or supply chain network.,no
 4SQHZUSL_YY2EYK99,SX-003-S02,SC-28,The enterprise should include provisions for the protection of information at rest into their agreements with suppliers,no
 4SQHZUSL_YY2EYK99,SX-003-S02,AU-2,,withheld
@@ -1050,7 +1092,7 @@ document_id,step_id,clause_id,quote,quote_cut
 4SQHZUSL_YY2EYK99,SX-003-S05,SI-7,"confining software to limited privilege environments, such as sandboxes; code execution in contained environments prior to use",no
 4SQHZUSL_YY2EYK99,SX-003-S06,AC-6(6),relevant access requirements may need to use least privilege mechanisms to precisely define what information and/or components are accessible,no
 4SQHZUSL_YY2EYK99,SX-003-S06,AC-17,"employing multi-factor authentication, limiting access to specified business hours, limit access to specific assets (not networks) based on role",no
-4SQHZUSL_YY2EYK99,SX-003-S07,A.2.20 FIPS 200 System and Communications Protection,"monitor, control, and protect organizational communications (i.e., information transmitted or received by organizational information systems) at the external boundaries and key internal boundaries of the",yes
+4SQHZUSL_YY2EYK99,SX-003-S07,A.2.20 FIPS 200 System and Communications Protection,,withheld
 4SQHZUSL_YY2EYK99,SX-003-S08,CM-7,Least functionality reduces the attack surface.,no
 4SQHZUSL_YY2EYK99,SX-003-S08,SA-8,Design relevant validation mechanisms to be used during implementation and operation.,no
 4SQHZUSL_YY2EYK99,SX-004-S02,SA-11,Enterprises may also require third-party testing as part of developer security testing.,no
@@ -1063,7 +1105,7 @@ document_id,step_id,clause_id,quote,quote_cut
 4SQHZUSL_YY2EYK99,SX-004-S06,SI-4,"This control includes monitoring vulnerabilities that result from past supply chain cybersecurity compromises, such as malicious code implanted during software development and set to activate",yes
 4SQHZUSL_YY2EYK99,SX-004-S06,SC-7,"The enterprise should implement appropriate monitoring mechanisms and processes at the boundaries between the agency systems and suppliers, developers, system integrators, external system service providers,",yes
 4SQHZUSL_YY2EYK99,SX-004-S07,AT-2(4),Provide literacy training on recognizing suspicious communications or anomalous behavior in enterprise supply chain systems.,no
-4SQHZUSL_YY2EYK99,SX-004-S07,SI-3,provide protection from malicious code at appropriate locations within organizational information systems,no
+4SQHZUSL_YY2EYK99,SX-004-S07,SI-3,,withheld
 4SQHZUSL_YY2EYK99,SX-004-S07,CM-7(4),Enterprises should define requirements and deploy appropriate processes to specify and detect software that is not allowed.,no
 4SQHZUSL_YY2EYK99,SX-004-S08,AC-4(19),Ensure that proper filtering and inspection is put in place for validation before allowing payloads into the supply chain.,no
 4SQHZUSL_YY2EYK99,SX-004-S08,SI-4,"This control includes monitoring vulnerabilities that result from past supply chain cybersecurity compromises, such as malicious code implanted during software development and set to activate",yes
@@ -2574,6 +2616,16 @@ cybersecurity attacks.",no
 9RHRKADR_GKN28KWH,C-001-S05,ER.1,be made available on the market without known exploitable vulnerabilities;,no
 9RHRKADR_GKN28KWH,C-001-S05,VH.3,apply effective and regular tests and reviews of the security of the product with digital elements;,no
 9RHRKADR_GKN28KWH,C-001-S05,ER.12,"be designed, developed and produced to reduce the impact of an incident using appropriate exploitation mitigation mechanisms and techniques;",no
+9RHRKADR_GKN28KWH,C-001-S09,6.4 (CRA 8.8),"Information about technical vulnerabilities of information systems in use as well as PwDEs in scope should be obtained, the organisation’s and PwDE in scope’s exposure",yes
+9RHRKADR_GKN28KWH,C-001-S19,6.7 (CRA 8.32),Changes to information processing facilities and information systems as well as the PwDE in scope should be subject to change management procedures.,no
+9RHRKADR_GKN28KWH,C-001-S21,ER.13,"provide security related information by recording and monitoring relevant internal activity,",no
+9RHRKADR_GKN28KWH,C-001-S21,ER.13a,"including the access to or modification of data, services or functions,",no
+9RHRKADR_GKN28KWH,C-001-S22,ER.7,"protect the integrity of stored, transmitted or otherwise processed data, personal or other, commands, programs and configuration against any manipulation or modification not authorised by",yes
+9RHRKADR_GKN28KWH,C-001-S22,ER.12,"be designed, developed and produced to reduce the
+impact of an incident using appropriate exploitation
+mitigation mechanisms and techniques;",no
+9RHRKADR_GKN28KWH,C-001-S22,8.29,"Security testing processes should be defined and implemented in the development life cycle at least for the design, development and production of PwDE in scope.",no
+9RHRKADR_GKN28KWH,C-001-S22,6.1.3 a-1),the information security risk treatment options shall include a secure development lifecycle (8.28) including information security in project management (5.8) and security testing in development,yes
 9RHRKADR_GKN28KWH,C-002-S02,6.7 (8.32),Changes to information processing facilities and information systems as well as the PwDE in scope should be subject to change management procedures.,no
 9RHRKADR_GKN28KWH,C-002-S02,6.5 (8.25),changes to the PwDE in scope already placed on the market maintain the security requirements,no
 9RHRKADR_GKN28KWH,C-002-S02,ER.5,"ensure protection from unauthorised access by appropriate control mechanisms,",no
@@ -3877,6 +3929,46 @@ ECEUFDLE_6JA3C38M,C-001-S07,2.2.3,"Del opp virksomhetens nettverk etter virksomh
 ECEUFDLE_6JA3C38M,C-001-S08,2.5.8,"Forvaltede mobile klienter bør alltid (uansett hvor de befinner seg) underlegges sikkerhetsfunksjonalitet i virksomhetens systemer, bl.a. for å hindre og detektere datalekkasje fra kompromitterte klienter.",no
 ECEUFDLE_6JA3C38M,C-001-S08,2.5.1,Bruk oppdelingen i prinsipp 2.2 - Etabler en sikker IKT-arkitektur til å filtrere ønsket (godkjentlistet) nettverkstrafikk mellom soner og mot Internett.,no
 ECEUFDLE_6JA3C38M,C-001-S08,2.5.5,Eksponerte tjenester som web og epost med eksternt innhold til brukerne bør kontrolleres spesielt.,no
+ECEUFDLE_6JA3C38M,C-001-S09,2.3.1,Etabler et sentralt styrt regime for sikkerhetsoppdatering. Installer sikkerhetsoppdateringer så fort som mulig.,no
+ECEUFDLE_6JA3C38M,C-001-S09,2.6.5,Minimer rettigheter på drifts-kontoer.,no
+ECEUFDLE_6JA3C38M,C-001-S09,2.6.1,"Retningslinjene bør følge minste privilegiums prinsipp; ikke gi sluttbrukere, service-kontoer, utviklere eller driftsbrukere flere privilegier enn nødvendig.",no
+ECEUFDLE_6JA3C38M,C-001-S10,2.5.3,Sperr all direkte-trafikk mellom klienter.,no
+ECEUFDLE_6JA3C38M,C-001-S10,2.2.3,Del opp virksomhetens nettverk etter virksomhetens risikoprofil.,no
+ECEUFDLE_6JA3C38M,C-001-S10,3.2.3,Avgjør hvilke deler av IKT-systemet som skal overvåkes.,no
+ECEUFDLE_6JA3C38M,C-001-S11,2.4.1,Etabler tilgangskontroll på flest mulige nettverksporter.,no
+ECEUFDLE_6JA3C38M,C-001-S11,2.5.4,Isoler utstyr som er sårbart og har lav tillit,no
+ECEUFDLE_6JA3C38M,C-001-S11,2.1.9,Ta ansvar for virksomhetens sikkerhet også ved tjenesteutsetting.,no
+ECEUFDLE_6JA3C38M,C-001-S12,2.5.1,Bruk oppdelingen i prinsipp 2.2 - Etabler en sikker IKT-arkitektur til å filtrere ønsket (godkjentlistet) nettverkstrafikk mellom soner og mot Internett.,no
+ECEUFDLE_6JA3C38M,C-001-S12,2.4.4,Benytt brannmurer til å a) regulere innkommende/utgående trafikk.,no
+ECEUFDLE_6JA3C38M,C-001-S12,3.3.2,Data som flyter på unormale tidspunkter og som ikke anses som normal trafikk.,no
+ECEUFDLE_6JA3C38M,C-001-S14,2.6.1,"Retningslinjene bør følge minste privilegiums prinsipp; ikke gi sluttbrukere, service-kontoer, utviklere eller driftsbrukere flere privilegier enn nødvendig.",no
+ECEUFDLE_6JA3C38M,C-001-S14,3.3.2,Etabler og vedlikehold kompetanse om normaltilstanden i virksomhetens informasjonssystemer for å kunne oppdage endringer eller unormaliteter som kan indikere uautoriserte handlinger.,no
+ECEUFDLE_6JA3C38M,C-001-S15,2.6.1,"Retningslinjene bør følge minste privilegiums prinsipp; ikke gi sluttbrukere, service-kontoer, utviklere eller driftsbrukere flere privilegier enn nødvendig.",no
+ECEUFDLE_6JA3C38M,C-001-S15,2.5.1,Bruk oppdelingen i prinsipp 2.2 - Etabler en sikker IKT-arkitektur til å filtrere ønsket (godkjentlistet) nettverkstrafikk mellom soner og mot Internett.,no
+ECEUFDLE_6JA3C38M,C-001-S16,2.6.7,"Bruk multi-faktor autentisering, som smartkort, sertifikater eller engangspassord, for å autentisere brukere.",no
+ECEUFDLE_6JA3C38M,C-001-S16,2.6.1,"Retningslinjene bør følge minste privilegiums prinsipp; ikke gi sluttbrukere, service-kontoer, utviklere eller driftsbrukere flere privilegier enn nødvendig.",no
+ECEUFDLE_6JA3C38M,C-001-S16,3.2.4,Beslutt hvilke data som er sikkerhetsrelevant og bør samles inn.,no
+ECEUFDLE_6JA3C38M,C-001-S17,2.6.6,Identifiser enheter sikkert og unikt med f.eks. sertifikater.,no
+ECEUFDLE_6JA3C38M,C-001-S17,2.4.1,Tillat kun adgang for forvaltede enheter.,no
+ECEUFDLE_6JA3C38M,C-001-S17,2.2.3,Del opp virksomhetens nettverk etter virksomhetens risikoprofil.,no
+ECEUFDLE_6JA3C38M,C-001-S17,2.7.1,fornyelse av nøkler og hvordan håndtere kompromittering av nøkler,no
+ECEUFDLE_6JA3C38M,C-001-S18,2.7.1,,withheld
+ECEUFDLE_6JA3C38M,C-001-S18,2.7.1,"hvordan nøkler/passord oppbevares, sikkerhetskopiering av nøkler, fornyelse av nøkler",no
+ECEUFDLE_6JA3C38M,C-001-S18,2.7.1,hvordan håndtere kompromittering av nøkler,no
+ECEUFDLE_6JA3C38M,C-001-S18,2.6.1,"Retningslinjene bør følge minste privilegiums prinsipp; ikke gi sluttbrukere, service-kontoer, utviklere eller driftsbrukere flere privilegier enn nødvendig.",no
+ECEUFDLE_6JA3C38M,C-001-S19,2.6.1,"Retningslinjene bør følge minste privilegiums prinsipp; ikke gi sluttbrukere, service-kontoer, utviklere eller driftsbrukere flere privilegier enn nødvendig.",no
+ECEUFDLE_6JA3C38M,C-001-S19,2.10.1,Integrer sikkerhet i virksomhetens prosess for endringshåndtering.,no
+ECEUFDLE_6JA3C38M,C-001-S19,2.1.6,"Benytt separate miljøer for utvikling, test og produksjon slik at operative virksomhetsprosesser og data ikke blir påvirket ved feil i utviklings- og testløp.",no
+ECEUFDLE_6JA3C38M,C-001-S20,2.5.1,Bruk oppdelingen i prinsipp 2.2 - Etabler en sikker IKT-arkitektur til å filtrere ønsket (godkjentlistet) nettverkstrafikk mellom soner og mot Internett.,no
+ECEUFDLE_6JA3C38M,C-001-S20,2.5.2,Begrens tilgangen til interne tjenester fra eksterne lokasjoner.,no
+ECEUFDLE_6JA3C38M,C-001-S20,2.5.6,Beskytt spesielt kritiske tjenester med egen dataflyt.,no
+ECEUFDLE_6JA3C38M,C-001-S20,2.6.1,"Retningslinjene bør følge minste privilegiums prinsipp; ikke gi sluttbrukere, service-kontoer, utviklere eller driftsbrukere flere privilegier enn nødvendig.",no
+ECEUFDLE_6JA3C38M,C-001-S21,3.2.6,Påse at innsamlet data ikke kan manipuleres.,no
+ECEUFDLE_6JA3C38M,C-001-S21,3.2.1,Sammenstilling av logger fra virksomhetens forskjellige enheter og tjenester.,no
+ECEUFDLE_6JA3C38M,C-001-S21,2.9.4,Det bør jevnlig tas offline sikkerhetskopier som ikke kan nås via virksomhetens nettverk.,no
+ECEUFDLE_6JA3C38M,C-001-S22,2.5.4,Isoler utstyr som er sårbart og har lav tillit,no
+ECEUFDLE_6JA3C38M,C-001-S22,2.1.6,"Benytt separate miljøer for utvikling, test og produksjon slik at operative virksomhetsprosesser og data ikke blir påvirket ved feil i utviklings- og testløp.",no
+ECEUFDLE_6JA3C38M,C-001-S22,3.2.6,Påse at innsamlet data ikke kan manipuleres.,no
 ECEUFDLE_6JA3C38M,C-002-S01,2.6.1,"Retningslinjene bør følge minste privilegiums prinsipp; ikke gi sluttbrukere, service-kontoer, utviklere eller driftsbrukere flere privilegier enn nødvendig.",no
 ECEUFDLE_6JA3C38M,C-002-S02,2.10.1,a) Vurdering av endringsforslag for å identifisere påvirkning på etablerte sikkerhetstiltak,no
 ECEUFDLE_6JA3C38M,C-002-S02,2.10.3,"Gjennomfør nødvendig endring, konfigurering og testing av påvirkede sikkerhetsfunksjoner før og etter idriftsetting for å opprettholde etablert sikkerhetstilstand.",no
@@ -4821,6 +4913,27 @@ EGLPQNIU_H3LX2NRH,C-001-S07,4.3.2,An asset can have some weaknesses that cannot 
 EGLPQNIU_H3LX2NRH,C-001-S07,4.1,"The TVRA analyst shall identify the quantitative risk to the assets of a system in order to identify mitigations that counter threats, or prevent attacks",no
 EGLPQNIU_H3LX2NRH,C-001-S08,4.1,"The TVRA analyst shall identify the quantitative risk to the assets of a system in order to identify mitigations that counter threats, or prevent attacks,",yes
 EGLPQNIU_H3LX2NRH,C-001-S08,6.9.0,The purpose of countermeasures is to reduce either the likelihood of an attack or to the attack impact.,no
+EGLPQNIU_H3LX2NRH,C-001-S09,4.9,Least privilege - security principle that demands that it should be granted the minimum set of capabilities to access and use information and resources that,yes
+EGLPQNIU_H3LX2NRH,C-001-S09,4.1,the analyst is expected to ensure that means exist within the system and its organisation to continuously monitor for vulnerabilities.,no
+EGLPQNIU_H3LX2NRH,C-001-S10,4.9,"the security model of Zero Trust is endorsed, in which security associations are not assumed to be present but established on the assumption of no-memory",no
+EGLPQNIU_H3LX2NRH,C-001-S10,4.1,the analyst is expected to ensure that means exist within the system and its organisation to continuously monitor for vulnerabilities.,no
+EGLPQNIU_H3LX2NRH,C-001-S11,4.3.0,The goal of security design is to ensure a low likelihood of an unwanted incident arising by minimising the viable attack surface.,no
+EGLPQNIU_H3LX2NRH,C-001-S11,4.9,Least privilege - security principle that demands that it should be granted the minimum set of capabilities to access and use information and resources that,yes
+EGLPQNIU_H3LX2NRH,C-001-S13,4.3.2,An asset can have some weaknesses that cannot be removed but which can be masked or made inaccessible by the addition of features or capabilities,yes
+EGLPQNIU_H3LX2NRH,C-001-S14,4.9,Least privilege - security principle that demands that it should be granted the minimum set of capabilities to access and use information and resources that,yes
+EGLPQNIU_H3LX2NRH,C-001-S14,4.5,should be adopted for live systems in order to give ongoing validation of the credentials of assets.,no
+EGLPQNIU_H3LX2NRH,C-001-S15,4.9,Least privilege - security principle that demands that it should be granted the minimum set of capabilities to access and use information and resources that,yes
+EGLPQNIU_H3LX2NRH,C-001-S16,4.9,Least privilege - security principle that demands that it should be granted the minimum set of capabilities to access and use information and resources that,yes
+EGLPQNIU_H3LX2NRH,C-001-S16,4.5,should be adopted for live systems in order to give ongoing validation of the credentials of assets.,no
+EGLPQNIU_H3LX2NRH,C-001-S17,4.9,Least persistence - extends least privilege to ensure that a security association is maintained for the minimum time.,no
+EGLPQNIU_H3LX2NRH,C-001-S17,4.9,"the security model of Zero Trust is endorsed, in which security associations are not assumed to be present but established on the assumption of no-memory",no
+EGLPQNIU_H3LX2NRH,C-001-S18,4.9,Least privilege - security principle that demands that it should be granted the minimum set of capabilities to access and use information and resources that,yes
+EGLPQNIU_H3LX2NRH,C-001-S18,4.9,Least persistence - extends least privilege to ensure that a security association is maintained for the minimum time.,no
+EGLPQNIU_H3LX2NRH,C-001-S19,4.9,Least privilege - security principle that demands that it should be granted the minimum set of capabilities to access and use information and resources that,yes
+EGLPQNIU_H3LX2NRH,C-001-S20,4.9,Least privilege - security principle that demands that it should be granted the minimum set of capabilities to access and use information and resources that,yes
+EGLPQNIU_H3LX2NRH,C-001-S20,4.3.0,The goal of security design is to ensure a low likelihood of an unwanted incident arising by minimising the viable attack surface.,no
+EGLPQNIU_H3LX2NRH,C-001-S22,4.3.2,An asset can have some weaknesses that cannot be removed but which can be masked or made inaccessible by the addition of features or capabilities,yes
+EGLPQNIU_H3LX2NRH,C-001-S22,4.9,Least privilege - security principle that demands that it should be granted the minimum set of capabilities to access and use information and resources that,yes
 EGLPQNIU_H3LX2NRH,C-002-S01,4.9,Least privilege - security principle that demands that it should be granted the minimum set of capabilities to access and use information and resources that,yes
 EGLPQNIU_H3LX2NRH,C-002-S01,4.5,if an asset in a system has no clear role or where its role is open ended (unbounded) it can have a detrimental impact on,yes
 EGLPQNIU_H3LX2NRH,C-003-S01,4.9,Least privilege - security principle that demands that it should be granted the minimum set of capabilities to access and use information and resources that,yes
@@ -5062,7 +5175,7 @@ FFATR2BC_ZKHB27T8,A-009-S06,Table 10,The infrastructure of the own organisation 
 FFATR2BC_ZKHB27T8,A-009-S06,Table 10 (CCM),identity & Access management IAM,no
 FFATR2BC_ZKHB27T8,A-009-S06,Table 10 (CCM),encryption & key management EKM,no
 FFATR2BC_ZKHB27T8,A-010-S01,Table 10,secure development environment A.8.25,no
-FFATR2BC_ZKHB27T8,A-010-S01,Table 10,,withheld
+FFATR2BC_ZKHB27T8,A-010-S01,Table 10,technical vulnerability management A.8.8,no
 FFATR2BC_ZKHB27T8,A-010-S01,Table 10 (CCM),application and interface security AIS,no
 FFATR2BC_ZKHB27T8,A-010-S02,Table 10 (CCM),identity & Access management IAM,no
 FFATR2BC_ZKHB27T8,A-010-S02,Table 7/8/10,access control A.5.15–5.18,no
@@ -5074,9 +5187,9 @@ FFATR2BC_ZKHB27T8,A-010-S06,Table 7/8/10,access control A.5.15–5.18,no
 FFATR2BC_ZKHB27T8,A-010-S06,Table 3,Assets and information assets that are shared with or accessible to suppliers and service providers should be classified and labelled.,no
 FFATR2BC_ZKHB27T8,A-010-S06,Table 10 (CCM),encryption & key management EKM,no
 FFATR2BC_ZKHB27T8,A-010-S08,Table 3,"The handling of incidents should be agreed in regards of responsibilities, notification obligations and procedures",no
-FFATR2BC_ZKHB27T8,A-010-S08,Table 10,response to information security incidents A.5.26,no
+FFATR2BC_ZKHB27T8,A-010-S08,Table 10,,withheld
 FFATR2BC_ZKHB27T8,A-010-S09,Table 3,"The handling of incidents should be agreed in regards of responsibilities, notification obligations and procedures",no
-FFATR2BC_ZKHB27T8,A-010-S09,Table 10,response to information security incidents A.5.26,no
+FFATR2BC_ZKHB27T8,A-010-S09,Table 10,,withheld
 FFATR2BC_ZKHB27T8,A-011-S03,Table 7/8/10,protection from malware A.8.7,no
 FFATR2BC_ZKHB27T8,A-011-S04,Table 7/8/10,"information security awareness, education and training A.6.3",no
 FFATR2BC_ZKHB27T8,A-011-S04,Table 3,Awareness training should be given to the organisations and suppliers or service providers’ personnel regarding rules of engagement and behaviour based on the level of,yes
@@ -5228,9 +5341,9 @@ FFATR2BC_ZKHB27T8,B-033-S04,Table 4,"The patch deployment process needs to consi
 FFATR2BC_ZKHB27T8,B-033-S06,Table 3,"Obligations of suppliers and service providers for the protection of the organisation’s information assets, and access to assets and information assets, should be agreed",no
 FFATR2BC_ZKHB27T8,B-033-S06,Table 3,Condition and authorisation for access to assets and information assets,no
 FFATR2BC_ZKHB27T8,C-001-S01,Table 10,network security management A.8.20–8.23,no
-FFATR2BC_ZKHB27T8,C-001-S01,Table 10,,withheld
+FFATR2BC_ZKHB27T8,C-001-S01,Table 10,technical vulnerability management A.8.8,no
 FFATR2BC_ZKHB27T8,C-001-S02,"Table 10, ISO/IEC 27001 access control",access control A.5.15–5.18,no
-FFATR2BC_ZKHB27T8,C-001-S02,"Table 10, ISO/IEC 27001 incident response",response to information security incidents A.5.26,no
+FFATR2BC_ZKHB27T8,C-001-S02,"Table 10, ISO/IEC 27001 incident response",,withheld
 FFATR2BC_ZKHB27T8,C-001-S03,Table 10,identity & Access management IAM,no
 FFATR2BC_ZKHB27T8,C-001-S03,Table 10,access control A.5.15–5.18,no
 FFATR2BC_ZKHB27T8,C-001-S04,Table 10,application and interface security AIS,no
@@ -5245,6 +5358,34 @@ FFATR2BC_ZKHB27T8,C-001-S07,Table 10 (CCM) IAM,identity & Access management IAM,
 FFATR2BC_ZKHB27T8,C-001-S07,Table 10 (ISO/IEC 27001) access control,access control A.5.15–5.18,no
 FFATR2BC_ZKHB27T8,C-001-S08,Table 10 (CCM) DSI,data Security & Information lifecycle management DSI,no
 FFATR2BC_ZKHB27T8,C-001-S08,Table 10 (ISO/IEC 27001) network security,network security management A.8.20–8.23,no
+FFATR2BC_ZKHB27T8,C-001-S09,Table 4 (vulnerability handling),Patches should be received from legitimate sources,no
+FFATR2BC_ZKHB27T8,C-001-S09,"Table 5, SUM-4",A delivery process for patches shall be implemented that verifies authenticity and integrity of a patch,no
+FFATR2BC_ZKHB27T8,C-001-S09,"Table 7 (suppliers, ISO/IEC 27001:2022)",access control A.5.15–5.18,no
+FFATR2BC_ZKHB27T8,C-001-S09,"Table 7 (suppliers, ISO/IEC 27001:2022)",technical vulnerability management A.8.8,no
+FFATR2BC_ZKHB27T8,C-001-S10,"Table 7 (suppliers, ISO/IEC 27001:2022)",network security management A.8.20–8.23,no
+FFATR2BC_ZKHB27T8,C-001-S11,"Table 10 (digital services, CCM)",infrastructure & Virtualisation Security IVS,no
+FFATR2BC_ZKHB27T8,C-001-S11,Table 3 (supplier relationship),Security requirements should be defined for ICT/OT products and services acquired,no
+FFATR2BC_ZKHB27T8,C-001-S12,"Table 7 (suppliers, ISO/IEC 27001:2022)",network security management A.8.20–8.23,no
+FFATR2BC_ZKHB27T8,C-001-S13,Table 10,identity & Access management IAM,no
+FFATR2BC_ZKHB27T8,C-001-S13,Table 10,application and interface security AIS,no
+FFATR2BC_ZKHB27T8,C-001-S14,"Table 10 (digital services, CCM)",identity & Access management IAM,no
+FFATR2BC_ZKHB27T8,C-001-S14,"Table 7 (suppliers, ISO/IEC 27001:2022)",access control A.5.15–5.18,no
+FFATR2BC_ZKHB27T8,C-001-S15,"Table 7 (suppliers, ISO/IEC 27001:2022)",access control A.5.15–5.18,no
+FFATR2BC_ZKHB27T8,C-001-S15,"Table 7 (suppliers, ISO/IEC 27001:2022)",network security management A.8.20–8.23,no
+FFATR2BC_ZKHB27T8,C-001-S16,"Table 7 (suppliers, ISO/IEC 27001:2022)",access control A.5.15–5.18,no
+FFATR2BC_ZKHB27T8,C-001-S16,Table 3 (supplier relationship),Condition and authorisation for access to assets and information assets,no
+FFATR2BC_ZKHB27T8,C-001-S17,Table 8 (system integrators),"remote access SP.07.01, SP.07.04",no
+FFATR2BC_ZKHB27T8,C-001-S17,Table 8 (system integrators),network design SP.03.02,no
+FFATR2BC_ZKHB27T8,C-001-S18,"Table 10 (digital services, CCM)",encryption & key management EKM,no
+FFATR2BC_ZKHB27T8,C-001-S18,Table 8 (system integrators),"encryption to protect data, least privilege SP.03.08",no
+FFATR2BC_ZKHB27T8,C-001-S19,"Table 7 (suppliers, ISO/IEC 27001:2022)",access control A.5.15–5.18,no
+FFATR2BC_ZKHB27T8,C-001-S19,"Table 7 (suppliers, ISO/IEC 27001:2022)",secure development environment A.8.25,no
+FFATR2BC_ZKHB27T8,C-001-S20,"Table 7 (suppliers, ISO/IEC 27001:2022)",network security management A.8.20–8.23,no
+FFATR2BC_ZKHB27T8,C-001-S20,"Table 7 (suppliers, ISO/IEC 27001:2022)",access control A.5.15–5.18,no
+FFATR2BC_ZKHB27T8,C-001-S21,Table 10,protection from malware A.8.7,no
+FFATR2BC_ZKHB27T8,C-001-S21,Table 10,security incident management SEF,no
+FFATR2BC_ZKHB27T8,C-001-S22,Table 10,infrastructure & Virtualisation Security IVS,no
+FFATR2BC_ZKHB27T8,C-001-S22,Table 7,secure development environment A.8.25,no
 FFATR2BC_ZKHB27T8,C-003-S03,Table 10,identity & Access management IAM,no
 FFATR2BC_ZKHB27T8,C-003-S03,Table 8,"encryption to protect data, least privilege SP.03.08",no
 FFATR2BC_ZKHB27T8,C-003-S04,Table 10,application and interface security AIS,no
@@ -5383,7 +5524,7 @@ FFATR2BC_ZKHB27T8,SX-002-S04,"Table 4 (vulnerability handling, operators)",Evalu
 FFATR2BC_ZKHB27T8,SX-002-S07,Table 7,secure coding standards SI-2,no
 FFATR2BC_ZKHB27T8,SX-002-S07,Table 7,security requirements testing SVV-1,no
 FFATR2BC_ZKHB27T8,SX-002-S09,Table 4,Information resources shall be used to identify relevant technical vulnerabilities,no
-FFATR2BC_ZKHB27T8,SX-002-S09,Table 7,,withheld
+FFATR2BC_ZKHB27T8,SX-002-S09,Table 7,technical vulnerability management A.8.8,no
 FFATR2BC_ZKHB27T8,SX-003-S01,"Table 4 (vulnerability handling, operators)",Evaluate the risks of vulnerabilities for the own operational environment and have a documented and implemented maintenance policy available,no
 FFATR2BC_ZKHB27T8,SX-003-S01,"Table 4 (vulnerability handling, operators)",Information resources shall be used to identify relevant technical vulnerabilities,no
 FFATR2BC_ZKHB27T8,SX-003-S04,"Table 4 (vulnerability handling, operators)",Patches should be received from legitimate sources,no
@@ -5981,6 +6122,38 @@ FYCU6AB5_ZFEMULE5,C-001-S07,Design concept: Architect from the inside out,"First
 FYCU6AB5_ZFEMULE5,C-001-S08,Design concept: Inspect and log all traffic before acting,Establish full visibility of all activity across all layers from endpoints and the network to enable analytics that can detect suspicious activity.,no
 FYCU6AB5_ZFEMULE5,C-001-S08,Compromised supply chain example,"the device's allowed network connections under a Zero Trust design would employ a deny-by-default security policy, so any attempt to connect to other remote addresses",yes
 FYCU6AB5_ZFEMULE5,C-001-S08,Remote exploitation example,data encryption and digital rights management may offer additional protections by limiting which data can be accessed and the actions that can be taken with,yes
+FYCU6AB5_ZFEMULE5,C-001-S09,"Embrace Zero Trust guiding principles: Never trust, always verify",,withheld
+FYCU6AB5_ZFEMULE5,C-001-S09,Compromised supply chain,"Its privileges and access to data would be tightly controlled, minimized, and monitored; segmentation (macro and micro) would be enforced by policy; and analytics would",yes
+FYCU6AB5_ZFEMULE5,C-001-S10,Embrace Zero Trust guiding principles: Assume breach,,withheld
+FYCU6AB5_ZFEMULE5,C-001-S10,Compromised supply chain,"Its privileges and access to data would be tightly controlled, minimized, and monitored; segmentation (macro and micro) would be enforced by policy; and analytics would",yes
+FYCU6AB5_ZFEMULE5,C-001-S11,"Embrace Zero Trust guiding principles: Never trust, always verify",,withheld
+FYCU6AB5_ZFEMULE5,C-001-S11,Remote exploitation or insider threat,"the network is segmented, limiting both enumeration and lateral movement opportunities.",no
+FYCU6AB5_ZFEMULE5,C-001-S12,Compromised supply chain,"the device’s allowed network connections under a Zero Trust design would employ a deny-by-default security policy, so any attempt to connect to other remote addresses",yes
+FYCU6AB5_ZFEMULE5,C-001-S12,Inspect and log all traffic before acting,,withheld
+FYCU6AB5_ZFEMULE5,C-001-S14,"Embrace Zero Trust guiding principles: Never trust, always verify",,withheld
+FYCU6AB5_ZFEMULE5,C-001-S14,Embrace Zero Trust guiding principles: Verify explicitly,,withheld
+FYCU6AB5_ZFEMULE5,C-001-S14,Compromised user credentials,"the device is not known, so the device fails authentication and authorization checks and so access is denied and the malicious activity is logged.",no
+FYCU6AB5_ZFEMULE5,C-001-S15,"Embrace Zero Trust guiding principles: Never trust, always verify",,withheld
+FYCU6AB5_ZFEMULE5,C-001-S15,Compromised supply chain,"the device's allowed network connections under a Zero Trust design would employ a deny-by-default security policy, so any attempt to connect to other remote addresses",yes
+FYCU6AB5_ZFEMULE5,C-001-S16,Compromised user credentials,"Use of strong multi-factor authentication of users, which is recommended for Zero Trust environments, can make stealing the user's credentials more difficult in the first",yes
+FYCU6AB5_ZFEMULE5,C-001-S16,"Embrace Zero Trust guiding principles: Never trust, always verify",,withheld
+FYCU6AB5_ZFEMULE5,C-001-S16,Embrace Zero Trust guiding principles: Assume breach,,withheld
+FYCU6AB5_ZFEMULE5,C-001-S17,Compromised user credentials,"the device is not known, so the device fails authentication and authorization checks and so access is denied and the malicious activity is logged.",no
+FYCU6AB5_ZFEMULE5,C-001-S17,Remote exploitation or insider threat,"the network is segmented, limiting both enumeration and lateral movement opportunities.",no
+FYCU6AB5_ZFEMULE5,C-001-S17,Embrace Zero Trust guiding principles: Verify explicitly,,withheld
+FYCU6AB5_ZFEMULE5,C-001-S18,"Embrace Zero Trust guiding principles: Never trust, always verify",,withheld
+FYCU6AB5_ZFEMULE5,C-001-S18,Remote exploitation or insider threat,"access to data will be limited based on security policy, user role, and the user and device attributes.",no
+FYCU6AB5_ZFEMULE5,C-001-S19,"Embrace Zero Trust guiding principles: Never trust, always verify",,withheld
+FYCU6AB5_ZFEMULE5,C-001-S19,Embrace Zero Trust guiding principles: Assume breach,,withheld
+FYCU6AB5_ZFEMULE5,C-001-S20,Remote exploitation or insider threat,"the network is segmented, limiting both enumeration and lateral movement opportunities.",no
+FYCU6AB5_ZFEMULE5,C-001-S20,"Embrace Zero Trust guiding principles: Never trust, always verify",,withheld
+FYCU6AB5_ZFEMULE5,C-001-S20,Embrace Zero Trust guiding principles: Assume breach,,withheld
+FYCU6AB5_ZFEMULE5,C-001-S21,Leverage Zero Trust design concepts: Inspect and log all traffic before acting,,withheld
+FYCU6AB5_ZFEMULE5,C-001-S21,Embrace Zero Trust guiding principles: Assume breach,,withheld
+FYCU6AB5_ZFEMULE5,C-001-S21,Compromised supply chain,"Its privileges and access to data would be tightly controlled, minimized, and monitored; segmentation (macro and micro) would be enforced by policy; and analytics would",yes
+FYCU6AB5_ZFEMULE5,C-001-S22,Compromised supply chain,"Its privileges and access to data would be tightly controlled, minimized, and monitored; segmentation (macro and micro) would be enforced by policy; and analytics would",yes
+FYCU6AB5_ZFEMULE5,C-001-S22,Remote exploitation or insider threat,"the network is segmented, limiting both enumeration and lateral movement opportunities.",no
+FYCU6AB5_ZFEMULE5,C-001-S22,Embrace Zero Trust guiding principles: Assume breach,,withheld
 FYCU6AB5_ZFEMULE5,C-002-S01,Embrace Zero Trust guiding principles,Authenticate and explicitly authorize each to the least privilege required using dynamic security policies.,no
 FYCU6AB5_ZFEMULE5,C-002-S01,Remote exploitation example,"analytic capabilities continuously monitor for anomalous activity in accounts, devices, network activity, and data access.",no
 FYCU6AB5_ZFEMULE5,C-003-S01,Embrace Zero Trust guiding principles,Authenticate and explicitly authorize each to the least privilege required using dynamic security policies.,no
@@ -7077,6 +7250,47 @@ HNU3XYMG_4H32JLDR,C-001-S07,E.19,All access to and operations on system elements
 HNU3XYMG_4H32JLDR,C-001-S08,E.19,All access to and operations on system elements are mediated.,no
 HNU3XYMG_4H32JLDR,C-001-S08,E.1,Any salient anomaly in the system or its environment is detected in a timely manner that enables effective response action.,no
 HNU3XYMG_4H32JLDR,C-001-S08,OP-2.3,Monitor system operations for deviations from intended behavior and outcomes.,no
+HNU3XYMG_4H32JLDR,C-001-S09,E.16,Each system element is allocated privileges that are necessary to accomplish its specified functions but no more.,no
+HNU3XYMG_4H32JLDR,C-001-S09,E.19,All access to and operations on system elements are mediated.,no
+HNU3XYMG_4H32JLDR,C-001-S09,E.30,"A protection mechanism or feature must be tamper-proof (i.e., neither the protection functions nor the data that the functions depend on can be modified without",yes
+HNU3XYMG_4H32JLDR,C-001-S10,E.17,System resources are shared among system elements only when necessary and among as few elements as possible.,no
+HNU3XYMG_4H32JLDR,C-001-S10,E.12,Domains with distinctly different protection needs are physically or logically separated.,no
+HNU3XYMG_4H32JLDR,C-001-S10,E.1,Any salient anomaly in the system or its environment is detected in a timely manner that enables effective response action.,no
+HNU3XYMG_4H32JLDR,C-001-S11,E.14,Each system element has the capability to accomplish its required functions but no more.,no
+HNU3XYMG_4H32JLDR,C-001-S11,E.19,All access to and operations on system elements are mediated.,no
+HNU3XYMG_4H32JLDR,C-001-S11,E.12,Domains with distinctly different protection needs are physically or logically separated.,no
+HNU3XYMG_4H32JLDR,C-001-S12,E.12,Domains with distinctly different protection needs are physically or logically separated.,no
+HNU3XYMG_4H32JLDR,C-001-S12,E.19,All access to and operations on system elements are mediated.,no
+HNU3XYMG_4H32JLDR,C-001-S12,E.1,Any salient anomaly in the system or its environment is detected in a timely manner that enables effective response action.,no
+HNU3XYMG_4H32JLDR,C-001-S13,E.19,All access to and operations on system elements are mediated.,no
+HNU3XYMG_4H32JLDR,C-001-S14,E.16,Each system element is allocated privileges that are necessary to accomplish its specified functions but no more.,no
+HNU3XYMG_4H32JLDR,C-001-S14,E.1,Any salient anomaly in the system or its environment is detected in a timely manner that enables effective response action.,no
+HNU3XYMG_4H32JLDR,C-001-S15,E.16,Each system element is allocated privileges that are necessary to accomplish its specified functions but no more.,no
+HNU3XYMG_4H32JLDR,C-001-S15,E.12,Domains with distinctly different protection needs are physically or logically separated.,no
+HNU3XYMG_4H32JLDR,C-001-S15,E.19,All access to and operations on system elements are mediated.,no
+HNU3XYMG_4H32JLDR,C-001-S16,E.15,"System elements and other resources are available, accessible, and able to fulfill their design intent only for the time for which they are needed.",no
+HNU3XYMG_4H32JLDR,C-001-S16,E.16,Each system element is allocated privileges that are necessary to accomplish its specified functions but no more.,no
+HNU3XYMG_4H32JLDR,C-001-S16,E.1,Any salient anomaly in the system or its environment is detected in a timely manner that enables effective response action.,no
+HNU3XYMG_4H32JLDR,C-001-S17,E.12,Domains with distinctly different protection needs are physically or logically separated.,no
+HNU3XYMG_4H32JLDR,C-001-S17,E.16,Each system element is allocated privileges that are necessary to accomplish its specified functions but no more.,no
+HNU3XYMG_4H32JLDR,C-001-S17,E.19,All access to and operations on system elements are mediated.,no
+HNU3XYMG_4H32JLDR,C-001-S18,E.12,Domains with distinctly different protection needs are physically or logically separated.,no
+HNU3XYMG_4H32JLDR,C-001-S18,E.15,"System elements and other resources are available, accessible, and able to fulfill their design intent only for the time for which they are needed.",no
+HNU3XYMG_4H32JLDR,C-001-S18,E.16,Each system element is allocated privileges that are necessary to accomplish its specified functions but no more.,no
+HNU3XYMG_4H32JLDR,C-001-S19,E.16,Each system element is allocated privileges that are necessary to accomplish its specified functions but no more.,no
+HNU3XYMG_4H32JLDR,C-001-S19,E.10,Multiple authorized entities act in a coordinated manner before an operation on the system is allowed to occur.,no
+HNU3XYMG_4H32JLDR,C-001-S19,E.19,All access to and operations on system elements are mediated.,no
+HNU3XYMG_4H32JLDR,C-001-S19,E.1,Any salient anomaly in the system or its environment is detected in a timely manner that enables effective response action.,no
+HNU3XYMG_4H32JLDR,C-001-S20,E.12,Domains with distinctly different protection needs are physically or logically separated.,no
+HNU3XYMG_4H32JLDR,C-001-S20,E.16,Each system element is allocated privileges that are necessary to accomplish its specified functions but no more.,no
+HNU3XYMG_4H32JLDR,C-001-S20,E.19,All access to and operations on system elements are mediated.,no
+HNU3XYMG_4H32JLDR,C-001-S21,D.4.4,"The system audit logs and other system records often need stringent protection, such as using Distributed Privilege for access and storing the logs and records",yes
+HNU3XYMG_4H32JLDR,C-001-S21,E.1,Any salient anomaly in the system or its environment is detected in a timely manner that enables effective response action.,no
+HNU3XYMG_4H32JLDR,C-001-S21,E.12,Domains with distinctly different protection needs are physically or logically separated.,no
+HNU3XYMG_4H32JLDR,C-001-S22,E.12,Domains with distinctly different protection needs are physically or logically separated.,no
+HNU3XYMG_4H32JLDR,C-001-S22,D.4.2,"mechanisms (i.e., engineered features and devices) must satisfy four essential design criteria. They must be non-bypassable, evaluatable, always invoked, and tamper-proof",no
+HNU3XYMG_4H32JLDR,C-001-S22,E.30,"A protection mechanism or feature must be tamper-proof (i.e., neither the protection functions nor the data that the functions depend on can be modified without",yes
+HNU3XYMG_4H32JLDR,C-001-S22,E.8,The protection provided for a system element must be effective and uninterrupted during the time that the protection is required.,no
 HNU3XYMG_4H32JLDR,C-002-S01,E.16,Each system element is allocated privileges that are necessary to accomplish its specified functions but no more.,no
 HNU3XYMG_4H32JLDR,C-002-S01,E.19,All access to and operations on system elements are mediated.,no
 HNU3XYMG_4H32JLDR,C-002-S01,E.1,Any salient anomaly in the system or its environment is detected in a timely manner that enables effective response action.,no
@@ -8282,6 +8496,34 @@ KBVQZI4M_SY3TZANI,C-001-S07,digitalsikkerhetsforskriften § 10 andre ledd boksta
 KBVQZI4M_SY3TZANI,C-001-S07,digitalsikkerhetsforskriften § 12 første ledd bokstav a,"at adgang til lokaler og tilganger til nettverk og informasjonssystemer tildeles basert på roller, oppgaver, ansvar og tjenstlig behov, samt følge opp at personell ikke",yes
 KBVQZI4M_SY3TZANI,C-001-S08,digitalsikkerhetsforskriften § 10 andre ledd bokstav g,Sikkerhetsovervåkning av nettverk og informasjonssystemer for å avdekke hendelser.,no
 KBVQZI4M_SY3TZANI,C-001-S08,digitalsikkerhetsforskriften § 10 andre ledd bokstav c,Tiltak for segmentering av nettverk og tjenester basert på minste privilegiums prinsipp.,no
+KBVQZI4M_SY3TZANI,C-001-S09,digitalsikkerhetsforskriften § 10 andre ledd bokstav f,,withheld
+KBVQZI4M_SY3TZANI,C-001-S09,digitalsikkerhetsforskriften § 10 andre ledd bokstav b,Styring av og kontroll med tilganger til virksomhetens nettverk og informasjonssystemer.,no
+KBVQZI4M_SY3TZANI,C-001-S10,digitalsikkerhetsforskriften § 10 andre ledd bokstav c,Tiltak for segmentering av nettverk og tjenester basert på minste privilegiums prinsipp.,no
+KBVQZI4M_SY3TZANI,C-001-S10,digitalsikkerhetsforskriften § 10 andre ledd bokstav g,Sikkerhetsovervåkning av nettverk og informasjonssystemer for å avdekke hendelser.,no
+KBVQZI4M_SY3TZANI,C-001-S11,digitalsikkerhetsforskriften § 10 andre ledd bokstav a,Sterk autentisering for adgang til nettverk og informasjonssystemer.,no
+KBVQZI4M_SY3TZANI,C-001-S11,digitalsikkerhetsforskriften § 10 andre ledd bokstav c,Tiltak for segmentering av nettverk og tjenester basert på minste privilegiums prinsipp.,no
+KBVQZI4M_SY3TZANI,C-001-S11,digitalsikkerhetsforskriften § 14 andre ledd,"en tilbyder av en samfunnsviktig tjeneste skal, gjennom avtale eller på annen egnet måte, gjøre sikkerhetstiltakene gjeldende overfor leverandører som nevnt i første ledd, i",yes
+KBVQZI4M_SY3TZANI,C-001-S12,digitalsikkerhetsforskriften § 10 andre ledd bokstav g,Sikkerhetsovervåkning av nettverk og informasjonssystemer for å avdekke hendelser.,no
+KBVQZI4M_SY3TZANI,C-001-S13,digitalsikkerhetsforskriften § 10 andre ledd bokstav g,Sikkerhetsovervåkning av nettverk og informasjonssystemer for å avdekke hendelser.,no
+KBVQZI4M_SY3TZANI,C-001-S14,digitalsikkerhetsforskriften § 10 andre ledd bokstav b,Styring av og kontroll med tilganger til virksomhetens nettverk og informasjonssystemer.,no
+KBVQZI4M_SY3TZANI,C-001-S14,digitalsikkerhetsforskriften § 10 andre ledd bokstav g,Sikkerhetsovervåkning av nettverk og informasjonssystemer for å avdekke hendelser.,no
+KBVQZI4M_SY3TZANI,C-001-S15,digitalsikkerhetsforskriften § 10 andre ledd bokstav b,Styring av og kontroll med tilganger til virksomhetens nettverk og informasjonssystemer.,no
+KBVQZI4M_SY3TZANI,C-001-S15,digitalsikkerhetsforskriften § 10 andre ledd bokstav g,Sikkerhetsovervåkning av nettverk og informasjonssystemer for å avdekke hendelser.,no
+KBVQZI4M_SY3TZANI,C-001-S16,digitalsikkerhetsforskriften § 10 andre ledd bokstav a,Sterk autentisering for adgang til nettverk og informasjonssystemer.,no
+KBVQZI4M_SY3TZANI,C-001-S16,digitalsikkerhetsforskriften § 10 andre ledd bokstav b,Styring av og kontroll med tilganger til virksomhetens nettverk og informasjonssystemer.,no
+KBVQZI4M_SY3TZANI,C-001-S16,digitalsikkerhetsforskriften § 10 andre ledd bokstav g,Sikkerhetsovervåkning av nettverk og informasjonssystemer for å avdekke hendelser.,no
+KBVQZI4M_SY3TZANI,C-001-S17,digitalsikkerhetsforskriften § 10 andre ledd bokstav c,Tiltak for segmentering av nettverk og tjenester basert på minste privilegiums prinsipp.,no
+KBVQZI4M_SY3TZANI,C-001-S17,digitalsikkerhetsforskriften § 10 andre ledd bokstav a,Sterk autentisering for adgang til nettverk og informasjonssystemer.,no
+KBVQZI4M_SY3TZANI,C-001-S18,digitalsikkerhetsforskriften § 10 andre ledd bokstav b,Styring av og kontroll med tilganger til virksomhetens nettverk og informasjonssystemer.,no
+KBVQZI4M_SY3TZANI,C-001-S18,digitalsikkerhetsforskriften § 10 andre ledd bokstav g,Sikkerhetsovervåkning av nettverk og informasjonssystemer for å avdekke hendelser.,no
+KBVQZI4M_SY3TZANI,C-001-S19,digitalsikkerhetsforskriften § 10 andre ledd bokstav b,Styring av og kontroll med tilganger til virksomhetens nettverk og informasjonssystemer.,no
+KBVQZI4M_SY3TZANI,C-001-S19,digitalsikkerhetsforskriften § 12 første ledd bokstav a,"at adgang til lokaler og tilganger til nettverk og informasjonssystemer tildeles basert på roller, oppgaver, ansvar og tjenstlig behov, samt følge opp at personell ikke",yes
+KBVQZI4M_SY3TZANI,C-001-S19,digitalsikkerhetsforskriften § 10 andre ledd bokstav g,Sikkerhetsovervåkning av nettverk og informasjonssystemer for å avdekke hendelser.,no
+KBVQZI4M_SY3TZANI,C-001-S20,digitalsikkerhetsforskriften § 10 andre ledd bokstav c,Tiltak for segmentering av nettverk og tjenester basert på minste privilegiums prinsipp.,no
+KBVQZI4M_SY3TZANI,C-001-S20,digitalsikkerhetsforskriften § 10 andre ledd bokstav b,Styring av og kontroll med tilganger til virksomhetens nettverk og informasjonssystemer.,no
+KBVQZI4M_SY3TZANI,C-001-S21,digitalsikkerhetsforskriften § 10 andre ledd bokstav g,Sikkerhetsovervåkning av nettverk og informasjonssystemer for å avdekke hendelser.,no
+KBVQZI4M_SY3TZANI,C-001-S22,digitalsikkerhetsforskriften § 10 andre ledd bokstav c,Tiltak for segmentering av nettverk og tjenester basert på minste privilegiums prinsipp.,no
+KBVQZI4M_SY3TZANI,C-001-S22,digitalsikkerhetsforskriften § 10 andre ledd bokstav g,Sikkerhetsovervåkning av nettverk og informasjonssystemer for å avdekke hendelser.,no
 KBVQZI4M_SY3TZANI,C-003-S04,digitalsikkerhetsforskriften § 10 andre ledd bokstav b,Styring av og kontroll med tilganger til virksomhetens nettverk og informasjonssystemer.,no
 KBVQZI4M_SY3TZANI,C-003-S05,digitalsikkerhetsforskriften § 10 andre ledd bokstav d,Tiltak som skal sikre at nettverk og informasjonssystemer kan håndtere forskjellige typer avbrudd og gjenopprettes innen rimelig tid uten vesentlig reduksjon av tjenestens kvalitet.,no
 KBVQZI4M_SY3TZANI,C-004-S01,digitalsikkerhetsforskriften § 10 andre ledd bokstav a,Sterk autentisering for adgang til nettverk og informasjonssystemer.,no
@@ -8709,6 +8951,46 @@ NTCRTABU_PE293MCL,C-001-S07,5.2.2-1,"Developers and System Operators shall evalu
 NTCRTABU_PE293MCL,C-001-S08,5.4.2-2,,withheld
 NTCRTABU_PE293MCL,C-001-S08,5.4.2-1,"System Operators shall log system and user actions to support security compliance, incident investigations, and vulnerability remediation.",no
 NTCRTABU_PE293MCL,C-001-S08,5.1.2-6,Developers and System Operators shall ensure that the permissions granted to the AI system on other systems are only provided as required for functionality and,yes
+NTCRTABU_PE293MCL,C-001-S09,5.2.2-1,"Developers and System Operators shall evaluate their organization's access control frameworks and identify appropriate measures to secure APIs, models, data, and training and processing pipelines.",no
+NTCRTABU_PE293MCL,C-001-S09,5.2.1-2,"Developers, Data Custodians and System Operators shall have processes and tools to track, authenticate, manage version control and secure their assets due to the increased",yes
+NTCRTABU_PE293MCL,C-001-S09,5.2.4-1.2,Developers shall release cryptographic hashes for model components that are made available to other stakeholders to allow them to verify the authenticity of the components.,no
+NTCRTABU_PE293MCL,C-001-S10,5.2.2-3,The dedicated environments shall be backed by technical controls to ensure separation and principle of least privilege.,no
+NTCRTABU_PE293MCL,C-001-S10,5.4.2-2,"System Operators should analyse their logs to ensure that AI models continue to produce desired outputs and to detect anomalies, security breaches, or unexpected behaviour",yes
+NTCRTABU_PE293MCL,C-001-S10,5.4.2-1,"System Operators shall log system and user actions to support security compliance, incident investigations, and vulnerability remediation.",no
+NTCRTABU_PE293MCL,C-001-S11,5.2.2-1,"Developers and System Operators shall evaluate their organization's access control frameworks and identify appropriate measures to secure APIs, models, data, and training and processing pipelines.",no
+NTCRTABU_PE293MCL,C-001-S11,5.2.2-3,The dedicated environments shall be backed by technical controls to ensure separation and principle of least privilege.,no
+NTCRTABU_PE293MCL,C-001-S11,5.2.2-6,"Developers and System Operators should ensure that, where they are using cloud service operators to help to deliver the capability, their contractual agreements support compliance",yes
+NTCRTABU_PE293MCL,C-001-S12,5.1.2-6,Developers and System Operators shall ensure that the permissions granted to the AI system on other systems are only provided as required for functionality and,yes
+NTCRTABU_PE293MCL,C-001-S12,5.4.2-2,"System Operators should analyse their logs to ensure that AI models continue to produce desired outputs and to detect anomalies, security breaches, or unexpected behaviour",yes
+NTCRTABU_PE293MCL,C-001-S12,5.4.2-4,System Operators and Developers should monitor the performance of their models and system over time so that they can detect sudden or gradual changes in,yes
+NTCRTABU_PE293MCL,C-001-S13,5.2.2-2,"If a Developer offers an API to external customers or collaborators, they shall apply controls that mitigate attacks on the AI system via the API.",yes
+NTCRTABU_PE293MCL,C-001-S13,5.2.2-1,"Developers and System Operators shall evaluate their organization's access control frameworks and identify appropriate measures to secure APIs, models, data, and training and processing pipelines.",no
+NTCRTABU_PE293MCL,C-001-S14,5.2.2-1,"Developers and System Operators shall evaluate their organization's access control frameworks and identify appropriate measures to secure APIs, models, data, and training and processing pipelines.",no
+NTCRTABU_PE293MCL,C-001-S14,5.4.2-1,"System Operators shall log system and user actions to support security compliance, incident investigations, and vulnerability remediation.",no
+NTCRTABU_PE293MCL,C-001-S14,5.4.2-2,"System Operators should analyse their logs to ensure that AI models continue to produce desired outputs and to detect anomalies, security breaches, or unexpected behaviour",yes
+NTCRTABU_PE293MCL,C-001-S15,5.2.2-3,The dedicated environments shall be backed by technical controls to ensure separation and principle of least privilege.,no
+NTCRTABU_PE293MCL,C-001-S15,5.2.2-1,"Developers and System Operators shall evaluate their organization's access control frameworks and identify appropriate measures to secure APIs, models, data, and training and processing pipelines.",no
+NTCRTABU_PE293MCL,C-001-S15,5.1.2-6,Developers and System Operators shall ensure that the permissions granted to the AI system on other systems are only provided as required for functionality and,yes
+NTCRTABU_PE293MCL,C-001-S16,5.2.1-4,"Developers, System Operators, Data Custodians and End-users shall protect sensitive data, such as training or test data, against unauthorized access (see clause 5.2.3 for details",yes
+NTCRTABU_PE293MCL,C-001-S16,5.2.2-1,"Developers and System Operators shall evaluate their organization's access control frameworks and identify appropriate measures to secure APIs, models, data, and training and processing pipelines.",no
+NTCRTABU_PE293MCL,C-001-S16,5.4.2-1,"System Operators shall log system and user actions to support security compliance, incident investigations, and vulnerability remediation.",no
+NTCRTABU_PE293MCL,C-001-S17,5.2.2-3,The dedicated environments shall be backed by technical controls to ensure separation and principle of least privilege.,no
+NTCRTABU_PE293MCL,C-001-S17,5.2.1-4,"Developers, System Operators, Data Custodians and End-users shall protect sensitive data, such as training or test data, against unauthorized access (see clause 5.2.3 for details",yes
+NTCRTABU_PE293MCL,C-001-S17,5.2.2-1,"Developers and System Operators shall evaluate their organization's access control frameworks and identify appropriate measures to secure APIs, models, data, and training and processing pipelines.",no
+NTCRTABU_PE293MCL,C-001-S18,5.2.1-4,"Developers, System Operators, Data Custodians and End-users shall protect sensitive data, such as training or test data, against unauthorized access (see clause 5.2.3 for details",yes
+NTCRTABU_PE293MCL,C-001-S18,5.2.1-4.2,"Where training data or model weights could be confidential, Developers shall put proportionate protections in place.",no
+NTCRTABU_PE293MCL,C-001-S18,5.2.2-1,"Developers and System Operators shall evaluate their organization's access control frameworks and identify appropriate measures to secure APIs, models, data, and training and processing pipelines.",no
+NTCRTABU_PE293MCL,C-001-S19,5.2.3-1,Developers and System Operators shall follow secure software supply chain processes for their AI model and system development.,no
+NTCRTABU_PE293MCL,C-001-S19,5.2.2-1,"Developers and System Operators shall evaluate their organization's access control frameworks and identify appropriate measures to secure APIs, models, data, and training and processing pipelines.",no
+NTCRTABU_PE293MCL,C-001-S19,5.4.2-1,"System Operators shall log system and user actions to support security compliance, incident investigations, and vulnerability remediation.",no
+NTCRTABU_PE293MCL,C-001-S20,5.2.2-1,"Developers and System Operators shall evaluate their organization's access control frameworks and identify appropriate measures to secure APIs, models, data, and training and processing pipelines.",no
+NTCRTABU_PE293MCL,C-001-S20,5.2.2-3,The dedicated environments shall be backed by technical controls to ensure separation and principle of least privilege.,no
+NTCRTABU_PE293MCL,C-001-S21,5.4.2-1,"System Operators shall log system and user actions to support security compliance, incident investigations, and vulnerability remediation.",no
+NTCRTABU_PE293MCL,C-001-S21,5.4.2-2,"System Operators should analyse their logs to ensure that AI models continue to produce desired outputs and to detect anomalies, security breaches, or unexpected behaviour",yes
+NTCRTABU_PE293MCL,C-001-S21,5.2.1-3.1,System Operators should ensure that a known good state can be restored.,no
+NTCRTABU_PE293MCL,C-001-S22,5.2.2-3,,withheld
+NTCRTABU_PE293MCL,C-001-S22,5.1.2-2,"Developers and System Operators shall ensure that AI systems are designed and implemented to withstand adversarial AI attacks, unexpected inputs and AI system failure.",no
+NTCRTABU_PE293MCL,C-001-S22,5.4.2-1,"System Operators shall log system and user actions to support security compliance, incident investigations, and vulnerability remediation.",no
 NTCRTABU_PE293MCL,C-002-S01,5.1.4-1,"When designing an AI system, Developers and/or System Operators should incorporate and maintain capabilities to enable human oversight.",no
 NTCRTABU_PE293MCL,C-002-S01,5.1.4-3,"Where human oversight is a risk control, Developers and/or System Operators shall design, develop, verify and maintain technical measures to reduce the risk through such",yes
 NTCRTABU_PE293MCL,C-002-S01,5.4.2-2,"System Operators should analyse their logs to ensure that AI models continue to produce desired outputs and to detect anomalies, security breaches, or unexpected behaviour",yes
@@ -10721,6 +11003,60 @@ SHB39C38_9PIHPWHU,C-001-S08,PR.DS-02,"PR.DS-02: The confidentiality, integrity, 
 SHB39C38_9PIHPWHU,C-001-S08,DE.CM-01,DE.CM-01: Networks and network services are monitored to find potentially adverse events,no
 SHB39C38_9PIHPWHU,C-001-S08,DE.CM-09,"DE.CM-09: Computing hardware and software, runtime environments, and their data are monitored to find potentially adverse events",no
 SHB39C38_9PIHPWHU,C-001-S08,PR.IR-01,PR.IR-01: Networks and environments are protected from unauthorized logical access and usage,no
+SHB39C38_9PIHPWHU,C-001-S09,PR.PS-02,"PR.PS-02: Software is maintained, replaced, and removed commensurate with risk",no
+SHB39C38_9PIHPWHU,C-001-S09,PR.AA-05,,withheld
+SHB39C38_9PIHPWHU,C-001-S09,ID.RA-01,"ID.RA-01: Vulnerabilities in assets are identified, validated, and recorded",no
+SHB39C38_9PIHPWHU,C-001-S09,ID.RA-09,ID.RA-09: The authenticity and integrity of hardware and software are assessed prior to acquisition and use,no
+SHB39C38_9PIHPWHU,C-001-S09,PR.DS-01,"PR.DS-01: The confidentiality, integrity, and availability of data-at-rest are protected",no
+SHB39C38_9PIHPWHU,C-001-S10,PR.IR-01,PR.IR-01: Networks and environments are protected from unauthorized logical access and usage,no
+SHB39C38_9PIHPWHU,C-001-S10,DE.CM-09,"DE.CM-09: Computing hardware and software, runtime environments, and their data are monitored to find potentially adverse events",no
+SHB39C38_9PIHPWHU,C-001-S10,DE.CM-01,DE.CM-01: Networks and network services are monitored to find potentially adverse events,no
+SHB39C38_9PIHPWHU,C-001-S10,PR.PS-01,PR.PS-01: Configuration management practices are established and applied,no
+SHB39C38_9PIHPWHU,C-001-S11,PR.IR-01,PR.IR-01: Networks and environments are protected from unauthorized logical access and usage,no
+SHB39C38_9PIHPWHU,C-001-S11,PR.AA-05,,withheld
+SHB39C38_9PIHPWHU,C-001-S11,PR.PS-01,PR.PS-01: Configuration management practices are established and applied,no
+SHB39C38_9PIHPWHU,C-001-S11,DE.CM-06,DE.CM-06: External service provider activities and services are monitored to find potentially adverse events,no
+SHB39C38_9PIHPWHU,C-001-S12,PR.IR-01,PR.IR-01: Networks and environments are protected from unauthorized logical access and usage,no
+SHB39C38_9PIHPWHU,C-001-S12,DE.CM-01,DE.CM-01: Networks and network services are monitored to find potentially adverse events,no
+SHB39C38_9PIHPWHU,C-001-S12,DE.CM-09,"DE.CM-09: Computing hardware and software, runtime environments, and their data are monitored to find potentially adverse events",no
+SHB39C38_9PIHPWHU,C-001-S13,PR.AA-02,PR.AA-02: Identities are proofed and bound to credentials based on the context of interactions,no
+SHB39C38_9PIHPWHU,C-001-S13,PR.AA-01,"PR.AA-01: Identities and credentials for authorized users, services, and hardware are managed by the organization",no
+SHB39C38_9PIHPWHU,C-001-S13,PR.AA-03,"PR.AA-03: Users, services, and hardware are authenticated",no
+SHB39C38_9PIHPWHU,C-001-S14,PR.AA-05,,withheld
+SHB39C38_9PIHPWHU,C-001-S14,PR.AA-01,"PR.AA-01: Identities and credentials for authorized users, services, and hardware are managed by the organization",no
+SHB39C38_9PIHPWHU,C-001-S14,DE.CM-09,"DE.CM-09: Computing hardware and software, runtime environments, and their data are monitored to find potentially adverse events",no
+SHB39C38_9PIHPWHU,C-001-S14,DE.CM-06,DE.CM-06: External service provider activities and services are monitored to find potentially adverse events,no
+SHB39C38_9PIHPWHU,C-001-S15,PR.AA-05,,withheld
+SHB39C38_9PIHPWHU,C-001-S15,PR.IR-01,PR.IR-01: Networks and environments are protected from unauthorized logical access and usage,no
+SHB39C38_9PIHPWHU,C-001-S15,PR.PS-05,PR.PS-05: Installation and execution of unauthorized software are prevented,no
+SHB39C38_9PIHPWHU,C-001-S15,DE.CM-01,DE.CM-01: Networks and network services are monitored to find potentially adverse events,no
+SHB39C38_9PIHPWHU,C-001-S16,PR.AA-01,"PR.AA-01: Identities and credentials for authorized users, services, and hardware are managed by the organization",no
+SHB39C38_9PIHPWHU,C-001-S16,PR.AA-05,,withheld
+SHB39C38_9PIHPWHU,C-001-S16,PR.AA-03,"PR.AA-03: Users, services, and hardware are authenticated",no
+SHB39C38_9PIHPWHU,C-001-S16,PR.PS-04,PR.PS-04: Log records are generated and made available for continuous monitoring,no
+SHB39C38_9PIHPWHU,C-001-S17,PR.IR-01,PR.IR-01: Networks and environments are protected from unauthorized logical access and usage,no
+SHB39C38_9PIHPWHU,C-001-S17,PR.AA-01,"PR.AA-01: Identities and credentials for authorized users, services, and hardware are managed by the organization",no
+SHB39C38_9PIHPWHU,C-001-S17,PR.AA-03,"PR.AA-03: Users, services, and hardware are authenticated",no
+SHB39C38_9PIHPWHU,C-001-S17,PR.AA-05,,withheld
+SHB39C38_9PIHPWHU,C-001-S18,PR.AA-04,"PR.AA-04: Identity assertions are protected, conveyed, and verified",no
+SHB39C38_9PIHPWHU,C-001-S18,PR.AA-01,"PR.AA-01: Identities and credentials for authorized users, services, and hardware are managed by the organization",no
+SHB39C38_9PIHPWHU,C-001-S18,PR.DS-01,"PR.DS-01: The confidentiality, integrity, and availability of data-at-rest are protected",no
+SHB39C38_9PIHPWHU,C-001-S18,PR.AA-05,,withheld
+SHB39C38_9PIHPWHU,C-001-S19,PR.AA-05,,withheld
+SHB39C38_9PIHPWHU,C-001-S19,PR.AA-01,"PR.AA-01: Identities and credentials for authorized users, services, and hardware are managed by the organization",no
+SHB39C38_9PIHPWHU,C-001-S19,PR.PS-06,"PR.PS-06: Secure software development practices are integrated, and their performance is monitored throughout the software development life cycle",no
+SHB39C38_9PIHPWHU,C-001-S19,PR.PS-04,PR.PS-04: Log records are generated and made available for continuous monitoring,no
+SHB39C38_9PIHPWHU,C-001-S20,PR.IR-01,PR.IR-01: Networks and environments are protected from unauthorized logical access and usage,no
+SHB39C38_9PIHPWHU,C-001-S20,PR.AA-05,,withheld
+SHB39C38_9PIHPWHU,C-001-S20,PR.AA-01,"PR.AA-01: Identities and credentials for authorized users, services, and hardware are managed by the organization",no
+SHB39C38_9PIHPWHU,C-001-S21,PR.PS-04,PR.PS-04: Log records are generated and made available for continuous monitoring,no
+SHB39C38_9PIHPWHU,C-001-S21,RS.AN-07,"RS.AN-07: Incident data and metadata are collected, and their integrity and provenance are preserved",no
+SHB39C38_9PIHPWHU,C-001-S21,DE.CM-09,"DE.CM-09: Computing hardware and software, runtime environments, and their data are monitored to find potentially adverse events",no
+SHB39C38_9PIHPWHU,C-001-S21,DE.AE-03,DE.AE-03: Information is correlated from multiple sources,no
+SHB39C38_9PIHPWHU,C-001-S22,PR.IR-01,PR.IR-01: Networks and environments are protected from unauthorized logical access and usage,no
+SHB39C38_9PIHPWHU,C-001-S22,PR.DS-10,"PR.DS-10: The confidentiality, integrity, and availability of data-in-use are protected",no
+SHB39C38_9PIHPWHU,C-001-S22,PR.PS-05,PR.PS-05: Installation and execution of unauthorized software are prevented,no
+SHB39C38_9PIHPWHU,C-001-S22,PR.PS-01,PR.PS-01: Configuration management practices are established and applied,no
 SHB39C38_9PIHPWHU,C-002-S01,DE.CM-03,Personnel activity and technology usage are monitored to find potentially adverse events,no
 SHB39C38_9PIHPWHU,C-002-S01,PR.AA-05,"Access permissions, entitlements, and authorizations are defined in a policy, managed, enforced, and reviewed, and incorporate the principles of least privilege and separation of duties",no
 SHB39C38_9PIHPWHU,C-002-S02,ID.RA-07,"Changes and exceptions are managed, assessed for risk impact, recorded, and tracked",no
@@ -11267,7 +11603,7 @@ VSA8FGPS_5PUNJ53V,A-009-S06,Annex F Table 14,Integrity and confidentiality prote
 VSA8FGPS_5PUNJ53V,A-010-S01,Annex D.2,"The results of all penetration testing to determine that the TOE, in its operational environment, is resistant to an attacker possessing a basic attack potential,",yes
 VSA8FGPS_5PUNJ53V,A-010-S01,5.4,the ICT products used by the sector must be hardened and certified to withstand such attacks,no
 VSA8FGPS_5PUNJ53V,A-010-S02,Annex F Table 14,Prove authenticity of device or person that requests access,no
-VSA8FGPS_5PUNJ53V,A-010-S05,Chapter 8,The backend system deploys on a regular basis new access tokens with a limited lifetime or limited use to the registered mobile phones.,no
+VSA8FGPS_5PUNJ53V,A-010-S05,Chapter 8,,withheld
 VSA8FGPS_5PUNJ53V,A-010-S06,Annex F (9.1.2),Users should only be provided with access to the network and network services that they have been specifically authorized to use.,no
 VSA8FGPS_5PUNJ53V,A-010-S06,Annex F Table 14,Prove authenticity of device or person that requests access,no
 VSA8FGPS_5PUNJ53V,A-011-S01,9.1,improve detection by monitoring for specific artefacts known to belong to particular threat actors,no
@@ -11335,6 +11671,27 @@ VSA8FGPS_5PUNJ53V,B-033-S02,"Annex F, Table 14",,withheld
 VSA8FGPS_5PUNJ53V,B-033-S03,"Annex F, Table 14",Users should only be provided with access to the network and network services that they have been specifically authorized to use.,no
 VSA8FGPS_5PUNJ53V,B-033-S06,"Annex F, Table 14",Users should only be provided with access to the network and network services that they have been specifically authorized to use.,no
 VSA8FGPS_5PUNJ53V,B-033-S06,4.4.3,"They have to ensure that ICT infrastructure services, ICT products and ICT processes they purchase from their suppliers comply with sectoral certification requirements.",no
+VSA8FGPS_5PUNJ53V,C-001-S09,Annex F,"The TSF verifies the authenticity of a received encrypted update code package, decrypts the update code package after it is verified to be authentic, and",yes
+VSA8FGPS_5PUNJ53V,C-001-S09,Annex F,"The platform provides a unique identification of that specific instantiation of the platform, including all its parts and their versions. This information is cryptographically signed",yes
+VSA8FGPS_5PUNJ53V,C-001-S11,Annex F (ISO/IEC 27002 9.1.2),Users should only be provided with access to the network and network services that they have been specifically authorized to use.,no
+VSA8FGPS_5PUNJ53V,C-001-S12,Annex F (ISO/IEC 27002 9.1.2),Users should only be provided with access to the network and network services that they have been specifically authorized to use.,no
+VSA8FGPS_5PUNJ53V,C-001-S13,Annex F,Prove authenticity of device or person that requests access,no
+VSA8FGPS_5PUNJ53V,C-001-S14,Annex F (ISO/IEC 27002 9.1.2),Users should only be provided with access to the network and network services that they have been specifically authorized to use.,no
+VSA8FGPS_5PUNJ53V,C-001-S14,8.4.1,The logging is used to create user profiles on top of which a misbehaviour detection is installed.,no
+VSA8FGPS_5PUNJ53V,C-001-S15,Annex F (ISO/IEC 27002 9.1.2),Users should only be provided with access to the network and network services that they have been specifically authorized to use.,no
+VSA8FGPS_5PUNJ53V,C-001-S16,Annex F,Prove authenticity of device or person that requests access,no
+VSA8FGPS_5PUNJ53V,C-001-S16,8.4.1,At least a logging of access events is enabled in the backend system.,no
+VSA8FGPS_5PUNJ53V,C-001-S17,Annex F,"The platform provides a unique identification of that specific instantiation of the platform, including all its parts and their versions. This information is cryptographically signed",yes
+VSA8FGPS_5PUNJ53V,C-001-S17,Annex F,The TSF provides trusted channel functionality using secure cryptographic mechanisms for communications between the TSF and external entities. The TOE provides authentication of all communication,yes
+VSA8FGPS_5PUNJ53V,C-001-S18,Annex F,Integrity and confidentiality protected storage within a secure element,no
+VSA8FGPS_5PUNJ53V,C-001-S18,Annex F,Integrity and confidentiality protected processing of cryptographic assets within a secure element,no
+VSA8FGPS_5PUNJ53V,C-001-S19,Annex F (ISO/IEC 27002 9.1.2),Users should only be provided with access to the network and network services that they have been specifically authorized to use.,no
+VSA8FGPS_5PUNJ53V,C-001-S19,8.4.1,At least a logging of access events is enabled in the backend system.,no
+VSA8FGPS_5PUNJ53V,C-001-S20,Annex F (ISO/IEC 27002 9.1.2),Users should only be provided with access to the network and network services that they have been specifically authorized to use.,no
+VSA8FGPS_5PUNJ53V,C-001-S21,8.4.1,The logging is used to create user profiles on top of which a misbehaviour detection is installed.,no
+VSA8FGPS_5PUNJ53V,C-001-S21,Annex F (ISO/IEC 27002 12.2.1),"Detection, prevention and recovery controls to protect against malware should be implemented, combined with appropriate user awareness.",no
+VSA8FGPS_5PUNJ53V,C-001-S22,5.5.2,"CSL5: Implementation on a platform, which is equipped with controls against logical and physical attacks on hardware and the OS.",no
+VSA8FGPS_5PUNJ53V,C-001-S22,Annex F,Integrity and confidentiality protected processing of cryptographic assets within a dedicated hardened execution environment,no
 VSA8FGPS_5PUNJ53V,C-003-S03,4.1,"the owners of each of the building blocks must carry out risk assessments, implement appropriate controls, and support evaluation and certification at their level.",no
 VSA8FGPS_5PUNJ53V,C-003-S05,4.1,"the owners of each of the building blocks must carry out risk assessments, implement appropriate controls, and support evaluation and certification at their level.",no
 VSA8FGPS_5PUNJ53V,C-004-S01,4.1,"the owners of each of the building blocks must carry out risk assessments, implement appropriate controls, and support evaluation and certification at their level.",no
@@ -12118,6 +12475,40 @@ XYXMBF3U_E9CM2TMI,C-001-S07,"Appendix D, Table D-4 (Predefined Segmentation)",Em
 XYXMBF3U_E9CM2TMI,C-001-S08,SC-7(10),BOUNDARY PROTECTION | PREVENT EXFILTRATION,no
 XYXMBF3U_E9CM2TMI,C-001-S08,SI-4(18),SYSTEM MONITORING | ANALYZE TRAFFIC AND COVERT EXFILTRATION,no
 XYXMBF3U_E9CM2TMI,C-001-S08,"Appendix F, Table F-15 (Analyze Outgoing Traffic Patterns)",Analyze outgoing traffic for patterns of behavior that indicate adversary communications.,no
+XYXMBF3U_E9CM2TMI,C-001-S09,Appendix D.4 Substantiated Integrity (Integrity Checks),Validate the trustworthiness of a cloud server platform before launching a container worker node and periodically during container runtime execution.,no
+XYXMBF3U_E9CM2TMI,C-001-S09,Appendix D.4 Substantiated Integrity (Provenance Tracking),Implement code signing.,no
+XYXMBF3U_E9CM2TMI,C-001-S09,Appendix D.4 Privilege Restriction (Trust-Based Privilege Management),"Define, assign, and maintain privileges based on established trust criteria consistent with the principles of least privilege.",no
+XYXMBF3U_E9CM2TMI,C-001-S10,Appendix D.3 Segmentation,Define and separate system elements based on criticality and trustworthiness.,no
+XYXMBF3U_E9CM2TMI,C-001-S10,Appendix D.4 Segmentation (Predefined Segmentation),Employ process isolation.,no
+XYXMBF3U_E9CM2TMI,C-001-S10,Appendix D.3 Analytic Monitoring,Monitor and analyze a wide range of properties and behaviors on an ongoing basis and in a coordinated way.,no
+XYXMBF3U_E9CM2TMI,C-001-S11,Appendix D.4 Realignment (Restriction),"Remove or disable unneeded functionality or connectivity, or add mechanisms to reduce the chance of vulnerability or failure.",no
+XYXMBF3U_E9CM2TMI,C-001-S11,Appendix D.3 Segmentation,Define and separate system elements based on criticality and trustworthiness.,no
+XYXMBF3U_E9CM2TMI,C-001-S12,Appendix D.3 Analytic Monitoring,Monitor and analyze a wide range of properties and behaviors on an ongoing basis and in a coordinated way.,no
+XYXMBF3U_E9CM2TMI,C-001-S12,Appendix D.4 Realignment (Restriction),"Remove or disable unneeded functionality or connectivity, or add mechanisms to reduce the chance of vulnerability or failure.",no
+XYXMBF3U_E9CM2TMI,C-001-S14,Table D-4 Trust-Based Privilege Management,Implement least privilege.,no
+XYXMBF3U_E9CM2TMI,C-001-S14,Table D-4 Trust-Based Privilege Management,Employ location-based account restrictions.,no
+XYXMBF3U_E9CM2TMI,C-001-S14,CM2016,"Monitor activity associated with cloud accounts for indications of unusual, unauthorized, or suspicious use.",no
+XYXMBF3U_E9CM2TMI,C-001-S15,CM1164,Configure administrator access to resources based on active defense strategies.,no
+XYXMBF3U_E9CM2TMI,C-001-S15,Table D-4 Purposing,Use allow-listing to restrict communications to a specified set of addresses.,no
+XYXMBF3U_E9CM2TMI,C-001-S16,Table D-4 Non-Persistent Information,Use one-time passwords or nonces.,no
+XYXMBF3U_E9CM2TMI,C-001-S16,Table D-4 Trust-Based Privilege Management,Implement least privilege.,no
+XYXMBF3U_E9CM2TMI,C-001-S16,CM2021,Monitor and analyze activity associated with user accounts for indications of unusual or suspicious use.,no
+XYXMBF3U_E9CM2TMI,C-001-S17,CM1125,Authenticate a device before establishing a connection to it.,no
+XYXMBF3U_E9CM2TMI,C-001-S17,CM1124,"Minimize the lifespan or retention of data, and ensure that deleted data cannot be retrieved.",no
+XYXMBF3U_E9CM2TMI,C-001-S17,Table D-4 Predefined Segmentation,Separate subnets that connect to different security domains.,no
+XYXMBF3U_E9CM2TMI,C-001-S18,Appendix D.4 Deception (Obfuscation),Encrypt authenticators.,no
+XYXMBF3U_E9CM2TMI,C-001-S18,Appendix D.5.2.10 Manage Resources (Risk-) Adaptively,"Changing the frequency of planned changes (e.g., resetting encryption keys, switching between operating systems or platforms, or changing the configuration of internal routers)",no
+XYXMBF3U_E9CM2TMI,C-001-S18,Appendix D.3 Segmentation,Define and separate system elements based on criticality and trustworthiness.,no
+XYXMBF3U_E9CM2TMI,C-001-S19,Table D-4 Trust-Based Privilege Management,"Define, assign, and maintain privileges based on established trust criteria consistent with the principles of least privilege.",no
+XYXMBF3U_E9CM2TMI,C-001-S19,Appendix D.3 Analytic Monitoring,Monitor and analyze a wide range of properties and behaviors on an ongoing basis and in a coordinated way.,no
+XYXMBF3U_E9CM2TMI,C-001-S20,Table D-4 Purposing,Use allow-listing to restrict communications to a specified set of addresses.,no
+XYXMBF3U_E9CM2TMI,C-001-S20,Table D-4 Trust-Based Privilege Management,Implement least privilege.,no
+XYXMBF3U_E9CM2TMI,C-001-S21,CM1158,Provide mechanisms to protect audit data from modification or observation.,no
+XYXMBF3U_E9CM2TMI,C-001-S21,Appendix E AU-9(2),PROTECTION OF AUDIT INFORMATION | STORE ON SEPARATE PHYSICAL SYSTEMS AND COMPONENTS,no
+XYXMBF3U_E9CM2TMI,C-001-S21,Table D-4 Forensic and Behavioral Analysis,"Analyze indicators and adversary TTPs, including observed behavior, malware, and other artifacts left behind by adverse events.",no
+XYXMBF3U_E9CM2TMI,C-001-S22,Table D-4 Predefined Segmentation,Implement sandboxes and other confined environments.,no
+XYXMBF3U_E9CM2TMI,C-001-S22,CM1155,Validate information output from processes or applications against defined criteria.,no
+XYXMBF3U_E9CM2TMI,C-001-S22,Table D-4 Integrity Checks,Use non-modifiable executables.,no
 XYXMBF3U_E9CM2TMI,C-002-S01,Privilege Restriction (Table D-2),,withheld
 XYXMBF3U_E9CM2TMI,C-002-S01,Behavior Validation (Table D-4),"Validate the behavior of a system, service, device, or individual user against defined or emergent criteria (e.g., requirements, patterns of prior usage).",no
 XYXMBF3U_E9CM2TMI,C-002-S02,Information Diversity (Table D-4),Use of information from different sources can reveal adversary injection or modification.,no
@@ -12706,6 +13097,21 @@ YJNSEJS5_PSLSG37C,B-026-S10,3.3.3,designing systems under the assumption that th
 YJNSEJS5_PSLSG37C,C-001-S01,3.3.3 Indirect mitigations,or the ability to take undesirable actions may leak that data or take those actions [266].,no
 YJNSEJS5_PSLSG37C,C-001-S07,3.3.3 Indirect mitigations,deployers can design AI systems under the assumption that models with access to sensitive data or the ability to take undesirable actions may leak that,yes
 YJNSEJS5_PSLSG37C,C-001-S08,3.3.3 Indirect mitigations,deployers can design AI systems under the assumption that models with access to sensitive data or the ability to take undesirable actions may leak that,yes
+YJNSEJS5_PSLSG37C,C-001-S09,3.3.3,deployers can design AI systems under the assumption that models with access to sensitive data or the ability to take undesirable actions may leak that,yes
+YJNSEJS5_PSLSG37C,C-001-S09,3.4.4,using multiple LLMs with different permissions,no
+YJNSEJS5_PSLSG37C,C-001-S10,3.4.4,using multiple LLMs with different permissions,no
+YJNSEJS5_PSLSG37C,C-001-S11,3.3.3,deployers can design AI systems under the assumption that models with access to sensitive data or the ability to take undesirable actions may leak that,yes
+YJNSEJS5_PSLSG37C,C-001-S14,3.3.3,deployers can design AI systems under the assumption that models with access to sensitive data or the ability to take undesirable actions may leak that,yes
+YJNSEJS5_PSLSG37C,C-001-S14,3.4.4,using multiple LLMs with different permissions,no
+YJNSEJS5_PSLSG37C,C-001-S15,3.4.4,using multiple LLMs with different permissions,no
+YJNSEJS5_PSLSG37C,C-001-S16,3.3.3,deployers can design AI systems under the assumption that models with access to sensitive data or the ability to take undesirable actions may leak that,yes
+YJNSEJS5_PSLSG37C,C-001-S17,3.4.4,using multiple LLMs with different permissions,no
+YJNSEJS5_PSLSG37C,C-001-S18,3.3.3,deployers can design AI systems under the assumption that models with access to sensitive data or the ability to take undesirable actions may leak that,yes
+YJNSEJS5_PSLSG37C,C-001-S18,3.2.3,understanding models as untrusted system components and designing applications such that risks from attacker-controlled model outputs are reduced,no
+YJNSEJS5_PSLSG37C,C-001-S19,3.4.4,using multiple LLMs with different permissions,no
+YJNSEJS5_PSLSG37C,C-001-S20,3.3.3,deployers can design AI systems under the assumption that models with access to sensitive data or the ability to take undesirable actions may leak that,yes
+YJNSEJS5_PSLSG37C,C-001-S22,3.3.3,deployers can design AI systems under the assumption that models with access to sensitive data or the ability to take undesirable actions may leak that,yes
+YJNSEJS5_PSLSG37C,C-001-S22,3.4.4,allowing models to interact with potentially untrustworthy data sources only through well-defined interfaces,no
 YJNSEJS5_PSLSG37C,C-002-S01,3.4.4,,withheld
 YJNSEJS5_PSLSG37C,C-003-S01,3.3.3 Indirect mitigations,or the ability to take undesirable actions may leak that data or take those actions [266].,no
 YJNSEJS5_PSLSG37C,C-003-S01,3.4.4,,withheld
@@ -13617,6 +14023,28 @@ YZU6B3F5_FWK5U4MY,C-001-S07,Ch.7 Suppliers,"ensure that the infrastructure used 
 YZU6B3F5_FWK5U4MY,C-001-S07,Ch.7 (footnote 51),,withheld
 YZU6B3F5_FWK5U4MY,C-001-S08,Ch.7 (footnote 51),(e) encrypting data; f) monitoring operations and alerts and responding to attempted and actual cyber incidents.,no
 YZU6B3F5_FWK5U4MY,C-001-S08,Ch.7 Customers,"classify assets and information that are shared with or accessible to suppliers, and define relevant procedures for their access and handling",no
+YZU6B3F5_FWK5U4MY,C-001-S09,§7 suppliers (infrastructure),"ensure that the infrastructure used to design, develop, manufacture, and deliver products, components and services follows cybersecurity practices",no
+YZU6B3F5_FWK5U4MY,C-001-S09,§7 suppliers (vulnerability mgmt),the monitoring of security vulnerabilities reported by internal and external sources that includes used third-party components,no
+YZU6B3F5_FWK5U4MY,C-001-S09,§7 suppliers (origin data),"maintain accurate and up-to-date data on the origin of software code or components, and on controls applied to internal and third-party software components, tools, and",yes
+YZU6B3F5_FWK5U4MY,C-001-S09,§7 fn.51,,withheld
+YZU6B3F5_FWK5U4MY,C-001-S10,"Section 7, footnote 51",(a) separation of environments,no
+YZU6B3F5_FWK5U4MY,C-001-S10,"Section 7, footnote 51",f) monitoring operations and alerts and responding to attempted and actual cyber incidents,no
+YZU6B3F5_FWK5U4MY,C-001-S12,"Section 7, footnote 51",f) monitoring operations and alerts and responding to attempted and actual cyber incidents,no
+YZU6B3F5_FWK5U4MY,C-001-S14,§7 fn.51 (c),"(c) establishing multi-factor, risk-based authentication and conditional access across the organisation;",no
+YZU6B3F5_FWK5U4MY,C-001-S15,§7 fn.51 (c),"(c) establishing multi-factor, risk-based authentication and conditional access across the organisation;",no
+YZU6B3F5_FWK5U4MY,C-001-S15,§7 fn.51 (f),f) monitoring operations and alerts and responding to attempted and actual cyber incidents,no
+YZU6B3F5_FWK5U4MY,C-001-S16,§7 fn.51 (c),"(c) establishing multi-factor, risk-based authentication and conditional access across the organisation;",no
+YZU6B3F5_FWK5U4MY,C-001-S16,§7 suppliers (audits),perform regular audits to ensure that the above measures are met,no
+YZU6B3F5_FWK5U4MY,C-001-S17,§7 fn.51 (a)(c),"(a) separation of environments; (b) auditing trust relationships; (c) establishing multi-factor, risk-based authentication and conditional access across the organisation;",no
+YZU6B3F5_FWK5U4MY,C-001-S18,"Section 7, footnote 51",(e) encrypting data,no
+YZU6B3F5_FWK5U4MY,C-001-S18,Section 7 (suppliers),perform regular audits to ensure that the above measures are met,no
+YZU6B3F5_FWK5U4MY,C-001-S19,§7 fn.53,"the use of automated tools, or comparable processes, to maintain trusted source code supply chains, thereby ensuring the integrity of the code",no
+YZU6B3F5_FWK5U4MY,C-001-S19,§7 fn.51 (c),"(c) establishing multi-factor, risk-based authentication and conditional access across the organisation;",no
+YZU6B3F5_FWK5U4MY,C-001-S19,§7 suppliers (audits),perform regular audits to ensure that the above measures are met,no
+YZU6B3F5_FWK5U4MY,C-001-S20,§7 fn.51 (a)(c),"(a) separation of environments; (b) auditing trust relationships; (c) establishing multi-factor, risk-based authentication and conditional access across the organisation;",no
+YZU6B3F5_FWK5U4MY,C-001-S21,"Section 7, footnote 51",f) monitoring operations and alerts and responding to attempted and actual cyber incidents,no
+YZU6B3F5_FWK5U4MY,C-001-S21,Section 7 (suppliers),perform regular audits to ensure that the above measures are met,no
+YZU6B3F5_FWK5U4MY,C-001-S22,§7 fn.51 (a),,withheld
 YZU6B3F5_FWK5U4MY,C-003-S05,Ch.7 patch management,applying rollback procedures and effective back-up & restore processes.,no
 YZU6B3F5_FWK5U4MY,C-004-S01,Ch.7 footnote 51(c),"establishing multi-factor, risk-based authentication and conditional access across the organisation",no
 YZU6B3F5_FWK5U4MY,C-004-S02,Ch.7 vulnerability management,"the monitoring of security vulnerabilities reported by internal and external sources that includes used third-party components,",no
@@ -13851,6 +14279,27 @@ asd-nsa-ai-ml-supply-chain-2026-03,C-001-S05,AI software: Mitigations,Deploy sof
 asd-nsa-ai-ml-supply-chain-2026-03,C-001-S07,AI software — Mitigations,Deploy software securely by adhering to best practices such as least-privilege to ensure software is given only the minimum required permissions for its task.,no
 asd-nsa-ai-ml-supply-chain-2026-03,C-001-S07,AI infrastructure and hardware — Mitigations,,withheld
 asd-nsa-ai-ml-supply-chain-2026-03,C-001-S08,"AI software, Mitigations",Deploy software securely by adhering to best practices such as least-privilege to ensure software is given only the minimum required permissions for its task.,no
+asd-nsa-ai-ml-supply-chain-2026-03,C-001-S09,Machine learning models / Model verification and provenance,"Maintain a model registry of specific model versions that have been verified, tested, and approved for use. Verify and test each new version prior to",yes
+asd-nsa-ai-ml-supply-chain-2026-03,C-001-S09,AI software / Mitigations,"Validate the integrity of software with checksums, digital signatures or provenance tracking to ensure it has not been tampered with during retrieval.",no
+asd-nsa-ai-ml-supply-chain-2026-03,C-001-S09,AI software / Mitigations,Deploy software securely by adhering to best practices such as least-privilege to ensure software is given only the minimum required permissions for its task.,no
+asd-nsa-ai-ml-supply-chain-2026-03,C-001-S09,AI software / Mitigations,,withheld
+asd-nsa-ai-ml-supply-chain-2026-03,C-001-S10,AI infrastructure and hardware mitigations,Follow existing security processes and practices to ensure hardware is free from malicious content and appropriately segmented within the network.,no
+asd-nsa-ai-ml-supply-chain-2026-03,C-001-S10,Input-output monitoring,Ongoing input and output monitoring can be used to detect unusual or undesired model behaviour.,no
+asd-nsa-ai-ml-supply-chain-2026-03,C-001-S11,AI infrastructure and hardware / Mitigations,Follow existing security processes and practices to ensure hardware is free from malicious content and appropriately segmented within the network.,no
+asd-nsa-ai-ml-supply-chain-2026-03,C-001-S11,AI software / Mitigations,Deploy software securely by adhering to best practices such as least-privilege to ensure software is given only the minimum required permissions for its task.,no
+asd-nsa-ai-ml-supply-chain-2026-03,C-001-S14,AI software / Mitigations,Deploy software securely by adhering to best practices such as least-privilege to ensure software is given only the minimum required permissions for its task.,no
+asd-nsa-ai-ml-supply-chain-2026-03,C-001-S14,AI infrastructure and hardware / Mitigations,,withheld
+asd-nsa-ai-ml-supply-chain-2026-03,C-001-S15,AI software / Mitigations,Deploy software securely by adhering to best practices such as least-privilege to ensure software is given only the minimum required permissions for its task.,no
+asd-nsa-ai-ml-supply-chain-2026-03,C-001-S16,Overview / Securing your organisation's data,"considering who has access to sensitive data, model inventory, data storage, infrastructure or hardware",no
+asd-nsa-ai-ml-supply-chain-2026-03,C-001-S16,AI software / Mitigations,Deploy software securely by adhering to best practices such as least-privilege to ensure software is given only the minimum required permissions for its task.,no
+asd-nsa-ai-ml-supply-chain-2026-03,C-001-S16,AI software / Mitigations,,withheld
+asd-nsa-ai-ml-supply-chain-2026-03,C-001-S17,AI infrastructure and hardware / Mitigations,Follow existing security processes and practices to ensure hardware is free from malicious content and appropriately segmented within the network.,no
+asd-nsa-ai-ml-supply-chain-2026-03,C-001-S19,AI software / Mitigations,Deploy software securely by adhering to best practices such as least-privilege to ensure software is given only the minimum required permissions for its task.,no
+asd-nsa-ai-ml-supply-chain-2026-03,C-001-S20,AI software / Mitigations,Deploy software securely by adhering to best practices such as least-privilege to ensure software is given only the minimum required permissions for its task.,no
+asd-nsa-ai-ml-supply-chain-2026-03,C-001-S20,Overview / Securing your organisation's data,"considering who has access to sensitive data, model inventory, data storage, infrastructure or hardware",no
+asd-nsa-ai-ml-supply-chain-2026-03,C-001-S21,Machine learning models / Input-output monitoring,"Ongoing input and output monitoring can be used to detect unusual or undesired model behaviour. It can identify malicious use, such as evasion attacks or",yes
+asd-nsa-ai-ml-supply-chain-2026-03,C-001-S21,AI infrastructure and hardware / Mitigations,,withheld
+asd-nsa-ai-ml-supply-chain-2026-03,C-001-S22,Machine learning models / Input-output monitoring,"Ongoing input and output monitoring can be used to detect unusual or undesired model behaviour. It can identify malicious use, such as evasion attacks or",yes
 asd-nsa-ai-ml-supply-chain-2026-03,C-002-S01,Machine learning models - Input-output monitoring,Ongoing input and output monitoring can be used to detect unusual or undesired model behaviour.,no
 asd-nsa-ai-ml-supply-chain-2026-03,C-003-S01,AI software - Mitigations,Deploy software securely by adhering to best practices such as least-privilege to ensure software is given only the minimum required permissions for its task.,no
 asd-nsa-ai-ml-supply-chain-2026-03,C-003-S01,Machine learning models - Input-output monitoring,Ongoing input and output monitoring can be used to detect unusual or undesired model behaviour.,no
@@ -14511,6 +14960,25 @@ csa-sg-commissioners-letter-frontier-ai-2026-05,C-001-S07,2,"whether visibility 
 csa-sg-commissioners-letter-frontier-ai-2026-05,C-001-S07,3,"whether vulnerability management, patching, monitoring and incident response arrangements are fast enough as adversary tempo accelerates;",no
 csa-sg-commissioners-letter-frontier-ai-2026-05,C-001-S08,2,"whether visibility over critical systems, internet-facing assets, privileged access, cloud services and third-party dependencies remains sufficient;",no
 csa-sg-commissioners-letter-frontier-ai-2026-05,C-001-S08,3,"whether vulnerability management, patching, monitoring and incident response arrangements are fast enough as adversary tempo accelerates;",no
+csa-sg-commissioners-letter-frontier-ai-2026-05,C-001-S09,Review consideration 3,"whether vulnerability management, patching, monitoring and incident response arrangements are fast enough as adversary tempo accelerates;",no
+csa-sg-commissioners-letter-frontier-ai-2026-05,C-001-S09,Review consideration 2,"whether visibility over critical systems, internet-facing assets, privileged access, cloud services and third-party dependencies remains sufficient;",no
+csa-sg-commissioners-letter-frontier-ai-2026-05,C-001-S10,Review consideration 4,"whether your organisation's own use of AI is appropriately governed, particularly where AI tools interact with sensitive data, software development, cybersecurity operations or critical systems;",no
+csa-sg-commissioners-letter-frontier-ai-2026-05,C-001-S10,Review consideration 2,"whether visibility over critical systems, internet-facing assets, privileged access, cloud services and third-party dependencies remains sufficient;",no
+csa-sg-commissioners-letter-frontier-ai-2026-05,C-001-S11,Review consideration 2,"whether visibility over critical systems, internet-facing assets, privileged access, cloud services and third-party dependencies remains sufficient;",no
+csa-sg-commissioners-letter-frontier-ai-2026-05,C-001-S12,Review consideration 3,"whether vulnerability management, patching, monitoring and incident response arrangements are fast enough as adversary tempo accelerates;",no
+csa-sg-commissioners-letter-frontier-ai-2026-05,C-001-S12,Review consideration 2,"whether visibility over critical systems, internet-facing assets, privileged access, cloud services and third-party dependencies remains sufficient;",no
+csa-sg-commissioners-letter-frontier-ai-2026-05,C-001-S14,Review consideration 2,"whether visibility over critical systems, internet-facing assets, privileged access, cloud services and third-party dependencies remains sufficient;",no
+csa-sg-commissioners-letter-frontier-ai-2026-05,C-001-S14,Review consideration 3,"whether vulnerability management, patching, monitoring and incident response arrangements are fast enough as adversary tempo accelerates;",no
+csa-sg-commissioners-letter-frontier-ai-2026-05,C-001-S15,Review consideration 2,"whether visibility over critical systems, internet-facing assets, privileged access, cloud services and third-party dependencies remains sufficient;",no
+csa-sg-commissioners-letter-frontier-ai-2026-05,C-001-S16,Review consideration 2,"whether visibility over critical systems, internet-facing assets, privileged access, cloud services and third-party dependencies remains sufficient;",no
+csa-sg-commissioners-letter-frontier-ai-2026-05,C-001-S17,Review consideration 2,"whether visibility over critical systems, internet-facing assets, privileged access, cloud services and third-party dependencies remains sufficient;",no
+csa-sg-commissioners-letter-frontier-ai-2026-05,C-001-S18,Review consideration 2,"whether visibility over critical systems, internet-facing assets, privileged access, cloud services and third-party dependencies remains sufficient;",no
+csa-sg-commissioners-letter-frontier-ai-2026-05,C-001-S19,Review consideration 2,"whether visibility over critical systems, internet-facing assets, privileged access, cloud services and third-party dependencies remains sufficient;",no
+csa-sg-commissioners-letter-frontier-ai-2026-05,C-001-S19,Review consideration 5,"where AI can be used to augment current cybersecurity operations, including review of your organisation's code security.",no
+csa-sg-commissioners-letter-frontier-ai-2026-05,C-001-S20,Review consideration 2,"whether visibility over critical systems, internet-facing assets, privileged access, cloud services and third-party dependencies remains sufficient;",no
+csa-sg-commissioners-letter-frontier-ai-2026-05,C-001-S21,Review consideration 3,"whether vulnerability management, patching, monitoring and incident response arrangements are fast enough as adversary tempo accelerates;",no
+csa-sg-commissioners-letter-frontier-ai-2026-05,C-001-S21,Review consideration 2,"whether visibility over critical systems, internet-facing assets, privileged access, cloud services and third-party dependencies remains sufficient;",no
+csa-sg-commissioners-letter-frontier-ai-2026-05,C-001-S22,Review consideration 4,"whether your organisation's own use of AI is appropriately governed, particularly where AI tools interact with sensitive data, software development, cybersecurity operations or critical systems;",no
 csa-sg-commissioners-letter-frontier-ai-2026-05,C-002-S01,Review point 4 (p.2),"whether your organisation’s own use of AI is appropriately governed, particularly where AI tools interact with sensitive data, software development, cybersecurity operations or critical systems;",yes
 csa-sg-commissioners-letter-frontier-ai-2026-05,C-002-S02,Review point 4 (p.2),"whether your organisation’s own use of AI is appropriately governed, particularly where AI tools interact with sensitive data, software development, cybersecurity operations or critical systems;",yes
 csa-sg-commissioners-letter-frontier-ai-2026-05,C-003-S01,Review point 4 (p.2),"whether your organisation’s own use of AI is appropriately governed, particularly where AI tools interact with sensitive data, software development, cybersecurity operations or critical systems;",yes
@@ -15962,6 +16430,58 @@ iso27001-2022,C-001-S07,8.31,"Development, testing and production environments s
 iso27001-2022,C-001-S08,8.12,"Data leakage prevention measures shall be applied to systems, networks and any other devices that process, store or transmit sensitive information.",no
 iso27001-2022,C-001-S08,5.14,"Information transfer rules, procedures, or agreements shall be in place for all types of transfer facilities within the organization and between the organization and other",yes
 iso27001-2022,C-001-S08,8.16,"Networks, systems and applications shall be monitored for anomalous behaviour and appropriate actions taken to evaluate potential information security incidents.",no
+iso27001-2022,C-001-S09,8.8,"Information about technical vulnerabilities of information systems in use shall be obtained, the organization's exposure to such vulnerabilities shall be evaluated and appropriate measures shall",yes
+iso27001-2022,C-001-S09,8.2,The allocation and use of privileged access rights shall be restricted and managed.,no
+iso27001-2022,C-001-S09,8.19,Procedures and measures shall be implemented to securely manage software installation on operational systems.,no
+iso27001-2022,C-001-S09,8.9,"Configurations, including security configurations, of hardware, software, services and networks shall be established, documented, implemented, monitored and reviewed.",no
+iso27001-2022,C-001-S10,8.22,"Groups of information services, users and information systems shall be segregated in the organization's networks.",no
+iso27001-2022,C-001-S10,8.31,"Development, testing and production environments shall be separated and secured.",no
+iso27001-2022,C-001-S10,8.16,"Networks, systems and applications shall be monitored for anomalous behaviour and appropriate actions taken to evaluate potential information security incidents.",no
+iso27001-2022,C-001-S11,8.5,Secure authentication technologies and procedures shall be implemented based on information access restrictions and the topic-specific policy on access control.,no
+iso27001-2022,C-001-S11,8.20,"Networks and network devices shall be secured, managed and controlled to protect information in systems and applications.",no
+iso27001-2022,C-001-S11,8.22,"Groups of information services, users and information systems shall be segregated in the organization's networks.",no
+iso27001-2022,C-001-S11,5.23,"Processes for acquisition, use, management and exit from cloud services shall be established in accordance with the organization's information security requirements.",no
+iso27001-2022,C-001-S12,8.23,Access to external websites shall be managed to reduce exposure to malicious content.,no
+iso27001-2022,C-001-S12,8.20,"Networks and network devices shall be secured, managed and controlled to protect information in systems and applications.",no
+iso27001-2022,C-001-S12,8.12,"Data leakage prevention measures shall be applied to systems, networks and any other devices that process, store or transmit sensitive information.",no
+iso27001-2022,C-001-S12,8.16,"Networks, systems and applications shall be monitored for anomalous behaviour and appropriate actions taken to evaluate potential information security incidents.",no
+iso27001-2022,C-001-S13,5.16,The full life cycle of identities shall be managed.,no
+iso27001-2022,C-001-S13,8.5,Secure authentication technologies and procedures shall be implemented based on information access restrictions and the topic-specific policy on access control.,no
+iso27001-2022,C-001-S14,8.2,The allocation and use of privileged access rights shall be restricted and managed.,no
+iso27001-2022,C-001-S14,5.18,"Access rights to information and other associated assets shall be provisioned, reviewed, modified and removed in accordance with the organization's topic-specific policy on and rules",yes
+iso27001-2022,C-001-S14,8.16,"Networks, systems and applications shall be monitored for anomalous behaviour and appropriate actions taken to evaluate potential information security incidents.",no
+iso27001-2022,C-001-S14,8.15,"Logs that record activities, exceptions, faults and other relevant events shall be produced, stored, protected and analysed.",no
+iso27001-2022,C-001-S15,8.2,The allocation and use of privileged access rights shall be restricted and managed.,no
+iso27001-2022,C-001-S15,8.23,Access to external websites shall be managed to reduce exposure to malicious content.,no
+iso27001-2022,C-001-S15,8.20,"Networks and network devices shall be secured, managed and controlled to protect information in systems and applications.",no
+iso27001-2022,C-001-S16,5.17,"Allocation and management of authentication information shall be controlled by a management process, including advising personnel on appropriate handling of authentication information.",no
+iso27001-2022,C-001-S16,8.3,Access to information and other associated assets shall be restricted in accordance with the established topic-specific policy on access control.,no
+iso27001-2022,C-001-S16,5.18,"Access rights to information and other associated assets shall be provisioned, reviewed, modified and removed in accordance with the organization's topic-specific policy on and rules",yes
+iso27001-2022,C-001-S16,8.15,"Logs that record activities, exceptions, faults and other relevant events shall be produced, stored, protected and analysed.",no
+iso27001-2022,C-001-S17,5.17,"Allocation and management of authentication information shall be controlled by a management process, including advising personnel on appropriate handling of authentication information.",no
+iso27001-2022,C-001-S17,8.22,"Groups of information services, users and information systems shall be segregated in the organization's networks.",no
+iso27001-2022,C-001-S17,8.21,"Security mechanisms, service levels and service requirements of network services shall be identified, implemented and monitored.",no
+iso27001-2022,C-001-S17,8.24,"Rules for the effective use of cryptography, including cryptographic key management, shall be defined and implemented.",no
+iso27001-2022,C-001-S18,8.24,"Rules for the effective use of cryptography, including cryptographic key management, shall be defined and implemented.",no
+iso27001-2022,C-001-S18,5.17,"Allocation and management of authentication information shall be controlled by a management process, including advising personnel on appropriate handling of authentication information.",no
+iso27001-2022,C-001-S18,8.2,The allocation and use of privileged access rights shall be restricted and managed.,no
+iso27001-2022,C-001-S18,8.15,"Logs that record activities, exceptions, faults and other relevant events shall be produced, stored, protected and analysed.",no
+iso27001-2022,C-001-S19,8.2,The allocation and use of privileged access rights shall be restricted and managed.,no
+iso27001-2022,C-001-S19,8.4,"Read and write access to source code, development tools and software libraries shall be appropriately managed.",no
+iso27001-2022,C-001-S19,8.32,Changes to information processing facilities and information systems shall be subject to change management procedures.,no
+iso27001-2022,C-001-S19,8.15,"Logs that record activities, exceptions, faults and other relevant events shall be produced, stored, protected and analysed.",no
+iso27001-2022,C-001-S20,8.20,"Networks and network devices shall be secured, managed and controlled to protect information in systems and applications.",no
+iso27001-2022,C-001-S20,8.3,Access to information and other associated assets shall be restricted in accordance with the established topic-specific policy on access control.,no
+iso27001-2022,C-001-S20,8.22,"Groups of information services, users and information systems shall be segregated in the organization's networks.",no
+iso27001-2022,C-001-S20,8.2,The allocation and use of privileged access rights shall be restricted and managed.,no
+iso27001-2022,C-001-S21,8.15,"Logs that record activities, exceptions, faults and other relevant events shall be produced, stored, protected and analysed.",no
+iso27001-2022,C-001-S21,8.16,"Networks, systems and applications shall be monitored for anomalous behaviour and appropriate actions taken to evaluate potential information security incidents.",no
+iso27001-2022,C-001-S21,5.28,"The organization shall establish and implement procedures for the identification, collection, acquisition and preservation of evidence related to information security events.",no
+iso27001-2022,C-001-S21,5.33,"Records shall be protected from loss, destruction, falsification, unauthorized access and unauthorized release.",no
+iso27001-2022,C-001-S22,8.31,"Development, testing and production environments shall be separated and secured.",no
+iso27001-2022,C-001-S22,8.22,"Groups of information services, users and information systems shall be segregated in the organization's networks.",no
+iso27001-2022,C-001-S22,8.15,"Logs that record activities, exceptions, faults and other relevant events shall be produced, stored, protected and analysed.",no
+iso27001-2022,C-001-S22,8.16,"Networks, systems and applications shall be monitored for anomalous behaviour and appropriate actions taken to evaluate potential information security incidents.",no
 iso27001-2022,C-002-S01,8.16,"Networks, systems and applications shall be monitored for anomalous behaviour and appropriate actions taken to evaluate potential information security incidents.",no
 iso27001-2022,C-002-S02,8.32,Changes to information processing facilities and information systems shall be subject to change management procedures.,no
 iso27001-2022,C-002-S02,8.3,Access to information and other associated assets shall be restricted in accordance with the established topic-specific policy on access control.,no
@@ -17338,6 +17858,48 @@ iso27002-2022,C-001-S07,8.27,segregation (e.g. through virtualization or contain
 iso27002-2022,C-001-S07,8.9,minimizing the number of identities with privileged or administrator level access rights;,no
 iso27002-2022,C-001-S08,8.12,"Data leakage prevention measures should be applied to systems, networks and any other devices that process, store or transmit sensitive information.",no
 iso27002-2022,C-001-S08,8.23,websites that have an information upload function unless permitted for valid business reasons;,no
+iso27002-2022,C-001-S09,8.8,"Information about technical vulnerabilities of information systems in use should be obtained, the organization's exposure to such vulnerabilities should be evaluated and appropriate measures should",yes
+iso27002-2022,C-001-S09,8.2,The allocation and use of privileged access rights should be restricted and managed.,no
+iso27002-2022,C-001-S10,8.22,"Groups of information services, users and information systems should be segregated in the organization's networks.",no
+iso27002-2022,C-001-S10,8.16,"Networks, systems and applications should be monitored for anomalous behaviour and appropriate actions taken to evaluate potential information security incidents.",no
+iso27002-2022,C-001-S10,8.31,"Development, testing and production environments should be separated and secured.",no
+iso27002-2022,C-001-S11,8.5,Secure authentication technologies and procedures should be implemented based on information access restrictions and the topic-specific policy on access control.,no
+iso27002-2022,C-001-S11,8.20,"Networks and network devices should be secured, managed and controlled to protect information in systems and applications.",no
+iso27002-2022,C-001-S11,8.22,"Groups of information services, users and information systems should be segregated in the organization's networks.",no
+iso27002-2022,C-001-S12,8.23,Access to external websites should be managed to reduce exposure to malicious content.,no
+iso27002-2022,C-001-S12,8.23,websites that have an information upload function unless permitted for valid business reasons;,no
+iso27002-2022,C-001-S12,8.12,"Data leakage prevention measures should be applied to systems, networks and any other devices that process, store or transmit sensitive information.",no
+iso27002-2022,C-001-S12,8.16,"Networks, systems and applications should be monitored for anomalous behaviour and appropriate actions taken to evaluate potential information security incidents.",no
+iso27002-2022,C-001-S13,5.16,verifying the identity of an entity before allocating them a logical identity;,no
+iso27002-2022,C-001-S13,8.5,protecting against brute force log-on attempts on usernames and passwords [e.g. using completely automated public Turing test to tell computers and humans apart (CAPTCHA),no
+iso27002-2022,C-001-S14,8.2,The allocation and use of privileged access rights should be restricted and managed.,no
+iso27002-2022,C-001-S14,8.16,"Networks, systems and applications should be monitored for anomalous behaviour and appropriate actions taken to evaluate potential information security incidents.",no
+iso27002-2022,C-001-S14,8.15,"Logs that record activities, exceptions, faults and other relevant events should be produced, stored, protected and analysed.",no
+iso27002-2022,C-001-S15,8.2,The allocation and use of privileged access rights should be restricted and managed.,no
+iso27002-2022,C-001-S15,8.23,Access to external websites should be managed to reduce exposure to malicious content.,no
+iso27002-2022,C-001-S15,8.20,"Networks and network devices should be secured, managed and controlled to protect information in systems and applications.",no
+iso27002-2022,C-001-S16,8.28,"prohibiting the use of insecure design techniques (e.g. the use of hard-coded passwords, unapproved code samples and unauthenticated web services).",no
+iso27002-2022,C-001-S16,5.17,default authentication information as predefined or provided by vendors is changed immediately following installation of systems or software;,no
+iso27002-2022,C-001-S16,8.2,The allocation and use of privileged access rights should be restricted and managed.,no
+iso27002-2022,C-001-S16,8.15,"Logs that record activities, exceptions, faults and other relevant events should be produced, stored, protected and analysed.",no
+iso27002-2022,C-001-S17,8.24,"Rules for the effective use of cryptography, including cryptographic key management, should be defined and implemented.",no
+iso27002-2022,C-001-S17,8.20,"detecting, restricting and authenticating the connection of equipment and devices to the network;",no
+iso27002-2022,C-001-S17,8.22,"Groups of information services, users and information systems should be segregated in the organization's networks.",no
+iso27002-2022,C-001-S18,8.24,"All cryptographic keys should be protected against modification and loss. In addition, secret and private keys need protection against unauthorized use as well as disclosure.",no
+iso27002-2022,C-001-S19,8.4,"Read and write access to source code, development tools and software libraries should be appropriately managed.",no
+iso27002-2022,C-001-S19,8.2,The allocation and use of privileged access rights should be restricted and managed.,no
+iso27002-2022,C-001-S19,8.32,Changes to information processing facilities and information systems should be subject to change management procedures.,no
+iso27002-2022,C-001-S19,8.15,"Logs that record activities, exceptions, faults and other relevant events should be produced, stored, protected and analysed.",no
+iso27002-2022,C-001-S20,8.22,"If access between network domains is allowed, it should be controlled at the perimeter using a gateway (e.g. firewall, filtering router).",no
+iso27002-2022,C-001-S20,8.20,restricting and filtering systems connection to the network (e.g. using firewalls);,no
+iso27002-2022,C-001-S20,8.2,The allocation and use of privileged access rights should be restricted and managed.,no
+iso27002-2022,C-001-S21,8.15,"Users, including those with privileged access rights, should not have permission to delete or de-activate logs of their own activities.",no
+iso27002-2022,C-001-S21,8.16,"Networks, systems and applications should be monitored for anomalous behaviour and appropriate actions taken to evaluate potential information security incidents.",no
+iso27002-2022,C-001-S21,5.28,"The organization should establish and implement procedures for the identification, collection, acquisition and preservation of evidence related to information security events.",no
+iso27002-2022,C-001-S22,8.27,segregation (e.g. through virtualization or containerization);,no
+iso27002-2022,C-001-S22,8.31,"Development, testing and production environments should be separated and secured.",no
+iso27002-2022,C-001-S22,8.15,"Logs that record activities, exceptions, faults and other relevant events should be produced, stored, protected and analysed.",no
+iso27002-2022,C-001-S22,8.22,"Groups of information services, users and information systems should be segregated in the organization's networks.",no
 iso27002-2022,C-002-S01,5.15,Rules to control physical and logical access to information and other associated assets should be established and implemented based on business and information security requirements.,no
 iso27002-2022,C-002-S01,8.16,"Networks, systems and applications should be monitored for anomalous behaviour and appropriate actions taken to evaluate potential information security incidents.",no
 iso27002-2022,C-002-S02,8.32,Changes to information processing facilities and information systems should be subject to change management procedures.,no
@@ -18426,6 +18988,43 @@ iso27005-2022,C-001-S07,8.3,,withheld
 iso27005-2022,C-001-S07,8.2,"risk modification, by changing the likelihood of the occurrence of an event or a consequence or changing the severity of the consequence;",no
 iso27005-2022,C-001-S08,8.3,,withheld
 iso27005-2022,C-001-S08,8.2,"risk modification, by changing the likelihood of the occurrence of an event or a consequence or changing the severity of the consequence;",no
+iso27005-2022,C-001-S09,8.3,One or more controls should be applied to every risk evaluated as requiring treatment.,no
+iso27005-2022,C-001-S09,A.2.5.3,,withheld
+iso27005-2022,C-001-S09,8.2,"risk modification, by changing the likelihood of the occurrence of an event or a consequence or changing the severity of the consequence",no
+iso27005-2022,C-001-S10,8.3,One or more controls should be applied to every risk evaluated as requiring treatment.,no
+iso27005-2022,C-001-S10,10.5.2,"Risks and their factors (i.e. value of assets, consequences, threats, vulnerabilities, likelihood of
+occurrence) should be monitored and reviewed to identify any changes in the",yes
+iso27005-2022,C-001-S11,8.3,One or more controls should be applied to every risk evaluated as requiring treatment.,no
+iso27005-2022,C-001-S11,10.1,"Interfaces with services or activities that are not completely within the scope of the ISMS should be
+considered in the organization’s information security risk assessment.",no
+iso27005-2022,C-001-S12,8.3,"detective control: a control that is intended to detect the occurrence of an information security
+event;",no
+iso27005-2022,C-001-S12,8.3,One or more controls should be applied to every risk evaluated as requiring treatment.,no
+iso27005-2022,C-001-S13,8.3,One or more controls should be applied to every risk evaluated as requiring treatment.,no
+iso27005-2022,C-001-S14,8.3,One or more controls should be applied to every risk evaluated as requiring treatment.,no
+iso27005-2022,C-001-S14,10.5.2,"Constant monitoring should be carried out to detect these
+changes.",no
+iso27005-2022,C-001-S15,8.3,One or more controls should be applied to every risk evaluated as requiring treatment.,no
+iso27005-2022,C-001-S15,8.3,"preventive control: a control that is intended to prevent the occurrence of an information security
+event that can lead to the occurrence of one or",yes
+iso27005-2022,C-001-S16,8.3,One or more controls should be applied to every risk evaluated as requiring treatment.,no
+iso27005-2022,C-001-S16,10.5.2,"Risks and their factors (i.e. value of assets, consequences, threats, vulnerabilities, likelihood of
+occurrence) should be monitored and reviewed to identify any changes in the",yes
+iso27005-2022,C-001-S17,8.3,One or more controls should be applied to every risk evaluated as requiring treatment.,no
+iso27005-2022,C-001-S18,8.3,One or more controls should be applied to every risk evaluated as requiring treatment.,no
+iso27005-2022,C-001-S19,8.3,One or more controls should be applied to every risk evaluated as requiring treatment.,no
+iso27005-2022,C-001-S20,8.3,One or more controls should be applied to every risk evaluated as requiring treatment.,no
+iso27005-2022,C-001-S20,8.3,"preventive control: a control that is intended to prevent the occurrence of an information security
+event that can lead to the occurrence of one or",yes
+iso27005-2022,C-001-S21,10.5.2,"Constant monitoring should be carried out to detect these
+changes.",no
+iso27005-2022,C-001-S21,10.4.3,"Information about the information security risk assessment and treatment results should be
+documented and retained.",no
+iso27005-2022,C-001-S21,8.3,"detective control: a control that is intended to detect the occurrence of an information security
+event;",no
+iso27005-2022,C-001-S22,8.3,One or more controls should be applied to every risk evaluated as requiring treatment.,no
+iso27005-2022,C-001-S22,8.3,"preventive control: a control that is intended to prevent the occurrence of an information security
+event that can lead to the occurrence of one or",yes
 iso27005-2022,C-002-S01,10.5.1,"detecting changes in the internal and external context, including changes to risk criteria and the risks themselves, which can require revision of risk treatments and",yes
 iso27005-2022,C-002-S01,8.3,One or more controls should be applied to every risk evaluated as requiring treatment.,no
 iso27005-2022,C-002-S02,8.3,One or more controls should be applied to every risk evaluated as requiring treatment.,no
@@ -19138,6 +19737,27 @@ ncsc-nz-frontier-ai-managing-vulnerability-risks,C-001-S07,Secure use of AI for 
 ncsc-nz-frontier-ai-managing-vulnerability-risks,C-001-S07,Secure use of AI for vulnerability discovery,Running it in a sandboxed environment.,no
 ncsc-nz-frontier-ai-managing-vulnerability-risks,C-001-S08,Secure use of AI for vulnerability discovery,Limiting what the AI can do and what it can access so it can perform no more than its intended function.,no
 ncsc-nz-frontier-ai-managing-vulnerability-risks,C-001-S08,Secure use of AI for vulnerability discovery,Running it in a sandboxed environment.,no
+ncsc-nz-frontier-ai-managing-vulnerability-risks,C-001-S09,Recommended actions,"Ensure you have a good vulnerability management process, including frequent and timely patching.",no
+ncsc-nz-frontier-ai-managing-vulnerability-risks,C-001-S09,Secure use of AI for vulnerability discovery,Limiting what the AI can do and what it can access so it can perform no more than its intended function.,no
+ncsc-nz-frontier-ai-managing-vulnerability-risks,C-001-S10,Secure use of AI for vulnerability discovery,Running it in a sandboxed environment.,no
+ncsc-nz-frontier-ai-managing-vulnerability-risks,C-001-S10,Assuming compromise,monitoring for suspicious behaviour on networks and endpoints,no
+ncsc-nz-frontier-ai-managing-vulnerability-risks,C-001-S11,Reducing exposure to the internet,"Once you have identified the internet accessible systems, you can assess whether they need to be exposed and, if they do, what compensating controls can",yes
+ncsc-nz-frontier-ai-managing-vulnerability-risks,C-001-S12,Assuming compromise,monitoring for suspicious behaviour on networks and endpoints,no
+ncsc-nz-frontier-ai-managing-vulnerability-risks,C-001-S14,Secure use of AI for vulnerability discovery,Running it in a service account with only the permissions it needs.,no
+ncsc-nz-frontier-ai-managing-vulnerability-risks,C-001-S14,Assuming compromise,monitoring for suspicious behaviour on networks and endpoints,no
+ncsc-nz-frontier-ai-managing-vulnerability-risks,C-001-S15,Secure use of AI for vulnerability discovery,Limiting what the AI can do and what it can access so it can perform no more than its intended function.,no
+ncsc-nz-frontier-ai-managing-vulnerability-risks,C-001-S15,Assuming compromise,monitoring for suspicious behaviour on networks and endpoints,no
+ncsc-nz-frontier-ai-managing-vulnerability-risks,C-001-S16,Assuming compromise,monitoring for suspicious behaviour on networks and endpoints,no
+ncsc-nz-frontier-ai-managing-vulnerability-risks,C-001-S16,Recommended actions,Apply Minimum Cyber Security Standards.,no
+ncsc-nz-frontier-ai-managing-vulnerability-risks,C-001-S17,Assuming compromise,"implementing defence in depth principles, monitoring for suspicious behaviour on networks and endpoints",no
+ncsc-nz-frontier-ai-managing-vulnerability-risks,C-001-S18,Assuming compromise,monitoring for suspicious behaviour on networks and endpoints,no
+ncsc-nz-frontier-ai-managing-vulnerability-risks,C-001-S19,Secure use of AI for vulnerability discovery,Limiting what the AI can do and what it can access so it can perform no more than its intended function.,no
+ncsc-nz-frontier-ai-managing-vulnerability-risks,C-001-S19,Assuming compromise,monitoring for suspicious behaviour on networks and endpoints,no
+ncsc-nz-frontier-ai-managing-vulnerability-risks,C-001-S20,Reducing exposure to the internet,One of the most effective ways to reduce the number of exploits targeting your organisation is to minimise the number of systems exposed to the,yes
+ncsc-nz-frontier-ai-managing-vulnerability-risks,C-001-S20,Reducing exposure to the internet,"Once you have identified the internet accessible systems, you can assess whether they need to be exposed and, if they do, what compensating controls can",yes
+ncsc-nz-frontier-ai-managing-vulnerability-risks,C-001-S21,Assuming compromise,,withheld
+ncsc-nz-frontier-ai-managing-vulnerability-risks,C-001-S22,Secure use of AI for vulnerability discovery,Running it in a sandboxed environment.,no
+ncsc-nz-frontier-ai-managing-vulnerability-risks,C-001-S22,Secure use of AI for vulnerability discovery,Limiting what the AI can do and what it can access so it can perform no more than its intended function.,no
 ncsc-nz-frontier-ai-managing-vulnerability-risks,C-002-S01,Secure use of AI for vulnerability discovery,Limiting what the AI can do and what it can access so it can perform no more than its intended function.,no
 ncsc-nz-frontier-ai-managing-vulnerability-risks,C-002-S02,Keep investing in people,people with experience in cybersecurity or in the IT systems in question can guide and validate AI vulnerability discovery to increase speed and accuracy. AI,yes
 ncsc-nz-frontier-ai-managing-vulnerability-risks,C-003-S01,Secure use of AI for vulnerability discovery,Limiting what the AI can do and what it can access so it can perform no more than its intended function.,no
@@ -19706,6 +20326,21 @@ ncsc-uk-retaining-defensive-advantage-frontier-ai-2026-05,C-001-S05,p1-good-prac
 ncsc-uk-retaining-defensive-advantage-frontier-ai-2026-05,C-001-S06,p1-good-practices,"This includes reducing unnecessary exposure to attack, applying security updates rapidly, as well as monitoring for, and quickly responding to, malicious activity detected.",no
 ncsc-uk-retaining-defensive-advantage-frontier-ai-2026-05,C-001-S07,p1-baseline,"This includes reducing unnecessary exposure to attack, applying security updates rapidly, as well as monitoring for, and quickly responding to, malicious activity detected.",no
 ncsc-uk-retaining-defensive-advantage-frontier-ai-2026-05,C-001-S08,p1-baseline,"This includes reducing unnecessary exposure to attack, applying security updates rapidly, as well as monitoring for, and quickly responding to, malicious activity detected.",no
+ncsc-uk-retaining-defensive-advantage-frontier-ai-2026-05,C-001-S09,p1 (security baseline actions),"This includes reducing unnecessary exposure to attack, applying security updates rapidly, as well as monitoring for, and quickly responding to, malicious activity detected.",no
+ncsc-uk-retaining-defensive-advantage-frontier-ai-2026-05,C-001-S09,p1 (patch pressure),the pressure on organisations to patch systems quickly will only grow more acute.,no
+ncsc-uk-retaining-defensive-advantage-frontier-ai-2026-05,C-001-S10,Paragraph 6,"monitoring for, and quickly responding to, malicious activity detected.",no
+ncsc-uk-retaining-defensive-advantage-frontier-ai-2026-05,C-001-S11,p1 (security baseline actions),"This includes reducing unnecessary exposure to attack, applying security updates rapidly, as well as monitoring for, and quickly responding to, malicious activity detected.",no
+ncsc-uk-retaining-defensive-advantage-frontier-ai-2026-05,C-001-S12,p1 (security baseline actions),"This includes reducing unnecessary exposure to attack, applying security updates rapidly, as well as monitoring for, and quickly responding to, malicious activity detected.",no
+ncsc-uk-retaining-defensive-advantage-frontier-ai-2026-05,C-001-S13,p1 (security baseline actions),"This includes reducing unnecessary exposure to attack, applying security updates rapidly, as well as monitoring for, and quickly responding to, malicious activity detected.",no
+ncsc-uk-retaining-defensive-advantage-frontier-ai-2026-05,C-001-S14,p1 (security baseline actions),"This includes reducing unnecessary exposure to attack, applying security updates rapidly, as well as monitoring for, and quickly responding to, malicious activity detected.",no
+ncsc-uk-retaining-defensive-advantage-frontier-ai-2026-05,C-001-S15,p1 (security baseline actions),"This includes reducing unnecessary exposure to attack, applying security updates rapidly, as well as monitoring for, and quickly responding to, malicious activity detected.",no
+ncsc-uk-retaining-defensive-advantage-frontier-ai-2026-05,C-001-S16,p1 (good practice baseline),"it is more essential than ever that organisations ensure they are following established good practices, set out by the National Cyber Security Centre, to raise",yes
+ncsc-uk-retaining-defensive-advantage-frontier-ai-2026-05,C-001-S17,p1 (security baseline actions),"This includes reducing unnecessary exposure to attack, applying security updates rapidly, as well as monitoring for, and quickly responding to, malicious activity detected.",no
+ncsc-uk-retaining-defensive-advantage-frontier-ai-2026-05,C-001-S18,p1 (good practice baseline),"it is more essential than ever that organisations ensure they are following established good practices, set out by the National Cyber Security Centre, to raise",yes
+ncsc-uk-retaining-defensive-advantage-frontier-ai-2026-05,C-001-S19,p1 (good practice baseline),"it is more essential than ever that organisations ensure they are following established good practices, set out by the National Cyber Security Centre, to raise",yes
+ncsc-uk-retaining-defensive-advantage-frontier-ai-2026-05,C-001-S20,p1 (security baseline actions),"This includes reducing unnecessary exposure to attack, applying security updates rapidly, as well as monitoring for, and quickly responding to, malicious activity detected.",no
+ncsc-uk-retaining-defensive-advantage-frontier-ai-2026-05,C-001-S21,p1 (security baseline actions),"This includes reducing unnecessary exposure to attack, applying security updates rapidly, as well as monitoring for, and quickly responding to, malicious activity detected.",no
+ncsc-uk-retaining-defensive-advantage-frontier-ai-2026-05,C-001-S22,Paragraph 6,"monitoring for, and quickly responding to, malicious activity detected.",no
 ncsc-uk-retaining-defensive-advantage-frontier-ai-2026-05,C-004-S01,p1-measures,reducing unnecessary exposure to attack,no
 ncsc-uk-retaining-defensive-advantage-frontier-ai-2026-05,C-004-S01,p1-practices,"it is more essential than ever that organisations ensure they are following established good practices, set out by the National Cyber Security Centre, to raise",yes
 ncsc-uk-retaining-defensive-advantage-frontier-ai-2026-05,C-004-S01,p1-cyberessentials,government-backed certifications such as Cyber Essentials give organisations and their customers confidence that critical disciplines are being practised,no
@@ -20048,6 +20683,21 @@ ncsc-uk-statement-frontier-ai-evaluation-incidents-2026-08,C-001-S06,statement-s
 ncsc-uk-statement-frontier-ai-evaluation-incidents-2026-08,C-001-S07,statement-para2,"These technologies must be developed and used from the outset with strong safeguards, real-time oversight, and clear plans for responding when the unexpected happens.",no
 ncsc-uk-statement-frontier-ai-evaluation-incidents-2026-08,C-001-S08,statement-para2,"These technologies must be developed and used from the outset with strong safeguards, real-time oversight, and clear plans for responding when the unexpected happens.",no
 ncsc-uk-statement-frontier-ai-evaluation-incidents-2026-08,C-001-S08,statement-para3,,withheld
+ncsc-uk-statement-frontier-ai-evaluation-incidents-2026-08,C-001-S09,"CTO statement, para 2","These technologies must be developed and used from the outset with strong safeguards, real-time oversight, and clear plans for responding when the unexpected happens.",no
+ncsc-uk-statement-frontier-ai-evaluation-incidents-2026-08,C-001-S10,"CTO statement, para 2","These technologies must be developed and used from the outset with strong safeguards, real-time oversight, and clear plans for responding when the unexpected happens.",no
+ncsc-uk-statement-frontier-ai-evaluation-incidents-2026-08,C-001-S11,"CTO statement, para 2","These technologies must be developed and used from the outset with strong safeguards, real-time oversight, and clear plans for responding when the unexpected happens.",no
+ncsc-uk-statement-frontier-ai-evaluation-incidents-2026-08,C-001-S12,"CTO statement, para 2","These technologies must be developed and used from the outset with strong safeguards, real-time oversight, and clear plans for responding when the unexpected happens.",no
+ncsc-uk-statement-frontier-ai-evaluation-incidents-2026-08,C-001-S13,"CTO statement, para 2","These technologies must be developed and used from the outset with strong safeguards, real-time oversight, and clear plans for responding when the unexpected happens.",no
+ncsc-uk-statement-frontier-ai-evaluation-incidents-2026-08,C-001-S14,"CTO statement, para 2","These technologies must be developed and used from the outset with strong safeguards, real-time oversight, and clear plans for responding when the unexpected happens.",no
+ncsc-uk-statement-frontier-ai-evaluation-incidents-2026-08,C-001-S15,"CTO statement, para 2","These technologies must be developed and used from the outset with strong safeguards, real-time oversight, and clear plans for responding when the unexpected happens.",no
+ncsc-uk-statement-frontier-ai-evaluation-incidents-2026-08,C-001-S16,"CTO statement, para 2","These technologies must be developed and used from the outset with strong safeguards, real-time oversight, and clear plans for responding when the unexpected happens.",no
+ncsc-uk-statement-frontier-ai-evaluation-incidents-2026-08,C-001-S17,"CTO statement, para 2","These technologies must be developed and used from the outset with strong safeguards, real-time oversight, and clear plans for responding when the unexpected happens.",no
+ncsc-uk-statement-frontier-ai-evaluation-incidents-2026-08,C-001-S18,"CTO statement, para 2","These technologies must be developed and used from the outset with strong safeguards, real-time oversight, and clear plans for responding when the unexpected happens.",no
+ncsc-uk-statement-frontier-ai-evaluation-incidents-2026-08,C-001-S19,"CTO statement, para 2","These technologies must be developed and used from the outset with strong safeguards, real-time oversight, and clear plans for responding when the unexpected happens.",no
+ncsc-uk-statement-frontier-ai-evaluation-incidents-2026-08,C-001-S20,"CTO statement, para 2","These technologies must be developed and used from the outset with strong safeguards, real-time oversight, and clear plans for responding when the unexpected happens.",no
+ncsc-uk-statement-frontier-ai-evaluation-incidents-2026-08,C-001-S21,"CTO statement, para 2","These technologies must be developed and used from the outset with strong safeguards, real-time oversight, and clear plans for responding when the unexpected happens.",no
+ncsc-uk-statement-frontier-ai-evaluation-incidents-2026-08,C-001-S21,"CTO statement, para 2b",,withheld
+ncsc-uk-statement-frontier-ai-evaluation-incidents-2026-08,C-001-S22,"CTO statement, para 2","These technologies must be developed and used from the outset with strong safeguards, real-time oversight, and clear plans for responding when the unexpected happens.",no
 ncsc-uk-statement-frontier-ai-evaluation-incidents-2026-08,C-002-S01,statement-safeguards,"These technologies must be developed and used from the outset with strong safeguards, real-time oversight, and clear plans for responding when the unexpected happens.",no
 ncsc-uk-statement-frontier-ai-evaluation-incidents-2026-08,C-002-S02,statement-safeguards,"These technologies must be developed and used from the outset with strong safeguards, real-time oversight, and clear plans for responding when the unexpected happens.",no
 ncsc-uk-statement-frontier-ai-evaluation-incidents-2026-08,C-003-S01,statement-safeguards,"These technologies must be developed and used from the outset with strong safeguards, real-time oversight, and clear plans for responding when the unexpected happens.",no
@@ -20890,6 +21540,42 @@ nist-ir-8596-iprd-cyber-ai-profile,C-001-S07,PR.AA-05,Apply the principle of lea
 nist-ir-8596-iprd-cyber-ai-profile,C-001-S07,PR.IR-01,AI agents' access to networks and environments should be restricted by the principle of least privilege and according to the organization's risk strategy.,no
 nist-ir-8596-iprd-cyber-ai-profile,C-001-S08,PR.DS-10,,withheld
 nist-ir-8596-iprd-cyber-ai-profile,C-001-S08,DE.CM-09,"Monitor AI systems and their runtime environments for anomalous behaviors (e.g., unexpected file writes, API calls, or generated binaries) that may indicate adversarial manipulation, data",yes
+nist-ir-8596-iprd-cyber-ai-profile,C-001-S09,PR.PS-02,"Regularly check for and apply patches to AI frameworks and software libraries, both to defend the organization and to prevent attacks before they happen.",no
+nist-ir-8596-iprd-cyber-ai-profile,C-001-S09,PR.AA-05,Apply the principle of least privilege to AI agents by granting only the permissions necessary to carry out their role.,no
+nist-ir-8596-iprd-cyber-ai-profile,C-001-S09,GV.SC-01,The integrity of training and input data (part of the data supply chain) should be verified to detect and prevent data poisoning and tempering.,no
+nist-ir-8596-iprd-cyber-ai-profile,C-001-S10,PR.IR-01,AI agents' access to networks and environments should be restricted by the principle of least privilege and according to the organization's risk strategy.,no
+nist-ir-8596-iprd-cyber-ai-profile,C-001-S10,DE.CM-09,"Because AI can operate autonomously, ensure that all internal AI systems are properly monitored for anomalous activity.",no
+nist-ir-8596-iprd-cyber-ai-profile,C-001-S11,PR.PS-05,"AI agent systems are sometimes allowed to execute arbitrary code. In most applications, this ability should be curtailed, sandboxed, subject to approval and monitoring, or",yes
+nist-ir-8596-iprd-cyber-ai-profile,C-001-S11,PR.IR-01,AI's ability to access new networks or systems within a network should be curtailed commensurate with the functionality of the AI system and the level,yes
+nist-ir-8596-iprd-cyber-ai-profile,C-001-S12,PR.IR-01,AI agents' access to networks and environments should be restricted by the principle of least privilege and according to the organization's risk strategy.,no
+nist-ir-8596-iprd-cyber-ai-profile,C-001-S12,DE.CM-01,"AI system traffic should be tracked, logged, and monitored separately from other network traffic.",no
+nist-ir-8596-iprd-cyber-ai-profile,C-001-S12,ID.AM-03,"internal AI based traffic (AI tools searching the web or utilizing organizational resources), and external traffic.",no
+nist-ir-8596-iprd-cyber-ai-profile,C-001-S13,PR.AA-02,Identities are proofed and bound to credentials based on the context of interactions,no
+nist-ir-8596-iprd-cyber-ai-profile,C-001-S13,PR.AA-01,"Identities and credentials for authorized users, services, and hardware are managed by the organization",no
+nist-ir-8596-iprd-cyber-ai-profile,C-001-S14,PR.AA-05,Apply the principle of least privilege to AI agents by granting only the permissions necessary to carry out their role.,no
+nist-ir-8596-iprd-cyber-ai-profile,C-001-S14,PR.AA-01,Give AI systems unique and traceable identities and credentials to better track their activity.,no
+nist-ir-8596-iprd-cyber-ai-profile,C-001-S14,PR.AA-05,"Maintain robust policies for access controls and authorizations to prevent AI-enabled cyber-attacks that seek to obtain credentials, access keys/tokens, etc., through methods such as scalable",yes
+nist-ir-8596-iprd-cyber-ai-profile,C-001-S15,PR.AA-05,Apply the principle of least privilege to AI agents by granting only the permissions necessary to carry out their role.,no
+nist-ir-8596-iprd-cyber-ai-profile,C-001-S15,PR.PS-05,Do not allow automatic download or execution of code from any system. Ensure all software is scanned for malware and the source of the software,yes
+nist-ir-8596-iprd-cyber-ai-profile,C-001-S15,PR.IR-01,AI agents' access to networks and environments should be restricted by the principle of least privilege and according to the organization's risk strategy.,no
+nist-ir-8596-iprd-cyber-ai-profile,C-001-S16,PR.AA-05,Apply the principle of least privilege to AI agents by granting only the permissions necessary to carry out their role.,no
+nist-ir-8596-iprd-cyber-ai-profile,C-001-S16,PR.AA-01,Give AI systems unique and traceable identities and credentials to better track their activity.,no
+nist-ir-8596-iprd-cyber-ai-profile,C-001-S16,PR.AA-05,"Maintain robust policies for access controls and authorizations to prevent AI-enabled cyber-attacks that seek to obtain credentials, access keys/tokens, etc., through methods such as scalable",yes
+nist-ir-8596-iprd-cyber-ai-profile,C-001-S17,PR.IR-01,Defenses should prioritize additional layers of security for endpoint detection systems and credential and identity management such as MFA and Zero-Trust architectures.,no
+nist-ir-8596-iprd-cyber-ai-profile,C-001-S17,PR.AA-05,Apply the principle of least privilege to AI agents by granting only the permissions necessary to carry out their role.,no
+nist-ir-8596-iprd-cyber-ai-profile,C-001-S17,PR.IR-01,AI agents' access to networks and environments should be restricted by the principle of least privilege and according to the organization's risk strategy.,no
+nist-ir-8596-iprd-cyber-ai-profile,C-001-S18,PR.AA-02,Bind agent and service identities to their credentials using cryptographic signing and mutual authentication.,no
+nist-ir-8596-iprd-cyber-ai-profile,C-001-S18,PR.AA-05,Apply the principle of least privilege to AI agents by granting only the permissions necessary to carry out their role.,no
+nist-ir-8596-iprd-cyber-ai-profile,C-001-S18,PR.DS-01,"The confidentiality, integrity, and availability of data-at-rest are protected",no
+nist-ir-8596-iprd-cyber-ai-profile,C-001-S19,PR.AA-05,Apply the principle of least privilege to AI agents by granting only the permissions necessary to carry out their role.,no
+nist-ir-8596-iprd-cyber-ai-profile,C-001-S19,PR.PS-06,block deployment if safety or quality drops during performance monitoring.,no
+nist-ir-8596-iprd-cyber-ai-profile,C-001-S19,PR.PS-05,"AI agent systems are sometimes allowed to execute arbitrary code. In most applications, this ability should be curtailed, sandboxed, subject to approval and monitoring, or",yes
+nist-ir-8596-iprd-cyber-ai-profile,C-001-S20,PR.IR-01,AI agents' access to networks and environments should be restricted by the principle of least privilege and according to the organization's risk strategy.,no
+nist-ir-8596-iprd-cyber-ai-profile,C-001-S20,PR.AA-05,Apply the principle of least privilege to AI agents by granting only the permissions necessary to carry out their role.,no
+nist-ir-8596-iprd-cyber-ai-profile,C-001-S21,PR.PS-04,Confirm findings with HITL reviews. Consider protecting logs from tampering.,no
+nist-ir-8596-iprd-cyber-ai-profile,C-001-S21,DE.CM-09,"Because AI can autonomously create and augment data as well as create and execute its own code, new monitoring is needed to track actions taken",yes
+nist-ir-8596-iprd-cyber-ai-profile,C-001-S22,PR.PS-05,"AI agent systems are sometimes allowed to execute arbitrary code. In most applications, this ability should be curtailed, sandboxed, subject to approval and monitoring, or",yes
+nist-ir-8596-iprd-cyber-ai-profile,C-001-S22,DE.CM-09,"Because AI can operate autonomously, ensure that all internal AI systems are properly monitored for anomalous activity.",no
 nist-ir-8596-iprd-cyber-ai-profile,C-002-S01,PR.IR-01,Gate AI-initiated network changes and privilege use by implementing human approval or policy-based checks.,no
 nist-ir-8596-iprd-cyber-ai-profile,C-002-S01,DE.CM-09,"Inputs to and outputs from AI systems may be monitored to detect adverse events, such as monitoring for adversarial inputs or anomalous AI system behaviors.",no
 nist-ir-8596-iprd-cyber-ai-profile,C-002-S01,GV.RR-02,Organizations decide who is accountable for actions taken by autonomous systems.,no
@@ -21483,7 +22169,7 @@ owasp-top10-agentic-applications-2026,AN-008-S08,ASI02-5,"Apply usage ceilings (
 owasp-top10-agentic-applications-2026,AN-008-S08,ASI02-8,"Continuously monitor for anomalous execution rates, unusual tool-chaining patterns (e.g., DB read followed by external transfer), and policy violations.",no
 owasp-top10-agentic-applications-2026,AN-008-S09,ASI02-6,Grant temporary credentials or API tokens that expire immediately after use.,no
 owasp-top10-agentic-applications-2026,AN-008-S09,ASI10-3,Monitor for anomalies such as excessive or abnormal actions executions.,no
-owasp-top10-agentic-applications-2026,AN-008-S09,ASI10-1,"Maintain comprehensive, immutable and signed audit logs of all agent actions, tool calls, and inter-agent communication to review for stealth infiltration or unapproved delegation.",no
+owasp-top10-agentic-applications-2026,AN-008-S09,ASI10-1,,withheld
 owasp-top10-agentic-applications-2026,AN-011-S02,ASI03-6,"Major platforms integrate agents into their identity and access management systems, treating them as managed non-human identities with scoped credentials, audit trails, and lifecycle controls.",no
 owasp-top10-agentic-applications-2026,AN-011-S02,ASI04-2,"Allowlist and pin; scan for typosquats (PyPI, npm, LangChain, LlamaIndex); verify provenance before install or activation; auto-reject unsigned or unverified.",no
 owasp-top10-agentic-applications-2026,AN-011-S03,ASI03-6,"treating them as managed non-human identities with scoped credentials, audit trails, and lifecycle controls.",no
@@ -21518,8 +22204,8 @@ owasp-top10-agentic-applications-2026,AV-037-S06,ASI02 Prevention 5,"Apply usage
 owasp-top10-agentic-applications-2026,AV-037-S06,ASI08 Prevention 6,Detect fast-spreading commands and throttle or pause on anomalies.,no
 owasp-top10-agentic-applications-2026,AV-037-S06,ASI10 Prevention 4,Implement rapid mechanisms like kill-switches and credential revocation to instantly disable rogue agents.,no
 owasp-top10-agentic-applications-2026,AV-048-S02,ASI04-2,"Dependency gatekeeping: Allowlist and pin; scan for typosquats (PyPI, npm, LangChain, LlamaIndex); verify provenance before install or activation; auto-reject unsigned or unverified.",no
-owasp-top10-agentic-applications-2026,AV-048-S02,ASI04-1,,withheld
-owasp-top10-agentic-applications-2026,AV-048-S03,ASI04 Prevention 1,use curated registries and block untrusted sources.,no
+owasp-top10-agentic-applications-2026,AV-048-S02,ASI04-1,"Provenance and SBOMs, AIBOMs: Sign and attest manifests, prompts, and tool definitions; require and operationalize SBOMs, AIBOMs with periodic attestations; maintain inventory of AI components;",yes
+owasp-top10-agentic-applications-2026,AV-048-S03,ASI04 Prevention 1,,withheld
 owasp-top10-agentic-applications-2026,AV-048-S03,ASI04 Prevention 2,verify provenance before install or activation; auto-reject unsigned or unverified.,no
 owasp-top10-agentic-applications-2026,AV-048-S03,ASI01 Prevention 1,"Treat all natural-language inputs (e.g., user-provided text, uploaded documents, retrieved content) as untrusted.",no
 owasp-top10-agentic-applications-2026,AV-048-S04,ASI04-2,"Dependency gatekeeping: Allowlist and pin; scan for typosquats (PyPI, npm, LangChain, LlamaIndex); verify provenance before install or activation; auto-reject unsigned or unverified.",no
@@ -21574,6 +22260,42 @@ owasp-top10-agentic-applications-2026,C-001-S07,ASI10-2,"Isolation & Boundaries:
 owasp-top10-agentic-applications-2026,C-001-S08,ASI02-3,Execution Sandboxes and Egress Controls. Run tool or code execution in isolated sandboxes. Enforce outbound allowlists and deny all non-approved network destinations.,no
 owasp-top10-agentic-applications-2026,C-001-S08,ASI09-3,"Behavioral detection: Monitor sensitive data being exposed in either conversations or Agentic connections, as well as risky action executions over time.",no
 owasp-top10-agentic-applications-2026,C-001-S08,ASI02-1,"Define per-tool least-privilege profiles (scopes, maximum rate, and egress allowlists) and restrict agentic tool functionality and each tool’s permissions and data scope to those profiles",no
+owasp-top10-agentic-applications-2026,C-001-S09,ASI04.1,"Provenance and SBOMs, AIBOMs: Sign and attest manifests, prompts, and tool definitions; require and operationalize SBOMs, AIBOMs with periodic attestations; maintain inventory of AI components;",yes
+owasp-top10-agentic-applications-2026,C-001-S09,ASI04.6,"Continuous validation and monitoring: Re-check signatures, hashes, and SBOMs (incl. AIBOMs) at runtime; monitor behavior, privilege use, lineage, and inter-module telemetry for anomalies.",no
+owasp-top10-agentic-applications-2026,C-001-S09,ASI10.2,"Isolation & Boundaries: Assign Trust Zones with strict inter-zone communication rules and deploy restricted execution environments (e.g., container sandboxes) with API scopes based on least",yes
+owasp-top10-agentic-applications-2026,C-001-S10,ASI10-PM2,"Isolation & Boundaries: Assign Trust Zones with strict inter-zone communication rules and deploy restricted execution environments (e.g., container sandboxes) with API scopes based on least",yes
+owasp-top10-agentic-applications-2026,C-001-S10,ASI10-PM3,,withheld
+owasp-top10-agentic-applications-2026,C-001-S11,ASI02.3,Execution Sandboxes and Egress Controls. Run tool or code execution in isolated sandboxes. Enforce outbound allowlists and deny all non-approved network destinations.,no
+owasp-top10-agentic-applications-2026,C-001-S11,ASI08.2,"Isolation and trust boundaries: Sandbox agents, least privilege, network segmentation, scoped APIs, and mutual auth. to contain failure propagation.",no
+owasp-top10-agentic-applications-2026,C-001-S12,ASI02-PM3,Execution Sandboxes and Egress Controls. Run tool or code execution in isolated sandboxes. Enforce outbound allowlists and deny all non-approved network destinations.,no
+owasp-top10-agentic-applications-2026,C-001-S12,ASI05-PM4,Execution environment security: Never run as root. Run code in sandboxed containers with strict limits including network access,no
+owasp-top10-agentic-applications-2026,C-001-S12,ASI04-PM3,Containment and builds: Run sensitive agents in sandboxed containers with strict network or syscall limits; require reproducible builds.,no
+owasp-top10-agentic-applications-2026,C-001-S13,ASI02-PM3,Execution Sandboxes and Egress Controls. Run tool or code execution in isolated sandboxes. Enforce outbound allowlists and deny all non-approved network destinations.,no
+owasp-top10-agentic-applications-2026,C-001-S14,ASI03-PM1,"Enforce Task-Scoped, Time-Bound Permissions: Issue short-lived, narrowly scoped tokens per task and cap rights with permission boundaries",no
+owasp-top10-agentic-applications-2026,C-001-S14,ASI03-PM9,"Detect abnormal cross-agent privilege elevation and device-code style phishing flows by monitoring when agents request new scopes or reuse tokens outside their original, signed intent.",no
+owasp-top10-agentic-applications-2026,C-001-S14,ASI03-PM7,"Bind permissions to subject, resource, purpose, and duration. Require re-authentication on context switch.",no
+owasp-top10-agentic-applications-2026,C-001-S15,ASI10.2,"Isolation & Boundaries: Assign Trust Zones with strict inter-zone communication rules and deploy restricted execution environments (e.g., container sandboxes) with API scopes based on least",yes
+owasp-top10-agentic-applications-2026,C-001-S15,ASI05.4,Run code in sandboxed containers with strict limits including network access; lint and block known-vulnerable packages,no
+owasp-top10-agentic-applications-2026,C-001-S15,ASI08.3,"JIT, one-time tool access with runtime checks: Issue short-lived, task-scoped credentials for each agent run and validate every high-impact tool invocation against a policy-as-code rule",yes
+owasp-top10-agentic-applications-2026,C-001-S16,ASI02-PM6,Just-in-Time and Ephemeral Access. Grant temporary credentials or API tokens that expire immediately after use. Bind keys to specific user sessions to prevent lateral abuse.,no
+owasp-top10-agentic-applications-2026,C-001-S16,ASI03-PM1,"Enforce Task-Scoped, Time-Bound Permissions: Issue short-lived, narrowly scoped tokens per task and cap rights with permission boundaries",no
+owasp-top10-agentic-applications-2026,C-001-S16,ASI06-PM1,Baseline data protection: Encryption in transit and at rest combined with least-privilege access,no
+owasp-top10-agentic-applications-2026,C-001-S17,ASI03-PM1,,withheld
+owasp-top10-agentic-applications-2026,C-001-S17,ASI08-PM2,"Isolation and trust boundaries: Sandbox agents, least privilege, network segmentation, scoped APIs, and mutual auth. to contain failure propagation.",no
+owasp-top10-agentic-applications-2026,C-001-S17,ASI10-PM5,Implement per-agent cryptographic identity attestation and enforce behavioral integrity baselines throughout the agent lifecycle.,no
+owasp-top10-agentic-applications-2026,C-001-S18,ASI10-PM6,,withheld
+owasp-top10-agentic-applications-2026,C-001-S19,ASI03-PM1,"Enforce Task-Scoped, Time-Bound Permissions: Issue short-lived, narrowly scoped tokens per task and cap rights with permission boundaries",no
+owasp-top10-agentic-applications-2026,C-001-S19,ASI05-PM6,Access control and approvals: Require human approval for elevated runs; keep an allowlist for auto-execution under version control; enforce role and action-based controls.,no
+owasp-top10-agentic-applications-2026,C-001-S19,ASI04-PM4,"Secure prompts and memory: Put prompts, orchestration scripts, and memory schemas under version control with peer review; scan for anomalies.",no
+owasp-top10-agentic-applications-2026,C-001-S20,ASI08-PM2,"Isolation and trust boundaries: Sandbox agents, least privilege, network segmentation, scoped APIs, and mutual auth. to contain failure propagation.",no
+owasp-top10-agentic-applications-2026,C-001-S20,ASI03-PM1,"Enforce Task-Scoped, Time-Bound Permissions: Issue short-lived, narrowly scoped tokens per task and cap rights with permission boundaries",no
+owasp-top10-agentic-applications-2026,C-001-S20,ASI10-PM2,,withheld
+owasp-top10-agentic-applications-2026,C-001-S21,ASI10-PM1,"Governance & Logging: Maintain comprehensive, immutable and signed audit logs of all agent actions, tool calls, and inter-agent communication to review for stealth infiltration or",yes
+owasp-top10-agentic-applications-2026,C-001-S21,ASI08-PM10,"Record all inter-agent messages, policy decisions, and execution outcomes in tamper-evident, time-stamped logs bound to cryptographic agent identities.",no
+owasp-top10-agentic-applications-2026,C-001-S21,ASI06-PM2,Content validation: Scan all new memory writes and model outputs (rules + AI) for malicious or sensitive content before commit.,no
+owasp-top10-agentic-applications-2026,C-001-S22,ASI05-PM5,Architecture and design: Isolate per-session environments with permission boundaries; apply least privilege; fail secure by default; separate code generation from execution with validation gates.,no
+owasp-top10-agentic-applications-2026,C-001-S22,ASI05-PM4,Run code in sandboxed containers with strict limits including network access,no
+owasp-top10-agentic-applications-2026,C-001-S22,ASI10-PM1,"Maintain comprehensive, immutable and signed audit logs of all agent actions, tool calls, and inter-agent communication",no
 owasp-top10-agentic-applications-2026,C-002-S01,ASI01-4,"Require confirmation - via human approval, policy engine, or platform guardrails whenever the agent proposes actions that deviate from the original task or scope. Pause",yes
 owasp-top10-agentic-applications-2026,C-002-S01,ASI10-5,"continuously monitors tasks for deviations from the declared manifest for e.g. unapproved tool invocations, unexpected data exfiltration attempts etc.",no
 owasp-top10-agentic-applications-2026,C-002-S02,ASI09 Prevention 1,Require multi-step approval or “human in the loop” before accessing extra sensitive data or performing risky actions.,no
@@ -21632,7 +22354,7 @@ owasp-top10-agentic-applications-2026,C-009-S08,ASI04 Prevention 1,"Sign and att
 owasp-top10-agentic-applications-2026,C-009-S08,ASI04 Prevention 6,"Re-check signatures, hashes, and SBOMs (incl. AIBOMs) at runtime; monitor behavior, privilege use, lineage, and inter-module telemetry for anomalies.",no
 owasp-top10-agentic-applications-2026,C-010-S01,ASI04-2,"Dependency gatekeeping: Allowlist and pin; scan for typosquats (PyPI, npm, LangChain, LlamaIndex); verify provenance before install or activation; auto-reject unsigned or unverified.",no
 owasp-top10-agentic-applications-2026,C-010-S01,ASI04-7,"Pinning: Pin prompts, tools, and configs by content hash and commit ID. Require staged rollout with differential tests and auto-rollback on hash drift or behavioral",yes
-owasp-top10-agentic-applications-2026,C-010-S01,ASI04-1,,withheld
+owasp-top10-agentic-applications-2026,C-010-S01,ASI04-1,"Provenance and SBOMs, AIBOMs: Sign and attest manifests, prompts, and tool definitions; require and operationalize SBOMs, AIBOMs with periodic attestations; maintain inventory of AI components;",yes
 owasp-top10-agentic-applications-2026,C-010-S01,ASI04-3,Run sensitive agents in sandboxed containers with strict network or syscall limits; require reproducible builds.,no
 owasp-top10-agentic-applications-2026,C-010-S02,ASI01-1,"Treat all natural-language inputs (e.g., user-provided text, uploaded documents, retrieved content) as untrusted. Route them through the same input-validation and prompt-injection safeguards defined in LLM01:2025",yes
 owasp-top10-agentic-applications-2026,C-010-S02,ASI01-6,"Sanitize and validate any connected data source - including RAG inputs, emails, calendar invites, uploaded files, external APIs, browsing output, and peer-agent messages - using",yes
@@ -21659,7 +22381,7 @@ owasp-top10-agentic-applications-2026,C-012-S04,ASI02-8,,withheld
 owasp-top10-agentic-applications-2026,C-012-S05,ASI02-3,Execution Sandboxes and Egress Controls. Run tool or code execution in isolated sandboxes. Enforce outbound allowlists and deny all non-approved network destinations.,no
 owasp-top10-agentic-applications-2026,C-012-S06,ASI02-3,Enforce outbound allowlists and deny all non-approved network destinations.,no
 owasp-top10-agentic-applications-2026,C-012-S06,ASI03-1,"Enforce Task-Scoped, Time-Bound Permissions: Issue short-lived, narrowly scoped tokens per task and cap rights with permission boundaries",no
-owasp-top10-agentic-applications-2026,C-014-S01,ASI04-1,use curated registries and block untrusted sources.,no
+owasp-top10-agentic-applications-2026,C-014-S01,ASI04-1,,withheld
 owasp-top10-agentic-applications-2026,C-014-S01,ASI07-8,"Use registries or marketplaces that provide digital attestation of agent identity, provenance, and descriptor integrity. Require signed agent cards and continuous verification",no
 owasp-top10-agentic-applications-2026,C-014-S02,ASI09 Prevention 8,periodically remind users of manipulation patterns and agent limitations,no
 owasp-top10-agentic-applications-2026,C-014-S02,ASI09 Prevention 5,Develop and continuously maintain appropriate training of human personnel involved in the evolving human oversight of autonomous agentic systems.,no
@@ -21670,7 +22392,7 @@ owasp-top10-agentic-applications-2026,C-039-S01,ASI05-4,"Where possible, restric
 owasp-top10-agentic-applications-2026,C-039-S02,ASI01-1,"Treat all natural-language inputs (e.g., user-provided text, uploaded documents, retrieved content) as untrusted. Route them through the same input-validation and prompt-injection safeguards defined in LLM01:2025",no
 owasp-top10-agentic-applications-2026,C-039-S02,ASI01-6,"Sanitize and validate any connected data source - including RAG inputs, emails, calendar invites, uploaded files, external APIs, browsing output, and peer-agent messages - using",yes
 owasp-top10-agentic-applications-2026,C-039-S02,ASI01-4,"Require confirmation - via human approval, policy engine, or platform guardrails whenever the agent proposes actions that deviate from the original task or scope. Pause",yes
-owasp-top10-agentic-applications-2026,C-039-S03,ASI04-1,use curated registries and block untrusted sources.,no
+owasp-top10-agentic-applications-2026,C-039-S03,ASI04-1,,withheld
 owasp-top10-agentic-applications-2026,C-039-S03,ASI09-5,Develop and continuously maintain appropriate training of human personnel involved in the evolving human oversight of autonomous agentic systems.,no
 owasp-top10-agentic-applications-2026,C-039-S04,ASI05 Prevention 4,"Where possible, restrict filesystem access to a dedicated working directory and log file diffs for critical paths.",no
 owasp-top10-agentic-applications-2026,C-039-S04,ASI02 Prevention 3,Run tool or code execution in isolated sandboxes.,no
@@ -21709,7 +22431,7 @@ owasp-top10-agentic-applications-2026,CC-001-S03,ASI08 Prevention 5,"Checkpoints
 owasp-top10-agentic-applications-2026,CC-001-S04,ASI04-4,"Put prompts, orchestration scripts, and memory schemas under version control with peer review; scan for anomalies.",no
 owasp-top10-agentic-applications-2026,CC-001-S04,ASI08-5,"Checkpoints, governance agents, or human review for high risk before agent outputs are propagated downstream.",no
 owasp-top10-agentic-applications-2026,CC-001-S04,ASI02-1,"Define per-tool least-privilege profiles (scopes, maximum rate, and egress allowlists) and restrict agentic tool functionality and each tool’s permissions and data scope to those profiles",no
-owasp-top10-agentic-applications-2026,CC-001-S04,ASI10-1,"Maintain comprehensive, immutable and signed audit logs of all agent actions, tool calls, and inter-agent communication to review for stealth infiltration or unapproved delegation.",no
+owasp-top10-agentic-applications-2026,CC-001-S04,ASI10-1,,withheld
 owasp-top10-agentic-applications-2026,CC-001-S05,ASI10 Prevention 1,"Maintain comprehensive, immutable and signed audit logs of all agent actions, tool calls, and inter-agent communication",no
 owasp-top10-agentic-applications-2026,CC-001-S05,ASI09 Prevention 2,Keep tamper-proof records of user queries and agent actions for audit and forensics.,no
 owasp-top10-agentic-applications-2026,CC-001-S05,ASI10 Prevention 3,"Deploy behavioral detection, such as watchdog agents to validate peer behavior and outputs",no
@@ -21737,7 +22459,7 @@ owasp-top10-agentic-applications-2026,CC-004-S03,ASI03-7,"Bind permissions to su
 owasp-top10-agentic-applications-2026,CC-004-S03,ASI10-6,"Keys must never be directly available to agents; instead, orchestrators should mediate signing operations so that a compromised agent cannot simply exfiltrate or misuse long-lived",yes
 owasp-top10-agentic-applications-2026,CC-004-S04,ASI02-3,Run tool or code execution in isolated sandboxes. Enforce outbound allowlists and deny all non-approved network destinations.,no
 owasp-top10-agentic-applications-2026,CC-004-S04,ASI08-2,"Sandbox agents, least privilege, network segmentation, scoped APIs, and mutual auth. to contain failure propagation.",no
-owasp-top10-agentic-applications-2026,CC-004-S05,ASI10 Prevention and Mitigation Guideline 1,,withheld
+owasp-top10-agentic-applications-2026,CC-004-S05,ASI10 Prevention and Mitigation Guideline 1,"Governance & Logging: Maintain comprehensive, immutable and signed audit logs of all agent actions, tool calls, and inter-agent communication to review for stealth infiltration or",yes
 owasp-top10-agentic-applications-2026,CC-004-S05,ASI09 Prevention and Mitigation Guideline 2,Immutable logs: Keep tamper-proof records of user queries and agent actions for audit and forensics.,no
 owasp-top10-agentic-applications-2026,CC-004-S05,ASI10 Prevention and Mitigation Guideline 3,Monitor for anomalies such as excessive or abnormal actions executions.,no
 owasp-top10-agentic-applications-2026,CC-005-S01,ASI02 Prevention 3,Run tool or code execution in isolated sandboxes. Enforce outbound allowlists and deny all non-approved network destinations.,no
@@ -21747,7 +22469,7 @@ owasp-top10-agentic-applications-2026,CC-005-S02,ASI02 Prevention and Mitigation
 owasp-top10-agentic-applications-2026,CC-005-S02,ASI02 Prevention and Mitigation Guideline 8,,withheld
 owasp-top10-agentic-applications-2026,CC-005-S03,ASI09 Prevention and Mitigation Guideline 9,"Plan-divergence detection: Compare agent action sequences against approved workflow baselines and alert when unusual detours, skipped validation steps, or novel tool combinations indicate possible deception",yes
 owasp-top10-agentic-applications-2026,CC-005-S03,ASI10 Prevention and Mitigation Guideline 5,"Integrate a behavioral verification layer that continuously monitors tasks for deviations from the declared manifest for e.g. unapproved tool invocations, unexpected data exfiltration attempts etc.",no
-owasp-top10-agentic-applications-2026,CC-005-S03,ASI10 Prevention and Mitigation Guideline 1,,withheld
+owasp-top10-agentic-applications-2026,CC-005-S03,ASI10 Prevention and Mitigation Guideline 1,"Governance & Logging: Maintain comprehensive, immutable and signed audit logs of all agent actions, tool calls, and inter-agent communication to review for stealth infiltration or",yes
 owasp-top10-agentic-applications-2026,CC-005-S04,ASI02 Prevention and Mitigation Guideline 3,Enforce outbound allowlists and deny all non-approved network destinations.,no
 owasp-top10-agentic-applications-2026,CC-005-S04,ASI02 Prevention and Mitigation Guideline 8,"Continuously monitor for anomalous execution rates, unusual tool-chaining patterns (e.g., DB read followed by external transfer), and policy violations.",no
 owasp-top10-agentic-applications-2026,CC-005-S05,ASI02 Prevention and Mitigation Guideline 3,Enforce outbound allowlists and deny all non-approved network destinations.,no
@@ -21802,7 +22524,7 @@ owasp-top10-agentic-applications-2026,CC-009-S03,ASI05 Prevention and Mitigation
 owasp-top10-agentic-applications-2026,CC-009-S03,ASI05 Prevention and Mitigation Guideline 5,Isolate per-session environments with permission boundaries; apply least privilege; fail secure by default; separate code generation from execution with validation gates.,no
 owasp-top10-agentic-applications-2026,CC-009-S04,ASI03-1,"Issue short-lived, narrowly scoped tokens per task and cap rights with permission boundaries",no
 owasp-top10-agentic-applications-2026,CC-009-S05,ASI03-7,"Bind permissions to subject, resource, purpose, and duration. Require re-authentication on context switch. Prevent privilege inheritance across agents unless the original intent is re-validated.",no
-owasp-top10-agentic-applications-2026,CC-009-S05,ASI10-1,"Maintain comprehensive, immutable and signed audit logs of all agent actions, tool calls, and inter-agent communication to review for stealth infiltration or unapproved delegation.",no
+owasp-top10-agentic-applications-2026,CC-009-S05,ASI10-1,,withheld
 owasp-top10-agentic-applications-2026,CC-010-S01,ASI05-2,"pre-production checks: including the guidelines of this entry with security evaluations, adversarial unit tests and detection of unsafe memory evaluators.",no
 owasp-top10-agentic-applications-2026,CC-010-S01,ASI01-8,Conduct periodic red-team tests simulating goal override and verify rollback effectiveness.,no
 owasp-top10-agentic-applications-2026,CC-010-S02,ASI05 Prevention and Mitigation Guideline 1,Follow the mitigations of LLM05:2025 Improper Output Handling with input validation and output encoding to sanitize agent-generated code,no
@@ -21840,7 +22562,7 @@ owasp-top10-agentic-applications-2026,CC-012-S04,ASI02.3,Execution Sandboxes and
 owasp-top10-agentic-applications-2026,CC-012-S04,ASI02.8,,withheld
 owasp-top10-agentic-applications-2026,CC-012-S05,ASI07.2,"Message integrity and semantic protection: Digitally sign messages, hash both payload and context, and validate for hidden or modified natural-language instructions.",no
 owasp-top10-agentic-applications-2026,CC-012-S05,ASI07.9,"Typed contracts and schema validation: Use versioned, typed message schemas with explicit per-message audiences. Reject messages that fail validation",no
-owasp-top10-agentic-applications-2026,CC-012-S05,ASI10.1,,withheld
+owasp-top10-agentic-applications-2026,CC-012-S05,ASI10.1,"Governance & Logging: Maintain comprehensive, immutable and signed audit logs of all agent actions, tool calls, and inter-agent communication",no
 owasp-top10-agentic-applications-2026,CC-012-S06,ASI02.8,"Continuously monitor for anomalous execution rates, unusual tool-chaining patterns (e.g., DB read followed by external transfer), and policy violations.",no
 owasp-top10-agentic-applications-2026,CC-012-S06,ASI10.4,Containment & Response: Implement rapid mechanisms like kill-switches and credential revocation to instantly disable rogue agents.,no
 owasp-top10-agentic-applications-2026,CC-013-S01,ASI05-5,Architecture and design: Isolate per-session environments with permission boundaries; apply least privilege; fail secure by default; separate code generation from execution with validation gates.,no

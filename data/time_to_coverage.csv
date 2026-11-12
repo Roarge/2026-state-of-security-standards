@@ -395,6 +395,10 @@ original_definition,T1048.002,Exfiltration Over Asymmetric Encrypted Non-C2 Prot
 full_coverage_after_listing,T1048.002,Exfiltration Over Asymmetric Encrypted Non-C2 Protocol,ATT&CK Enterprise 20.1,ATT&CK,2020-03-15,iso27001-2022,2022-10-01,930,1
 full_coverage_after_listing_that_stops_the_step,T1048.002,Exfiltration Over Asymmetric Encrypted Non-C2 Protocol,ATT&CK Enterprise 20.1,ATT&CK,2020-03-15,,,2421,0
 full_coverage_after_listing_by_a_requirement,T1048.002,Exfiltration Over Asymmetric Encrypted Non-C2 Protocol,ATT&CK Enterprise 20.1,ATT&CK,2020-03-15,iso27001-2022,2022-10-01,930,1
+original_definition,T1053.007,Container Orchestration Job,ATT&CK Enterprise 20.1,ATT&CK,2021-03-29,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,T1053.007,Container Orchestration Job,ATT&CK Enterprise 20.1,ATT&CK,2021-03-29,,,2042,0
+full_coverage_after_listing_that_stops_the_step,T1053.007,Container Orchestration Job,ATT&CK Enterprise 20.1,ATT&CK,2021-03-29,,,2042,0
+full_coverage_after_listing_by_a_requirement,T1053.007,Container Orchestration Job,ATT&CK Enterprise 20.1,ATT&CK,2021-03-29,,,2042,0
 original_definition,T1056.001,Keylogging,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,FYCU6AB5_ZFEMULE5,2021-01-01,325,1
 full_coverage_after_listing,T1056.001,Keylogging,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,iso27002-2022,2022-02-01,721,1
 full_coverage_after_listing_that_stops_the_step,T1056.001,Keylogging,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,iso27002-2022,2022-02-01,721,1
@@ -675,6 +679,10 @@ original_definition,T1565.001,Stored Data Manipulation,ATT&CK Enterprise 20.1,AT
 full_coverage_after_listing,T1565.001,Stored Data Manipulation,ATT&CK Enterprise 20.1,ATT&CK,2020-03-02,,,2434,0
 full_coverage_after_listing_that_stops_the_step,T1565.001,Stored Data Manipulation,ATT&CK Enterprise 20.1,ATT&CK,2020-03-02,,,2434,0
 full_coverage_after_listing_by_a_requirement,T1565.001,Stored Data Manipulation,ATT&CK Enterprise 20.1,ATT&CK,2020-03-02,,,2434,0
+original_definition,T1565.003,Runtime Data Manipulation,ATT&CK Enterprise 20.1,ATT&CK,2020-03-02,FYCU6AB5_ZFEMULE5,2021-01-01,305,1
+full_coverage_after_listing,T1565.003,Runtime Data Manipulation,ATT&CK Enterprise 20.1,ATT&CK,2020-03-02,,,2434,0
+full_coverage_after_listing_that_stops_the_step,T1565.003,Runtime Data Manipulation,ATT&CK Enterprise 20.1,ATT&CK,2020-03-02,,,2434,0
+full_coverage_after_listing_by_a_requirement,T1565.003,Runtime Data Manipulation,ATT&CK Enterprise 20.1,ATT&CK,2020-03-02,,,2434,0
 original_definition,T1566,Phishing,ATT&CK Enterprise 20.1,ATT&CK,2020-03-02,FYCU6AB5_ZFEMULE5,2021-01-01,305,1
 full_coverage_after_listing,T1566,Phishing,ATT&CK Enterprise 20.1,ATT&CK,2020-03-02,,,2434,0
 full_coverage_after_listing_that_stops_the_step,T1566,Phishing,ATT&CK Enterprise 20.1,ATT&CK,2020-03-02,,,2434,0

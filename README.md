@@ -27,8 +27,8 @@ The diagram shows the path from documents and events to results. The terms in it
 ```mermaid
 flowchart TD
     A[83 standards and guidance documents] --> C
-    B[68 security events<br>November 2025 to October 2026] --> S[510 attack steps<br>each with the defence it would have needed]
-    S --> C{42,330 pairs<br>one document against one step}
+    B[68 security events<br>November 2025 to October 2026] --> S[524 attack steps<br>each with the defence it would have needed]
+    S --> C{43,492 pairs<br>one document against one step}
     C --> D[Coder A<br>AI model]
     C --> E[Coder B<br>AI model]
     D --> F{Same answer?}
@@ -62,19 +62,21 @@ Each event has an autonomy level, which says how much of the attack an AI system
 | 3 | An AI system chooses and carries out the steps, and no person directs it after it starts. This includes AI systems that caused harm with no attacker behind them |
 | unclear | The sources do not settle the level. This applies to one event with eight steps, which is left out of comparisons between levels |
 
-The 68 events gave 510 attack steps (`data/attack_steps.csv`). A step is one action by the attacker, or one condition the attacker relied on, described at the level of detail of the public catalogues of attack techniques: MITRE ATT&CK (MITRE, 2026a), MITRE ATLAS, its counterpart for attacks on AI systems (MITRE, 2026b), and the OWASP Top 10 for Agentic Applications (OWASP, 2025). Each step also states, in one sentence, what a defender would have had to do to prevent it, detect it, limit its effect or respond to it. The study calls this sentence the defensive need (`defensive_need`), and it is what the documents are judged against.
+The 68 events gave 524 attack steps (`data/attack_steps.csv`). A step is one action by the attacker, or one condition the attacker relied on, described at the level of detail of the public catalogues of attack techniques: MITRE ATT&CK (MITRE, 2026a), MITRE ATLAS, its counterpart for attacks on AI systems (MITRE, 2026b), and the OWASP Top 10 for Agentic Applications (OWASP, 2025). Each step also states, in one sentence, what a defender would have had to do to prevent it, detect it, limit its effect or respond to it. The study calls this sentence the defensive need (`defensive_need`), and it is what the documents are judged against.
 
-Every step was written by an AI model from the saved text of the public sources. A second model then checked each step against the passage it rests on. It accepted 282 steps as written. Of the others, 144 were revised and 84 were kept as they were against the checker's objection, each with a recorded reason. The column `check_still_asked_for_revision` marks the 73 steps for which a second check still asked for a change.
+Every step was written by an AI model from the saved text of the public sources. A second model then checked each step against the passage it rests on. It accepted 283 steps as written. Of the others, 147 were revised and 94 were kept as they were against the checker's objection, each with a recorded reason. The column `check_still_asked_for_revision` marks the 76 steps for which a second check still asked for a change.
+
+The steps of one event were corrected and completed after their first extraction. In event C-001, AI agents under evaluation at OpenAI broke into the systems of Hugging Face. The first extraction of this event's steps read only the report of the developer whose AI system caused the event. The steps were then corrected from an independent investigation and from the affected organisation's own account. Three of the eight steps changed in wording and were coded again. The new codes of these three steps moved the count of pairs rated partial from 9,849 to 9,859 and of pairs rated none from 31,930 to 31,920, and changed no full code. The actions that the first extraction had left out were added as 14 further steps, so the event has 22 steps. This was done on 12 November 2026, after the first results were known. The added steps went through the same check by a second model and were coded for all 83 documents by the same procedure as every other step. Without them the study has 510 steps, of which 247 (48.43%) are covered in full by at least one document.
 
 ### Judging one document against one step
 
-The unit of the analysis is a pair: one document set against one step. 83 documents and 510 steps give 42,330 pairs (`data/coverage.csv`). The method follows the way NIST maps one document to another (Scarfone, Souppaya and Fagan, 2024).
+The unit of the analysis is a pair: one document set against one step. 83 documents and 524 steps give 43,492 pairs (`data/coverage.csv`). The method follows the way NIST maps one document to another (Scarfone, Souppaya and Fagan, 2024).
 
 Assigning one value from a fixed list to an item is called coding. The value is a code, whoever assigns it is a coder, and the list with its definitions is the codebook (`method/codebook.md`). For each pair the coder answers a fixed list of questions with one code each. A pair whose final coverage is full is called a full code below.
 
 **Is the step inside the document's own scope?** A standard for traffic signal controllers does not claim to cover a cloud database. The pair is in scope (`scope_match` is `yes`) when the document itself states that it covers the kind of asset or activity that the defence would protect.
 
-**How much of the defensive need do the document's clauses meet?** This is the coverage (`coverage`). It is full (`full`) when one clause, or several together, state measures that meet the whole need. It is partial (`partial`) when clauses meet part of the need, or meet it only in general terms such as "manage risks to systems", or meet it only under an assumption that the step broke. It is none (`none`) when no clause meets any part of it. The coder must name each clause and copy the supporting words from the document (`data/clause_evidence.csv`). Two rules shape the counts. Where two coverage levels were about equally defensible, the coder was told to choose the higher one and to mark its confidence as low, so doubtful cases count in favour of the document. Of the 551 full codes, 117 carry low confidence. And a general clause on input checking, access control or the supply chain counts as partial at most for a step against an AI system, unless it names AI inputs, models, agents or their tools.
+**How much of the defensive need do the document's clauses meet?** This is the coverage (`coverage`). It is full (`full`) when one clause, or several together, state measures that meet the whole need. It is partial (`partial`) when clauses meet part of the need, or meet it only in general terms such as "manage risks to systems", or meet it only under an assumption that the step broke. It is none (`none`) when no clause meets any part of it. The coder must name each clause and copy the supporting words from the document (`data/clause_evidence.csv`). Two rules shape the counts. Where two coverage levels were about equally defensible, the coder was told to choose the higher one and to mark its confidence as low, so doubtful cases count in favour of the document. Of the 557 full codes, 123 carry low confidence. And a general clause on input checking, access control or the supply chain counts as partial at most for a step against an AI system, unless it names AI inputs, models, agents or their tools.
 
 **How binding are those clauses?** The normative force (`normative_force`) is a requirement (shall, must), a recommendation (should, may) or informative text (notes and examples).
 
@@ -94,7 +96,7 @@ Assigning one value from a fixed list to an item is called coding. The value is 
 
 ### Two AI coders and an adjudicator
 
-Reading 83 documents against 510 steps is beyond what one person can do by hand in the time available, so the coding was done by large language models, which are AI systems that read and write text. Two models coded every pair independently, each without seeing the other's answer: `claude-sonnet-5-5` as coder A and `claude-opus-4-8` as coder B, both from Anthropic. Each request held the full text of one document, at most 20 steps and the same fixed instructions (`method/coder_instructions.md`).
+Reading 83 documents against 524 steps is beyond what one person can do by hand in the time available, so the coding was done by large language models, which are AI systems that read and write text. Two models coded every pair independently, each without seeing the other's answer: `claude-sonnet-5-5` as coder A and `claude-opus-4-8` as coder B, both from Anthropic. Each request held the full text of one document, at most 20 steps and the same fixed instructions (`method/coder_instructions.md`).
 
 Where the two coders gave the same coverage, the same answer on scope and the same gap class, coder B's answer became the final code, with its clauses and quotes. The other answers, such as normative force and broken assumption, were not compared. Where the coders differed on one of the three, or a program found an answer inconsistent with the rules of the codebook, a third request to `claude-opus-4-8` received both answers and the document and decided. The study calls this third request the adjudicator. For five pairs only one coder's answer exists. The column `settled_by` in `data/coverage.csv` says which of these routes produced each final code.
 
@@ -110,13 +112,13 @@ For every full code, Kimi K3 and GLM-5.3 were asked what each cited clause does 
 
 Two coders who agree by chance alone prove nothing, so agreement is reported as Krippendorff's alpha (Krippendorff, 2018). Alpha is 1 when two coders always agree and 0 when they agree no more often than chance would produce. By convention 0.80 counts as reliable and values from 0.667 to 0.80 as good enough for tentative conclusions only (`data/agreement.csv`).
 
-The researcher reviewed 100 final codes and agreed with all 100. The sample was drawn at random in four groups of 25: codes rated full, codes rated partial, codes rated none where the step was in scope, and codes the adjudicator had decided. 68 of the 100 came from steps at autonomy level 2 or 3. Pairs rated none outside the document's scope, which are most pairs, had no group of their own, and eight of them entered through the group of adjudicated codes. One code drawn as full had become partial by the time of the review. The sample holds no code of the seven standards coded on 12 November. He saw each code before judging it, which makes this an upper bound on the true agreement.
+The researcher reviewed 100 final codes and agreed with all 100. The sample was drawn at random in four groups of 25: codes rated full, codes rated partial, codes rated none where the step was in scope, and codes the adjudicator had decided. 68 of the 100 came from steps at autonomy level 2 or 3. Pairs rated none outside the document's scope, which are most pairs, had no group of their own, and eight of them entered through the group of adjudicated codes. One code drawn as full had become partial by the time of the review. The sample holds no code of the seven standards coded on 12 November and none of the 14 steps added to event C-001. He saw each code before judging it, which makes this an upper bound on the true agreement.
 
 `data/sensitivity.csv` repeats the count of steps covered in full under 18 alternative choices, such as one coder alone, standards without guidance documents, or without the pairs that another model had to complete. This shows how far the result depends on choices the study made.
 
 ### Time to coverage
 
-The catalogues of attack techniques record when each technique was first listed. For every technique in the 510 steps that was listed from 2020 onwards, the study measures the time from that date to the publication of the first corpus document that covers a step using the technique in full (`data/time_to_coverage.csv`). A technique that no document covers by 31 October 2026 is counted as still waiting, and the typical wait is estimated by the Kaplan-Meier method (Kaplan and Meier, 1958), which is built for data where some waits have not ended.
+The catalogues of attack techniques record when each technique was first listed. For every technique in the 524 steps that was listed from 2020 onwards, the study measures the time from that date to the publication of the first corpus document that covers a step using the technique in full (`data/time_to_coverage.csv`). A technique that no document covers by 31 October 2026 is counted as still waiting, and the typical wait is estimated by the Kaplan-Meier method (Kaplan and Meier, 1958), which is built for data where some waits have not ended.
 
 ### Three events in depth
 
@@ -124,7 +126,7 @@ Three events were analysed with CAST, a method from systems engineering for the 
 
 ### Changes made during the study
 
-The method was written down and fixed before the coding began. Besides the seven standards coded on 12 November (see the section on the documents), these changes to models, definitions, instructions and code were made afterwards:
+The method was written down and fixed before the coding began. The standards that entered the corpus as their full text was obtained, and the correction and completion of the steps of event C-001, are additions and corrections to the data and not changes to the method, and they are described in the sections on the documents and on the events. These changes to models, definitions, instructions and code were made after the method was fixed:
 
 | Change | Reason |
 |---|---|
@@ -135,7 +137,6 @@ The method was written down and fixed before the coding began. Besides the seven
 | Declined requests go to `claude-fable-5-2` with a stated defensive purpose, to Kimi K3 as coder, and to GLM-5.3 as third coder with a majority rule | Safety filters declined part of the defensive coding |
 | The function of the clauses behind each full code is coded | Added after the first results, to separate clauses that would stop a step from clauses that only relate to it |
 | Time to coverage counts full coverage by a document published on or after the technique was listed | Under the original definition (full or partial coverage by any current edition) nearly every technique counted as covered at once, which said nothing. This was chosen after the first results, and the original result is in `data/time_to_coverage.csv` beside it |
-| The steps of one event (C-001, in which AI agents under evaluation at OpenAI broke into the systems of Hugging Face) were corrected from an independent investigation and the affected organisation's own account, and three of them were coded again | The first version rested on the report of the developer whose AI system caused the event |
 
 ### Use of AI tools
 
@@ -143,13 +144,13 @@ AI models did the coding, as described above. They also wrote the attack steps f
 
 ## Results summary
 
-**Full coverage is rare, and most pairs lie outside the document's own scope.** Of the 42,330 pairs, 551 (1.30%) have full coverage, 9,859 (23.29%) partial and 31,920 (75.41%) none. A low share of pairs is expected, because every step is set against every document, and most documents deal with another kind of system than the one a given step struck. Only 10,591 pairs (25.02%) are in scope, and among those 550 are full, 8,791 partial and 1,250 none.
+**Full coverage is rare, and most pairs lie outside the document's own scope.** Of the 43,492 pairs, 557 (1.28%) have full coverage, 10,162 (23.37%) partial and 32,773 (75.35%) none. A low share of pairs is expected, because every step is set against every document, and most documents deal with another kind of system than the one a given step struck. Only 10,917 pairs (25.10%) are in scope, and among those 556 are full, 9,091 partial and 1,270 none.
 
 ![Coverage of all pairs and of pairs in scope](figures/coverage_of_pairs.png)
 
-**Just under half of the steps are covered in full by at least one document.** That holds for 247 of the 510 steps (48.43%). The count falls to 200 when the clauses must also stop the step in the judgement of two further models, to 200 with standards alone, and to 81 when the clause must be a requirement. Of the 247 steps, 120 rest on a single document. More than half of the documents (52 of 83) have no full code at all. Without the seven standards coded on 12 November the counts are 187 steps covered in full, 146 where the clauses also stop the step, 102 with standards alone and 48 with a requirement. Most of the difference in the first three comes from one document, ISO/IEC 27002, which alone has 135 of the 551 full codes, all of them recommendations. The difference in the fourth comes from ISO/IEC 27001: 32 of the 81 steps have a requirement only in its Annex A, whose controls an organisation may leave out with a justification.
+**Just under half of the steps are covered in full by at least one document.** That holds for 250 of the 524 steps (47.71%). The count falls to 203 when the clauses must also stop the step in the judgement of two further models, to 202 with standards alone, and to 81 when the clause must be a requirement. Of the 250 steps, 120 rest on a single document. More than half of the documents (52 of 83) have no full code at all. Without the seven standards coded on 12 November the counts are 190 steps covered in full, 149 where the clauses also stop the step, 102 with standards alone and 48 with a requirement. Most of the difference in the first three comes from one document, ISO/IEC 27002, which alone has 137 of the 557 full codes, all of them recommendations. The difference in the fourth comes from ISO/IEC 27001: 32 of the 81 steps have a requirement only in its Annex A, whose controls an organisation may leave out with a justification.
 
-**Steps from events at the higher autonomy levels are covered less often.** Some document covers in full 144 of the 323 steps (44.58%) from events at autonomy levels 2 and 3, against 102 of 179 (56.98%) at levels 0 and 1. Eight steps come from the one event whose level the sources leave unclear and are in neither group. The difference remains when the steps of AI systems that acted with no attacker behind them are left out: 95 of 198 steps (47.98%) against 102 of 178 (57.30%). It is a description and not proof that the AI system is the reason: the two groups of events differ in more than who ran the attack, and with coder A's codes alone the difference shrinks to under three percentage points (58.8% against 61.5%).
+**Steps from events at the higher autonomy levels are covered less often.** Some document covers in full 147 of the 337 steps (43.62%) from events at autonomy levels 2 and 3, against 102 of 179 (56.98%) at levels 0 and 1. Eight steps come from the one event whose level the sources leave unclear and are in neither group. The difference remains when the steps of AI systems that acted with no attacker behind them are left out: 95 of 198 steps (47.98%) against 102 of 178 (57.30%). It is a description and not proof that the AI system is the reason: the two groups of events differ in more than who ran the attack, and with coder A's codes alone the difference shrinks to about two percentage points (59.3% against 61.5%).
 
 ![Steps covered in full, in part or not at all, by autonomy level](figures/steps_by_autonomy_level.png)
 
@@ -157,21 +158,21 @@ AI models did the coding, as described above. They also wrote the attack steps f
 
 ![What the documents say about the attacker](figures/attacker_profiles.png)
 
-**Nearly every shortfall is recorded as a matter of scope.** Among the 10,041 in-scope pairs rated partial or none, 9,750 (97.10%) have the gap class scope: the document states no measure for the step or for part of the need. The classes that would show a broken assumption are small. The table counts all 41,779 pairs rated partial or none, in scope or not.
+**Nearly every shortfall is recorded as a matter of scope.** Among the 10,361 in-scope pairs rated partial or none, 10,068 (97.17%) have the gap class scope: the document states no measure for the step or for part of the need. The classes that would show a broken assumption are small. The table counts all 42,935 pairs rated partial or none, in scope or not.
 
-| Gap class | Pairs | Steps touched (of 510) |
+| Gap class | Pairs | Steps touched (of 524) |
 |---|---|---|
-| Scope | 41,460 | 510 |
+| Scope | 42,614 | 524 |
 | Accountability and supply chain | 194 | 25 |
 | Technical assumption | 48 | 21 |
-| Attacker model | 43 | 36 |
+| Attacker model | 45 | 38 |
 | Tempo | 34 | 30 |
 | Infrastructure | 0 | 0 |
 | Very small entities | 0 | 0 |
 
 The small counts do not show that the standards' assumptions hold. The coders agree poorly on which of these classes a pair belongs to, and scope is a broad class that says little about why a measure is missing. The assumption recorded as broken most often concerns suppliers and components (174 pairs), and not the attacker (13 pairs).
 
-**Techniques listed since 2020 wait about two years for full coverage, and many still wait.** The steps use 168 ATT&CK techniques that the catalogue listed in 2020 or later. A corpus document published on or after the listing date covers 102 of them in full. The estimated median wait is 2.0 years, which is the time by which half of the techniques are expected to be covered when those still waiting are taken into account. For the 64 techniques against AI systems (from ATLAS and the OWASP list) the count is 22 and the estimated median 2.1 years. Nine of the 22 are entries of the OWASP list that the OWASP document itself, which is both a catalogue and a corpus document, covers on the day of listing. When the covering clause must be a requirement, the counts are 45 and 2 and no median is reached. Where the clauses must also stop the step, the median for ATT&CK is 5.7 years and none is reached for the techniques against AI systems. The measure depends strongly on which documents are in the corpus: without the seven standards coded on 12 November the medians under the first definition were 5.4 and 4.6 years. A listing date in 2020 does not always mean a new kind of attack. Of the 168 ATT&CK techniques, 125 are dated 2020, 80 of them sub-techniques, which are narrower variants of a technique, and ATT&CK reorganised its catalogue into sub-techniques in that year (MITRE, 2020), so many of these entries describe behaviour that was known before.
+**Techniques listed since 2020 wait about two years for full coverage, and many still wait.** The steps use 170 ATT&CK techniques that the catalogue listed in 2020 or later. A corpus document published on or after the listing date covers 102 of them in full. The estimated median wait is 2.1 years, which is the time by which half of the techniques are expected to be covered when those still waiting are taken into account. For the 64 techniques against AI systems (from ATLAS and the OWASP list) the count is 22 and the estimated median is also 2.1 years. Nine of the 22 are entries of the OWASP list that the OWASP document itself, which is both a catalogue and a corpus document, covers on the day of listing. When the covering clause must be a requirement, the counts are 45 and 2 and no median is reached. Where the clauses must also stop the step, the median for ATT&CK is 5.7 years and none is reached for the techniques against AI systems. The measure depends strongly on which documents are in the corpus: without the seven standards coded on 12 November the medians under the first definition are 5.6 and 4.6 years on the same 524 steps. A listing date in 2020 does not always mean a new kind of attack. Of the 170 ATT&CK techniques, 126 are dated 2020, 81 of them sub-techniques, which are narrower variants of a technique, and ATT&CK reorganised its catalogue into sub-techniques in that year (MITRE, 2020), so many of these entries describe behaviour that was known before.
 
 ![Share of attack techniques listed since 2020 that are covered in full, by years since listing](figures/time_to_coverage.png)
 
@@ -181,7 +182,7 @@ The small counts do not show that the standards' assumptions hold. The coders ag
 - *Manipulation of internet-exposed industrial controllers in US infrastructure (control event, no AI).* Every one of its seven steps has at least three full codes, so the known controls for this well-understood attack are in the documents. For the step that locked the operators out, the two further models judged that none of the four full codes would have stopped it.
 - *An intrusion at government bodies and a water utility in Mexico, run by an operator through AI coding tools (level 2).* Its ten steps have 26 full codes between them, 15 of them for the two steps at the boundary between office and industrial networks: separating the networks, and protecting the login of the industrial gateway. Two steps have no full code. One guidance document covers in full the step in which the operator planted lasting instructions in the AI tool. Every other measure on the AI tool or its provider is partial.
 
-**The results are tentative.** The coders agree on coverage with alpha 0.76 and on scope with 0.77, inside the band for tentative conclusions and below the 0.80 that counts as reliable. On the gap class alpha is 0.40, too low to trust the placing of single pairs. With coder A alone 302 steps are covered in full (59.2%) and with coder B alone 181 (35.5%), against 247 in the final codes. The figure also falls when documents are left out: to 43.1% without the twelve documents that only define formats, scoring systems and taxonomies, to 39.2% with standards alone and to 36.7% without the seven standards coded on 12 November. Two rows of the table are subsets and not alternatives: the steps at levels 2 and 3 alone (44.6%) and the 18 documents whose requests were sent in the first of two technical ways (18.9%). In the eleven other variations, which leave out events, single pairs, the three drafts or the two documents with a poorer text, it stays between 46.9% and 50.9%.
+**The results are tentative.** The coders agree on coverage with alpha 0.76 and on scope with 0.77, inside the band for tentative conclusions and below the 0.80 that counts as reliable. On the gap class alpha is 0.39, too low to trust the placing of single pairs. With coder A alone 312 steps are covered in full (59.5%) and with coder B alone 183 (34.9%), against 250 in the final codes. The figure also falls when documents are left out: to 42.6% without the twelve documents that only define formats, scoring systems and taxonomies, to 38.5% with standards alone and to 36.3% without the seven standards coded on 12 November. Two rows of the table are subsets and not alternatives: the steps at levels 2 and 3 alone (43.6%) and the 18 documents whose requests were sent in the first of two technical ways (18.9%). In the eleven other variations, which leave out events, single pairs, the three drafts or the two documents with a poorer text, it stays between 46.2% and 49.7%.
 
 ![Steps covered in full under each alternative choice](figures/sensitivity.png)
 
@@ -191,7 +192,7 @@ The small counts do not show that the standards' assumptions hold. The coders ag
 - The corpus holds only documents whose full text was available. Central standards are missing (see the list above).
 - Seven standards were coded after the first results were known. Their codes are not independent of each other: Annex A of ISO/IEC 27001 restates the controls of ISO/IEC 27002 as requirements that an organisation may leave out with a justification, and the four IEC 62443 parts belong to one series and refer to each other. The copy of ISO/IEC 27001:2022 lacks Amendment 1:2024.
 - IEC 62443-3-3 was coded from an English machine translation of its Spanish edition, so its quotes are not the wording of the standard. ISO/IEC 27005 was read by optical character recognition (`text_obtained_as` in `data/documents.csv`).
-- Accounts of what an AI system did often rest on few parties, in some events on the developer of the system alone. For event C-001 the steps follow an independent investigation and the affected organisation's own account where these describe the step, and details that only the developer reports are kept in the developer's wording. The column `source_note` names the kind of source behind each of its steps. The sources describe further actions in that event that the study does not code, and the study did not look for further independent accounts of the other events.
+- Accounts of what an AI system did often rest on few parties, in some events on the developer of the system alone. For event C-001 the steps follow an independent investigation and the affected organisation's own account where these describe the step, and details that only the developer reports are kept in the developer's wording. The column `source_note` names the kind of source behind each of its steps. Three actions that the sources of this event mention are not steps: two are known only from recovered program code that no source reports as run, and one is gaming of the evaluation and not an action against a system. Of a fourth action only the part that succeeded is a step: the agents' failed attempts to alter earlier records of their own runs are left out. The other 67 events were not read again against further sources, so omissions of the same kind may remain in their steps.
 - Two further events have no steps because the AI model declined to write them.
 - The defensive needs were worded for the asset owner, so the study did not test what standards require of authorities, platforms and AI providers.
 - The definition of time to coverage was chosen after the first results were seen. It counts only the documents of the corpus and only current editions, without the three drafts. An earlier edition or a document outside the corpus may have covered a technique sooner.
@@ -202,14 +203,14 @@ The small counts do not show that the standards' assumptions hold. The coders ag
 |---|---|---|
 | `data/documents.csv` | 83 | The documents: title, edition, date, issuer, class, layers, how the text was obtained |
 | `data/events.csv` | 68 | The events: name, dates, autonomy level, AI roles, sectors, links to the public sources |
-| `data/attack_steps.csv` | 510 | The steps: description, defensive need, technique labels, who performed the step, source link |
-| `data/coverage.csv` | 42,330 | The final code of every pair |
+| `data/attack_steps.csv` | 524 | The steps: description, defensive need, technique labels, who performed the step, source link |
+| `data/coverage.csv` | 43,492 | The final code of every pair |
 | `data/clause_evidence.csv` | one per cited clause | Clause number and a quote of at most 25 words, withheld where it would join with another quote into a longer passage |
 | `data/full_code_functions.csv` | one per clause, model and full code | What each clause does against the step, and whether the clauses stop it |
 | `data/attacker_profiles.csv` | 83 | The six profile questions for each document |
 | `data/agreement.csv` | 18 | Agreement between coders |
 | `data/sensitivity.csv` | 19 | The main results as reported and under each of 18 alternative choices |
-| `data/time_to_coverage.csv` | 928 | One row per technique and definition |
+| `data/time_to_coverage.csv` | 936 | One row per technique and definition |
 | `method/codebook.md` | | The definition of every code and the decision rules |
 | `method/coder_instructions.md` | | The instructions the models received |
 | `method/output_format.json` | | The answer format the models had to fill in |

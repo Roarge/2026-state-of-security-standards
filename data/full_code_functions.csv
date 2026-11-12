@@ -576,6 +576,28 @@ ECEUFDLE_6JA3C38M,C-001-S03,GLM-5.3,2.6.3,none,yes
 ECEUFDLE_6JA3C38M,C-001-S03,Kimi K3,2.6.7,prevent,yes
 ECEUFDLE_6JA3C38M,C-001-S03,Kimi K3,2.6.1,limit,yes
 ECEUFDLE_6JA3C38M,C-001-S03,Kimi K3,2.6.3,limit,yes
+ECEUFDLE_6JA3C38M,C-001-S12,GLM-5.3,2.5.1,prevent,yes
+ECEUFDLE_6JA3C38M,C-001-S12,GLM-5.3,2.4.4,limit,yes
+ECEUFDLE_6JA3C38M,C-001-S12,GLM-5.3,3.3.2,detect,yes
+ECEUFDLE_6JA3C38M,C-001-S12,Kimi K3,2.5.1,prevent,yes
+ECEUFDLE_6JA3C38M,C-001-S12,Kimi K3,2.4.4,limit,yes
+ECEUFDLE_6JA3C38M,C-001-S12,Kimi K3,3.3.2,detect,yes
+ECEUFDLE_6JA3C38M,C-001-S18,GLM-5.3,2.7.1,prevent,yes
+ECEUFDLE_6JA3C38M,C-001-S18,GLM-5.3,2.7.1,prevent,yes
+ECEUFDLE_6JA3C38M,C-001-S18,GLM-5.3,2.7.1,respond,yes
+ECEUFDLE_6JA3C38M,C-001-S18,GLM-5.3,2.6.1,limit,yes
+ECEUFDLE_6JA3C38M,C-001-S18,Kimi K3,2.7.1,prevent,yes
+ECEUFDLE_6JA3C38M,C-001-S18,Kimi K3,2.7.1,prevent,yes
+ECEUFDLE_6JA3C38M,C-001-S18,Kimi K3,2.7.1,respond,yes
+ECEUFDLE_6JA3C38M,C-001-S18,Kimi K3,2.6.1,limit,yes
+ECEUFDLE_6JA3C38M,C-001-S20,GLM-5.3,2.5.1,prevent,yes
+ECEUFDLE_6JA3C38M,C-001-S20,GLM-5.3,2.5.2,prevent,yes
+ECEUFDLE_6JA3C38M,C-001-S20,GLM-5.3,2.5.6,prevent,yes
+ECEUFDLE_6JA3C38M,C-001-S20,GLM-5.3,2.6.1,prevent,yes
+ECEUFDLE_6JA3C38M,C-001-S20,Kimi K3,2.5.1,prevent,yes
+ECEUFDLE_6JA3C38M,C-001-S20,Kimi K3,2.5.2,prevent,yes
+ECEUFDLE_6JA3C38M,C-001-S20,Kimi K3,2.5.6,prevent,yes
+ECEUFDLE_6JA3C38M,C-001-S20,Kimi K3,2.6.1,limit,yes
 ECEUFDLE_6JA3C38M,C-003-S05,GLM-5.3,2.9.4,prevent,yes
 ECEUFDLE_6JA3C38M,C-003-S05,GLM-5.3,2.9.4,prevent,yes
 ECEUFDLE_6JA3C38M,C-003-S05,GLM-5.3,2.9.3,respond,yes
@@ -2453,6 +2475,14 @@ iso27002-2022,B-033-S02,GLM-5.3,8.8,prevent,yes
 iso27002-2022,B-033-S02,GLM-5.3,8.22,limit,yes
 iso27002-2022,B-033-S02,Kimi K3,8.8,prevent,yes
 iso27002-2022,B-033-S02,Kimi K3,8.22,limit,yes
+iso27002-2022,C-001-S18,GLM-5.3,8.24,prevent,yes
+iso27002-2022,C-001-S18,Kimi K3,8.24,prevent,yes
+iso27002-2022,C-001-S20,GLM-5.3,8.22,prevent,yes
+iso27002-2022,C-001-S20,GLM-5.3,8.20,prevent,yes
+iso27002-2022,C-001-S20,GLM-5.3,8.2,limit,yes
+iso27002-2022,C-001-S20,Kimi K3,8.20,prevent,yes
+iso27002-2022,C-001-S20,Kimi K3,8.22,prevent,yes
+iso27002-2022,C-001-S20,Kimi K3,8.2,prevent,yes
 iso27002-2022,C-003-S05,GLM-5.3,8.13,prevent,yes
 iso27002-2022,C-003-S05,Kimi K3,8.13,prevent,yes
 iso27002-2022,C-004-S01,GLM-5.3,5.17,prevent,yes
@@ -2803,6 +2833,12 @@ owasp-top10-agentic-applications-2026,B-026-S02,GLM-5.3,ASI06 Prevention 6,preve
 owasp-top10-agentic-applications-2026,B-026-S02,Kimi K3,ASI06 Prevention 2,prevent,yes
 owasp-top10-agentic-applications-2026,B-026-S02,Kimi K3,ASI06 Prevention 4,prevent,yes
 owasp-top10-agentic-applications-2026,B-026-S02,Kimi K3,ASI06 Prevention 6,prevent,yes
+owasp-top10-agentic-applications-2026,C-001-S12,GLM-5.3,ASI02-PM3,prevent,yes
+owasp-top10-agentic-applications-2026,C-001-S12,GLM-5.3,ASI05-PM4,limit,yes
+owasp-top10-agentic-applications-2026,C-001-S12,GLM-5.3,ASI04-PM3,limit,yes
+owasp-top10-agentic-applications-2026,C-001-S12,Kimi K3,ASI02-PM3,prevent,yes
+owasp-top10-agentic-applications-2026,C-001-S12,Kimi K3,ASI05-PM4,prevent,yes
+owasp-top10-agentic-applications-2026,C-001-S12,Kimi K3,ASI04-PM3,prevent,yes
 owasp-top10-agentic-applications-2026,C-003-S03,GLM-5.3,ASI03-1,prevent,yes
 owasp-top10-agentic-applications-2026,C-003-S03,GLM-5.3,ASI03-7,prevent,yes
 owasp-top10-agentic-applications-2026,C-003-S03,GLM-5.3,ASI02-1,prevent,yes
