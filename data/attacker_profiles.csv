@@ -1,0 +1,84 @@
+document_id,attacker_classes_defined,target_attractiveness_logic,human_pace_assumptions,automated_attacks_mentioned,ai_attacker_mentioned,ai_target_mentioned,attacker_factors,profiled
+3WRTBI4D_4B6V6RR5,no,yes,no,yes,no,no,motivation,yes
+79XX9XUV_JHTLRQXL,yes,yes,no,yes,no,yes,motivation,yes
+7ZIG3LCH_BD8RD8CU,no,yes,no,no,yes,yes,none,yes
+ECEUFDLE_6JA3C38M,no,yes,no,yes,no,no,none,yes
+FFATR2BC_ZKHB27T8,yes,yes,no,no,no,no,motivation | resources | skill,yes
+FYCU6AB5_ZFEMULE5,no,yes,no,no,no,no,none,yes
+KBVQZI4M_SY3TZANI,no,yes,no,no,no,no,none,yes
+Q6LNHQIE_8YS3ZZAI,,,,,,,,no
+QFCSEQMM_9SIH5G7K,yes,yes,no,no,no,yes,none,yes
+QX58BXKY_AZW2XMEW,no,yes,no,no,no,no,none,yes
+R3LPL5C2_6FU8I4RC,no,yes,no,no,no,no,none,yes
+VSA8FGPS_5PUNJ53V,yes,yes,no,yes,no,no,access | equipment | knowledge | motivation | opportunity | resources | skill | time,yes
+YJNSEJS5_PSLSG37C,yes,no,no,yes,yes,yes,access | knowledge | motivation | resources,yes
+YZU6B3F5_FWK5U4MY,yes,yes,no,yes,no,no,motivation | resources | skill | time,yes
+2BZQI8BK_YMUA63VK,no,no,no,yes,no,no,none,yes
+2FUUM8SG_DS6VF4Z6,no,no,no,no,no,no,none,yes
+2G9KN5HD_T8LKPKQM,no,no,no,yes,no,no,none,yes
+2GYGZYRP_VEPRKUDU,no,no,no,no,no,no,resources,yes
+3T2TIN33_NH2FT9MC,no,no,no,no,no,no,none,yes
+4SQHZUSL_YY2EYK99,yes,yes,no,yes,no,no,motivation | opportunity | resources | skill,yes
+4YQW4CTF_WWWSPSPJ,no,no,no,no,no,no,none,yes
+5PMFU7PP_F65J6PJE,no,no,no,no,no,no,none,yes
+5W6G44UG_MPQ2X3R5,no,no,no,no,no,no,none,yes
+7S3VETZS_DLLUC4CH,no,no,no,yes,no,no,none,yes
+85KWPTFM_RP4GSNKM,no,no,no,no,no,no,none,yes
+87Y5B26N_HA7YDMFF,no,yes,yes,yes,no,yes,resources,yes
+88IWLPAX_ZGJCNL5Q,no,yes,no,yes,no,no,access | skill | time,yes
+8HM8AWJ6_DW3X3CPR,yes,yes,no,no,no,yes,none,yes
+9RHRKADR_GKN28KWH,no,no,no,no,no,no,none,yes
+B8RST6H3_N3GBWEB2,yes,yes,yes,yes,no,no,access | knowledge | motivation | opportunity | resources | skill | time,yes
+BDG4NT6F_KM26JI6L,yes,yes,yes,yes,no,no,equipment | motivation | opportunity | resources | skill | time,yes
+BLDTI2BT_TTZ6DM6W,yes,yes,yes,yes,no,no,motivation | resources | skill,yes
+CSZ6AZFW_F88US3ZB,no,yes,no,yes,no,no,access | knowledge | opportunity | resources | skill,yes
+D5ZCZHR6_3YH5S7G7,no,no,no,no,no,no,none,yes
+DDY2FV9F_D9APUF5K,no,no,no,no,no,no,none,yes
+DK464Y8Y_ZK2WEJGD,no,no,no,yes,no,yes,none,yes
+DKDSVTR3_Q35CWPHA,no,yes,no,yes,no,no,none,yes
+DYPL53HN_NQ2MX2DK,no,no,no,no,no,no,resources,yes
+EGLPQNIU_H3LX2NRH,yes,yes,yes,yes,yes,yes,equipment | knowledge | motivation | opportunity | resources | skill | time,yes
+FKPFAPGS_9BPNV5GC,no,no,no,no,no,no,resources,yes
+FR7KCXKA_XV6Z5SXP,no,no,yes,yes,no,no,none,yes
+H7KQBXNF_YNDIX7RB,no,no,no,no,no,yes,none,yes
+HNU3XYMG_4H32JLDR,no,yes,no,no,no,no,resources,yes
+IAUHG4KB_YZWXI3IB,no,yes,no,yes,no,no,none,yes
+IS59PL8L_YFGYHPFI,no,yes,no,yes,no,yes,none,yes
+IYIZ2QYN_7A94ZGH4,no,no,yes,yes,no,no,none,yes
+JE8VEZU9_MLZ846FR,no,yes,no,yes,no,no,none,yes
+JXNG6MMY_JBMTAVUN,no,no,no,no,no,no,none,yes
+LGNNWBKM_JFTBRU7C,no,yes,no,no,no,no,access | knowledge | resources | skill | time,yes
+M2NHKV9P_NI6NAWBD,no,no,no,no,no,no,resources,yes
+NA5PWZ5E_4RF8WIER,no,no,no,no,no,no,none,yes
+NFCJ75PR_TAINPAM6,no,no,no,no,no,no,none,yes
+NTCRTABU_PE293MCL,no,yes,no,yes,no,yes,none,yes
+P426N3IG_4HCGTPWA,yes,yes,yes,yes,yes,yes,motivation | resources | skill,yes
+R4NKKGCR_CTQ4R3BS,no,no,no,yes,no,no,none,yes
+SHB39C38_9PIHPWHU,no,yes,no,no,no,yes,none,yes
+VB9XIUN8_ADFN3RBK,no,no,no,no,no,no,none,yes
+VYQW83CK_3DDJ9EDA,no,no,no,no,no,no,none,yes
+WLK7XX4H_6KZ8VDYK,no,no,no,yes,no,no,none,yes
+WV9DGBPE_ETDQ3XTP,no,no,no,no,no,yes,none,yes
+XYXMBF3U_E9CM2TMI,yes,yes,no,yes,no,no,motivation | resources | skill | time,yes
+Y6VE7RYT_R3XTW9UJ,no,no,no,no,no,no,none,yes
+Y746ZAMU_WBD3GKUD,no,no,no,no,no,no,none,yes
+YMWKXSR6_67EUY6VP,yes,yes,yes,yes,no,no,equipment | knowledge | motivation | opportunity | resources | skill | time,yes
+YX4MHEBB_YZGGZ2ZQ,yes,yes,yes,no,no,no,access | motivation | opportunity | skill,yes
+U952PZR9_72TDFDN6,no,yes,no,yes,no,no,access | knowledge | skill,yes
+ncsc-uk-retaining-defensive-advantage-frontier-ai-2026-05,no,no,no,no,yes,no,resources | skill | time,yes
+ncsc-uk-statement-frontier-ai-evaluation-incidents-2026-08,no,no,no,no,no,yes,none,yes
+ncsc-nz-frontier-ai-managing-vulnerability-risks,no,yes,no,no,yes,yes,none,yes
+csa-sg-commissioners-letter-frontier-ai-2026-05,no,no,no,yes,yes,yes,resources | skill | time,yes
+mitre-ctid-secure-ai-v2-release,no,no,no,no,no,yes,none,yes
+owasp-top10-agentic-applications-2026,no,yes,no,yes,yes,yes,none,yes
+nist-ir-8596-iprd-cyber-ai-profile,no,yes,no,yes,yes,yes,none,yes
+asd-nsa-ai-ml-supply-chain-2026-03,no,yes,no,no,no,yes,none,yes
+nist-cosais-predictive-ai-annotated-outline-2026-01,no,yes,no,no,no,yes,knowledge,yes
+cisa-bod-26-04-composite,no,yes,no,yes,yes,no,access | opportunity,yes
+iso27001-2022,no,yes,no,no,no,no,none,yes
+iso27002-2022,no,yes,yes,yes,no,no,none,yes
+iec62443-2-1-2024,no,yes,yes,yes,no,no,resources,yes
+iec62443-4-2-2019,yes,yes,yes,yes,no,no,motivation | resources | skill,yes
+une-en-iec62443-3-3-2020,yes,yes,yes,yes,no,no,knowledge | motivation | resources | skill | time,yes
+iso27005-2022,yes,yes,no,yes,no,no,knowledge | motivation | resources | skill,yes
+iec62443-4-1-2018,no,yes,no,yes,no,no,none,yes

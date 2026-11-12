@@ -1,0 +1,19 @@
+coder_set,autonomy_levels,field,pairs,krippendorff_alpha,ci95_low,ci95_high,percent_agreement
+both_answers_from_the_two_main_models,all,coverage,42074,0.7625,0.7553,0.7697,89.59
+both_answers_from_the_two_main_models,all,scope_match,42074,0.7656,0.7583,0.7722,91.19
+both_answers_from_the_two_main_models,all,gap_class,41204,0.4086,0.3567,0.4545,99.14
+both_answers_from_the_two_main_models,0 and 1,coverage,14658,0.7946,0.7827,0.8059,90.69
+both_answers_from_the_two_main_models,0 and 1,scope_match,14658,0.8033,0.7921,0.8143,92.55
+both_answers_from_the_two_main_models,0 and 1,gap_class,14270,0.458,0.38,0.5309,99.0
+both_answers_from_the_two_main_models,2 and 3,coverage,26745,0.7438,0.7342,0.7528,88.95
+both_answers_from_the_two_main_models,2 and 3,scope_match,26745,0.7457,0.7371,0.7551,90.48
+both_answers_from_the_two_main_models,2 and 3,gap_class,26267,0.3691,0.2975,0.4313,99.19
+all_pairs_with_two_answers,all,coverage,42835,0.7615,0.7541,0.7682,89.6
+all_pairs_with_two_answers,all,scope_match,42835,0.7657,0.7587,0.7724,91.24
+all_pairs_with_two_answers,all,gap_class,41953,0.4039,0.3538,0.4526,99.13
+all_pairs_with_two_answers,0 and 1,coverage,15035,0.7932,0.7821,0.8038,90.73
+all_pairs_with_two_answers,0 and 1,scope_match,15035,0.8032,0.7926,0.8145,92.62
+all_pairs_with_two_answers,0 and 1,gap_class,14642,0.4581,0.3795,0.5283,99.02
+all_pairs_with_two_answers,2 and 3,coverage,27128,0.7429,0.7336,0.7523,88.93
+all_pairs_with_two_answers,2 and 3,scope_match,27128,0.7458,0.7358,0.7546,90.5
+all_pairs_with_two_answers,2 and 3,gap_class,26643,0.3616,0.2939,0.4241,99.17

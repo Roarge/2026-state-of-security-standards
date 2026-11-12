@@ -1,0 +1,20 @@
+variation_id,variation,pairs,documents,steps,events,pairs_full_percent,pairs_partial_percent,pairs_none_percent,in_scope_pairs,in_scope_full_percent,in_scope_partial_percent,in_scope_none_percent,steps_covered_in_full,steps_covered_in_part,steps_not_covered,steps_covered_in_full_percent,steps_covered_in_full_percent_levels_0_and_1,steps_covered_in_full_percent_levels_2_and_3,pairs_with_gap_class_accountability_supply_chain,pairs_with_gap_class_attacker_model,pairs_with_gap_class_technical_assumption,pairs_with_gap_class_tempo,pairs_with_gap_class_infrastructure,pairs_with_gap_class_vse_applicability
+main,All final codes,42330,83,510,68,1.3,23.29,75.41,10591,5.19,83.0,11.8,247,262,1,48.43,56.98,44.58,194,43,48,34,0,0
+S1,Without events known only from secondary sources,40836,83,492,64,1.32,23.39,75.28,10241,5.27,83.03,11.7,241,250,1,48.98,57.31,45.37,187,38,40,34,0,0
+S2,"Without the documents flagged as catalogues (formats, scoring systems and taxonomies that set no requirements)",36210,71,510,68,1.39,26.25,72.37,9963,5.03,85.09,9.88,220,289,1,43.14,49.72,40.25,191,26,36,34,0,0
+S3,"Standards only, without guidance documents",31620,62,510,68,1.22,17.66,81.12,6025,6.41,85.41,8.18,200,309,1,39.22,46.93,35.6,111,24,32,2,0,0
+S4a,Coder A's codes alone,42327,83,510,68,1.8,24.58,73.61,11082,6.89,82.3,10.81,302,207,1,59.22,61.45,58.82,171,81,60,27,0,0
+S4b,Coder B's codes alone,42328,83,510,68,1.02,23.15,75.82,10258,4.22,84.58,11.2,181,327,2,35.49,41.9,32.82,162,36,50,46,0,0
+S5,Without draft documents,40800,80,510,68,1.26,22.91,75.83,10142,5.08,82.62,12.31,245,264,1,48.04,55.87,44.58,188,43,44,34,0,0
+S6,Without the seven standards coded on 12 November 2026,38760,76,510,68,0.85,21.73,77.43,8968,3.65,82.59,13.76,187,321,2,36.67,44.13,33.13,165,41,40,32,0,0
+S7,Without events found only through the recall check of the search,40919,83,493,66,1.32,23.31,75.37,10269,5.26,82.99,11.75,241,251,1,48.88,59.26,44.58,147,43,48,34,0,0
+S8,Only steps from events at autonomy level 2 or 3,26809,83,323,42,1.03,23.5,75.47,6713,4.11,83.85,12.04,144,179,0,44.58,,44.58,53,37,38,29,0,0
+S9,Without events where the only account of the AI system's part comes from its developer,29050,83,350,46,1.44,23.51,75.04,7369,5.67,82.67,11.66,178,171,1,50.86,58.9,45.25,191,23,36,22,0,0
+S10,Without events whose catalogue record had no independent second check,37765,83,455,61,1.38,23.65,74.97,9511,5.48,83.35,11.18,229,226,0,50.33,59.21,46.78,185,28,27,34,0,0
+S11,Without pairs where a coder's answer came from a second attempt after a declined request,42131,83,510,68,1.28,23.3,75.41,10539,5.12,83.02,11.86,241,268,1,47.25,56.98,42.72,194,42,48,33,0,0
+S12,Only pairs where both coders' answers came through the first of two technical ways of sending the same requests (18 documents),8922,18,507,68,1.2,10.02,88.78,947,11.3,80.57,8.13,96,374,37,18.93,24.58,16.25,22,1,12,1,0,0
+X1,Without pairs decided by the second adjudicator model after a declined request,42214,83,510,68,1.3,23.22,75.48,10523,5.21,83.19,11.6,246,263,1,48.24,56.42,44.58,193,37,48,34,0,0
+X2,"Without pairs that rest on an open-weight model as coder, third coder or adjudicator",41546,83,510,68,1.3,23.39,75.31,10454,5.16,83.05,11.79,245,264,1,48.04,56.98,43.96,189,43,47,33,0,0
+X3,Without pairs settled by a majority of three coders,42277,83,510,68,1.3,23.26,75.44,10574,5.19,83.05,11.76,246,263,1,48.24,56.98,44.27,194,43,48,34,0,0
+X4,Without pairs with an answer that passed only a relaxed check of quotes or length,41471,83,510,68,1.26,22.2,76.55,9932,5.24,82.38,12.38,239,270,1,46.86,54.19,43.65,179,27,45,33,0,0
+X5,Without the two documents whose text is OCR or a machine translation,41310,81,510,68,1.3,22.61,76.1,10058,5.31,82.27,12.42,247,262,1,48.43,56.98,44.58,187,43,48,34,0,0

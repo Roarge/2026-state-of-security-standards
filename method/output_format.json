@@ -1,0 +1,577 @@
+{
+  "coverage": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "records"
+    ],
+    "properties": {
+      "records": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "step_id",
+            "scope_match",
+            "coverage",
+            "clauses",
+            "relationship",
+            "rationale_type",
+            "normative_force",
+            "assumption_violated",
+            "gap_class",
+            "confidence",
+            "rationale"
+          ],
+          "properties": {
+            "step_id": {
+              "type": "string"
+            },
+            "scope_match": {
+              "type": "string",
+              "enum": [
+                "yes",
+                "no"
+              ]
+            },
+            "coverage": {
+              "type": "string",
+              "enum": [
+                "full",
+                "partial",
+                "none"
+              ]
+            },
+            "clauses": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                  "clause_id",
+                  "quote"
+                ],
+                "properties": {
+                  "clause_id": {
+                    "type": "string"
+                  },
+                  "quote": {
+                    "type": "string"
+                  }
+                }
+              }
+            },
+            "relationship": {
+              "type": "string",
+              "enum": [
+                "covers_all",
+                "covers_part",
+                "unrelated"
+              ]
+            },
+            "rationale_type": {
+              "type": "string",
+              "enum": [
+                "syntactic",
+                "semantic",
+                "functional",
+                "not_applicable"
+              ]
+            },
+            "normative_force": {
+              "type": "string",
+              "enum": [
+                "requirement",
+                "recommendation",
+                "informative",
+                "not_applicable"
+              ]
+            },
+            "assumption_violated": {
+              "type": "string",
+              "enum": [
+                "none",
+                "attacker_capability",
+                "attacker_cost",
+                "target_choice",
+                "human_pace",
+                "deterrence",
+                "time",
+                "boundary",
+                "supplier_trust",
+                "human_review"
+              ]
+            },
+            "gap_class": {
+              "type": "string",
+              "enum": [
+                "scope",
+                "attacker_model",
+                "tempo",
+                "technical_assumption",
+                "infrastructure",
+                "accountability_supply_chain",
+                "vse_applicability",
+                "not_applicable"
+              ]
+            },
+            "confidence": {
+              "type": "string",
+              "enum": [
+                "high",
+                "medium",
+                "low"
+              ]
+            },
+            "rationale": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    }
+  },
+  "profile": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "attacker_classes_defined",
+      "attacker_factors",
+      "target_attractiveness_logic",
+      "time_assumptions",
+      "human_pace_assumptions",
+      "automated_attacks_mentioned",
+      "ai_attacker_mentioned",
+      "ai_target_mentioned",
+      "attacker_model_summary"
+    ],
+    "properties": {
+      "attacker_classes_defined": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "value",
+          "clauses"
+        ],
+        "properties": {
+          "value": {
+            "type": "string",
+            "enum": [
+              "yes",
+              "no"
+            ]
+          },
+          "clauses": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "clause_id",
+                "quote"
+              ],
+              "properties": {
+                "clause_id": {
+                  "type": "string"
+                },
+                "quote": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "attacker_factors": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "values",
+          "clauses"
+        ],
+        "properties": {
+          "values": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "skill",
+                "knowledge",
+                "resources",
+                "motivation",
+                "time",
+                "equipment",
+                "access",
+                "opportunity",
+                "none"
+              ]
+            }
+          },
+          "clauses": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "clause_id",
+                "quote"
+              ],
+              "properties": {
+                "clause_id": {
+                  "type": "string"
+                },
+                "quote": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "target_attractiveness_logic": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "value",
+          "clauses"
+        ],
+        "properties": {
+          "value": {
+            "type": "string",
+            "enum": [
+              "yes",
+              "no"
+            ]
+          },
+          "clauses": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "clause_id",
+                "quote"
+              ],
+              "properties": {
+                "clause_id": {
+                  "type": "string"
+                },
+                "quote": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "time_assumptions": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "window",
+            "clause_id",
+            "quote"
+          ],
+          "properties": {
+            "window": {
+              "type": "string"
+            },
+            "clause_id": {
+              "type": "string"
+            },
+            "quote": {
+              "type": "string"
+            }
+          }
+        }
+      },
+      "human_pace_assumptions": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "value",
+          "clauses"
+        ],
+        "properties": {
+          "value": {
+            "type": "string",
+            "enum": [
+              "yes",
+              "no"
+            ]
+          },
+          "clauses": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "clause_id",
+                "quote"
+              ],
+              "properties": {
+                "clause_id": {
+                  "type": "string"
+                },
+                "quote": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "automated_attacks_mentioned": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "value",
+          "clauses"
+        ],
+        "properties": {
+          "value": {
+            "type": "string",
+            "enum": [
+              "yes",
+              "no"
+            ]
+          },
+          "clauses": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "clause_id",
+                "quote"
+              ],
+              "properties": {
+                "clause_id": {
+                  "type": "string"
+                },
+                "quote": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ai_attacker_mentioned": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "value",
+          "clauses"
+        ],
+        "properties": {
+          "value": {
+            "type": "string",
+            "enum": [
+              "yes",
+              "no"
+            ]
+          },
+          "clauses": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "clause_id",
+                "quote"
+              ],
+              "properties": {
+                "clause_id": {
+                  "type": "string"
+                },
+                "quote": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ai_target_mentioned": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "value",
+          "clauses"
+        ],
+        "properties": {
+          "value": {
+            "type": "string",
+            "enum": [
+              "yes",
+              "no"
+            ]
+          },
+          "clauses": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "clause_id",
+                "quote"
+              ],
+              "properties": {
+                "clause_id": {
+                  "type": "string"
+                },
+                "quote": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "attacker_model_summary": {
+        "type": "string"
+      }
+    }
+  },
+  "adjudication": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "records"
+    ],
+    "properties": {
+      "records": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "step_id",
+            "scope_match",
+            "coverage",
+            "clauses",
+            "relationship",
+            "rationale_type",
+            "normative_force",
+            "assumption_violated",
+            "gap_class",
+            "confidence",
+            "rationale",
+            "adjudication_reason"
+          ],
+          "properties": {
+            "step_id": {
+              "type": "string"
+            },
+            "scope_match": {
+              "type": "string",
+              "enum": [
+                "yes",
+                "no"
+              ]
+            },
+            "coverage": {
+              "type": "string",
+              "enum": [
+                "full",
+                "partial",
+                "none"
+              ]
+            },
+            "clauses": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                  "clause_id",
+                  "quote"
+                ],
+                "properties": {
+                  "clause_id": {
+                    "type": "string"
+                  },
+                  "quote": {
+                    "type": "string"
+                  }
+                }
+              }
+            },
+            "relationship": {
+              "type": "string",
+              "enum": [
+                "covers_all",
+                "covers_part",
+                "unrelated"
+              ]
+            },
+            "rationale_type": {
+              "type": "string",
+              "enum": [
+                "syntactic",
+                "semantic",
+                "functional",
+                "not_applicable"
+              ]
+            },
+            "normative_force": {
+              "type": "string",
+              "enum": [
+                "requirement",
+                "recommendation",
+                "informative",
+                "not_applicable"
+              ]
+            },
+            "assumption_violated": {
+              "type": "string",
+              "enum": [
+                "none",
+                "attacker_capability",
+                "attacker_cost",
+                "target_choice",
+                "human_pace",
+                "deterrence",
+                "time",
+                "boundary",
+                "supplier_trust",
+                "human_review"
+              ]
+            },
+            "gap_class": {
+              "type": "string",
+              "enum": [
+                "scope",
+                "attacker_model",
+                "tempo",
+                "technical_assumption",
+                "infrastructure",
+                "accountability_supply_chain",
+                "vse_applicability",
+                "not_applicable"
+              ]
+            },
+            "confidence": {
+              "type": "string",
+              "enum": [
+                "high",
+                "medium",
+                "low"
+              ]
+            },
+            "rationale": {
+              "type": "string"
+            },
+            "adjudication_reason": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,929 @@
+definition,technique,name,taxonomy,family,technique_listed_on,first_covering_document_id,covered_on,days,covered
+original_definition,AML.T0006,Active Scanning,ATLAS 2026.10,ATLAS and OWASP Agentic,2021-05-13,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,AML.T0006,Active Scanning,ATLAS 2026.10,ATLAS and OWASP Agentic,2021-05-13,XYXMBF3U_E9CM2TMI,2021-12-08,209,1
+full_coverage_after_listing_that_stops_the_step,AML.T0006,Active Scanning,ATLAS 2026.10,ATLAS and OWASP Agentic,2021-05-13,,,1997,0
+full_coverage_after_listing_by_a_requirement,AML.T0006,Active Scanning,ATLAS 2026.10,ATLAS and OWASP Agentic,2021-05-13,,,1997,0
+original_definition,AML.T0008,Acquire Infrastructure,ATLAS 2026.10,ATLAS and OWASP Agentic,2021-05-13,iec62443-4-1-2018,2018-01-01,0,1
+full_coverage_after_listing,AML.T0008,Acquire Infrastructure,ATLAS 2026.10,ATLAS and OWASP Agentic,2021-05-13,,,1997,0
+full_coverage_after_listing_that_stops_the_step,AML.T0008,Acquire Infrastructure,ATLAS 2026.10,ATLAS and OWASP Agentic,2021-05-13,,,1997,0
+full_coverage_after_listing_by_a_requirement,AML.T0008,Acquire Infrastructure,ATLAS 2026.10,ATLAS and OWASP Agentic,2021-05-13,,,1997,0
+original_definition,AML.T0010,Supply Chain Compromise,ATLAS 2026.10,ATLAS and OWASP Agentic,2021-05-13,iec62443-4-1-2018,2018-01-01,0,1
+full_coverage_after_listing,AML.T0010,Supply Chain Compromise,ATLAS 2026.10,ATLAS and OWASP Agentic,2021-05-13,iso27002-2022,2022-02-01,264,1
+full_coverage_after_listing_that_stops_the_step,AML.T0010,Supply Chain Compromise,ATLAS 2026.10,ATLAS and OWASP Agentic,2021-05-13,iso27002-2022,2022-02-01,264,1
+full_coverage_after_listing_by_a_requirement,AML.T0010,Supply Chain Compromise,ATLAS 2026.10,ATLAS and OWASP Agentic,2021-05-13,,,1997,0
+original_definition,AML.T0010.005,AI Agent Tool,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-03-30,iec62443-4-1-2018,2018-01-01,0,1
+full_coverage_after_listing,AML.T0010.005,AI Agent Tool,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-03-30,,,215,0
+full_coverage_after_listing_that_stops_the_step,AML.T0010.005,AI Agent Tool,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-03-30,,,215,0
+full_coverage_after_listing_by_a_requirement,AML.T0010.005,AI Agent Tool,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-03-30,,,215,0
+original_definition,AML.T0011.001,Malicious Package,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-03-12,iec62443-4-1-2018,2018-01-01,0,1
+full_coverage_after_listing,AML.T0011.001,Malicious Package,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-03-12,owasp-top10-agentic-applications-2026,2025-12-01,264,1
+full_coverage_after_listing_that_stops_the_step,AML.T0011.001,Malicious Package,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-03-12,owasp-top10-agentic-applications-2026,2025-12-01,264,1
+full_coverage_after_listing_by_a_requirement,AML.T0011.001,Malicious Package,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-03-12,,,598,0
+original_definition,AML.T0012,Valid Accounts,ATLAS 2026.10,ATLAS and OWASP Agentic,2022-01-24,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,AML.T0012,Valid Accounts,ATLAS 2026.10,ATLAS and OWASP Agentic,2022-01-24,,,1741,0
+full_coverage_after_listing_that_stops_the_step,AML.T0012,Valid Accounts,ATLAS 2026.10,ATLAS and OWASP Agentic,2022-01-24,,,1741,0
+full_coverage_after_listing_by_a_requirement,AML.T0012,Valid Accounts,ATLAS 2026.10,ATLAS and OWASP Agentic,2022-01-24,,,1741,0
+original_definition,AML.T0016.001,Software Tools,ATLAS 2026.10,ATLAS and OWASP Agentic,2021-05-13,XYXMBF3U_E9CM2TMI,2021-12-08,209,1
+full_coverage_after_listing,AML.T0016.001,Software Tools,ATLAS 2026.10,ATLAS and OWASP Agentic,2021-05-13,,,1997,0
+full_coverage_after_listing_that_stops_the_step,AML.T0016.001,Software Tools,ATLAS 2026.10,ATLAS and OWASP Agentic,2021-05-13,,,1997,0
+full_coverage_after_listing_by_a_requirement,AML.T0016.001,Software Tools,ATLAS 2026.10,ATLAS and OWASP Agentic,2021-05-13,,,1997,0
+original_definition,AML.T0016.002,Generative AI,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-03-12,B8RST6H3_N3GBWEB2,2014-09-01,0,1
+full_coverage_after_listing,AML.T0016.002,Generative AI,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-03-12,,,598,0
+full_coverage_after_listing_that_stops_the_step,AML.T0016.002,Generative AI,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-03-12,,,598,0
+full_coverage_after_listing_by_a_requirement,AML.T0016.002,Generative AI,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-03-12,,,598,0
+original_definition,AML.T0017,Develop Capabilities,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,AML.T0017,Develop Capabilities,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,ECEUFDLE_6JA3C38M,2024-01-01,68,1
+full_coverage_after_listing_that_stops_the_step,AML.T0017,Develop Capabilities,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,ECEUFDLE_6JA3C38M,2024-01-01,68,1
+full_coverage_after_listing_by_a_requirement,AML.T0017,Develop Capabilities,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,,,1102,0
+original_definition,AML.T0017.001,Autonomous Exploit Development,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,iec62443-4-1-2018,2018-01-01,0,1
+full_coverage_after_listing,AML.T0017.001,Autonomous Exploit Development,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,,,61,0
+full_coverage_after_listing_that_stops_the_step,AML.T0017.001,Autonomous Exploit Development,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,,,61,0
+full_coverage_after_listing_by_a_requirement,AML.T0017.001,Autonomous Exploit Development,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,,,61,0
+original_definition,AML.T0017.002,AI Agent Tools,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,AML.T0017.002,AI Agent Tools,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,,,61,0
+full_coverage_after_listing_that_stops_the_step,AML.T0017.002,AI Agent Tools,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,,,61,0
+full_coverage_after_listing_by_a_requirement,AML.T0017.002,AI Agent Tools,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,,,61,0
+original_definition,AML.T0021,Establish Accounts,ATLAS 2026.10,ATLAS and OWASP Agentic,2022-01-24,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,AML.T0021,Establish Accounts,ATLAS 2026.10,ATLAS and OWASP Agentic,2022-01-24,,,1741,0
+full_coverage_after_listing_that_stops_the_step,AML.T0021,Establish Accounts,ATLAS 2026.10,ATLAS and OWASP Agentic,2022-01-24,,,1741,0
+full_coverage_after_listing_by_a_requirement,AML.T0021,Establish Accounts,ATLAS 2026.10,ATLAS and OWASP Agentic,2022-01-24,,,1741,0
+original_definition,AML.T0025,Exfiltration via Cyber Means,ATLAS 2026.10,ATLAS and OWASP Agentic,2021-05-13,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,AML.T0025,Exfiltration via Cyber Means,ATLAS 2026.10,ATLAS and OWASP Agentic,2021-05-13,iso27002-2022,2022-02-01,264,1
+full_coverage_after_listing_that_stops_the_step,AML.T0025,Exfiltration via Cyber Means,ATLAS 2026.10,ATLAS and OWASP Agentic,2021-05-13,iso27002-2022,2022-02-01,264,1
+full_coverage_after_listing_by_a_requirement,AML.T0025,Exfiltration via Cyber Means,ATLAS 2026.10,ATLAS and OWASP Agentic,2021-05-13,,,1997,0
+original_definition,AML.T0034,Cost Harvesting,ATLAS 2026.10,ATLAS and OWASP Agentic,2021-05-13,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,AML.T0034,Cost Harvesting,ATLAS 2026.10,ATLAS and OWASP Agentic,2021-05-13,,,1997,0
+full_coverage_after_listing_that_stops_the_step,AML.T0034,Cost Harvesting,ATLAS 2026.10,ATLAS and OWASP Agentic,2021-05-13,,,1997,0
+full_coverage_after_listing_by_a_requirement,AML.T0034,Cost Harvesting,ATLAS 2026.10,ATLAS and OWASP Agentic,2021-05-13,,,1997,0
+original_definition,AML.T0036,Data from Information Repositories,ATLAS 2026.10,ATLAS and OWASP Agentic,2022-01-24,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,AML.T0036,Data from Information Repositories,ATLAS 2026.10,ATLAS and OWASP Agentic,2022-01-24,,,1741,0
+full_coverage_after_listing_that_stops_the_step,AML.T0036,Data from Information Repositories,ATLAS 2026.10,ATLAS and OWASP Agentic,2022-01-24,,,1741,0
+full_coverage_after_listing_by_a_requirement,AML.T0036,Data from Information Repositories,ATLAS 2026.10,ATLAS and OWASP Agentic,2022-01-24,,,1741,0
+original_definition,AML.T0037,Data from Local System,ATLAS 2026.10,ATLAS and OWASP Agentic,2021-05-13,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,AML.T0037,Data from Local System,ATLAS 2026.10,ATLAS and OWASP Agentic,2021-05-13,XYXMBF3U_E9CM2TMI,2021-12-08,209,1
+full_coverage_after_listing_that_stops_the_step,AML.T0037,Data from Local System,ATLAS 2026.10,ATLAS and OWASP Agentic,2021-05-13,XYXMBF3U_E9CM2TMI,2021-12-08,209,1
+full_coverage_after_listing_by_a_requirement,AML.T0037,Data from Local System,ATLAS 2026.10,ATLAS and OWASP Agentic,2021-05-13,,,1997,0
+original_definition,AML.T0040,AI Model Inference API Access,ATLAS 2026.10,ATLAS and OWASP Agentic,2021-05-13,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,AML.T0040,AI Model Inference API Access,ATLAS 2026.10,ATLAS and OWASP Agentic,2021-05-13,,,1997,0
+full_coverage_after_listing_that_stops_the_step,AML.T0040,AI Model Inference API Access,ATLAS 2026.10,ATLAS and OWASP Agentic,2021-05-13,,,1997,0
+full_coverage_after_listing_by_a_requirement,AML.T0040,AI Model Inference API Access,ATLAS 2026.10,ATLAS and OWASP Agentic,2021-05-13,,,1997,0
+original_definition,AML.T0048.000,Financial Harm,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,AML.T0048.000,Financial Harm,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,,,1102,0
+full_coverage_after_listing_that_stops_the_step,AML.T0048.000,Financial Harm,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,,,1102,0
+full_coverage_after_listing_by_a_requirement,AML.T0048.000,Financial Harm,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,,,1102,0
+original_definition,AML.T0048.004,AI Intellectual Property Theft,ATLAS 2026.10,ATLAS and OWASP Agentic,2021-05-13,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,AML.T0048.004,AI Intellectual Property Theft,ATLAS 2026.10,ATLAS and OWASP Agentic,2021-05-13,,,1997,0
+full_coverage_after_listing_that_stops_the_step,AML.T0048.004,AI Intellectual Property Theft,ATLAS 2026.10,ATLAS and OWASP Agentic,2021-05-13,,,1997,0
+full_coverage_after_listing_by_a_requirement,AML.T0048.004,AI Intellectual Property Theft,ATLAS 2026.10,ATLAS and OWASP Agentic,2021-05-13,,,1997,0
+original_definition,AML.T0049,Exploit Public-Facing Application,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-02-28,iec62443-4-1-2018,2018-01-01,0,1
+full_coverage_after_listing,AML.T0049,Exploit Public-Facing Application,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-02-28,ECEUFDLE_6JA3C38M,2024-01-01,307,1
+full_coverage_after_listing_that_stops_the_step,AML.T0049,Exploit Public-Facing Application,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-02-28,ECEUFDLE_6JA3C38M,2024-01-01,307,1
+full_coverage_after_listing_by_a_requirement,AML.T0049,Exploit Public-Facing Application,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-02-28,,,1341,0
+original_definition,AML.T0051,LLM Prompt Injection,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,AML.T0051,LLM Prompt Injection,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,owasp-top10-agentic-applications-2026,2025-12-01,768,1
+full_coverage_after_listing_that_stops_the_step,AML.T0051,LLM Prompt Injection,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,owasp-top10-agentic-applications-2026,2025-12-01,768,1
+full_coverage_after_listing_by_a_requirement,AML.T0051,LLM Prompt Injection,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,,,1102,0
+original_definition,AML.T0051.000,Direct,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,iec62443-4-1-2018,2018-01-01,0,1
+full_coverage_after_listing,AML.T0051.000,Direct,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,NTCRTABU_PE293MCL,2025-12-01,768,1
+full_coverage_after_listing_that_stops_the_step,AML.T0051.000,Direct,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,NTCRTABU_PE293MCL,2025-12-01,768,1
+full_coverage_after_listing_by_a_requirement,AML.T0051.000,Direct,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,NTCRTABU_PE293MCL,2025-12-01,768,1
+original_definition,AML.T0051.001,Indirect,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,iec62443-4-1-2018,2018-01-01,0,1
+full_coverage_after_listing,AML.T0051.001,Indirect,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,YJNSEJS5_PSLSG37C,2025-01-01,434,1
+full_coverage_after_listing_that_stops_the_step,AML.T0051.001,Indirect,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,YJNSEJS5_PSLSG37C,2025-01-01,434,1
+full_coverage_after_listing_by_a_requirement,AML.T0051.001,Indirect,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,,,1102,0
+original_definition,AML.T0051.002,Triggered,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-11-04,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,AML.T0051.002,Triggered,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-11-04,,,361,0
+full_coverage_after_listing_that_stops_the_step,AML.T0051.002,Triggered,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-11-04,,,361,0
+full_coverage_after_listing_by_a_requirement,AML.T0051.002,Triggered,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-11-04,,,361,0
+original_definition,AML.T0052,Phishing,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,AML.T0052,Phishing,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,,,1102,0
+full_coverage_after_listing_that_stops_the_step,AML.T0052,Phishing,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,,,1102,0
+full_coverage_after_listing_by_a_requirement,AML.T0052,Phishing,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,,,1102,0
+original_definition,AML.T0052.000,Spearphishing via Social Engineering LLM,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,3WRTBI4D_4B6V6RR5,2015-12-01,0,1
+full_coverage_after_listing,AML.T0052.000,Spearphishing via Social Engineering LLM,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,,,1102,0
+full_coverage_after_listing_that_stops_the_step,AML.T0052.000,Spearphishing via Social Engineering LLM,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,,,1102,0
+full_coverage_after_listing_by_a_requirement,AML.T0052.000,Spearphishing via Social Engineering LLM,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,,,1102,0
+original_definition,AML.T0053,AI Agent Tool Invocation,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,AML.T0053,AI Agent Tool Invocation,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,owasp-top10-agentic-applications-2026,2025-12-01,768,1
+full_coverage_after_listing_that_stops_the_step,AML.T0053,AI Agent Tool Invocation,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,owasp-top10-agentic-applications-2026,2025-12-01,768,1
+full_coverage_after_listing_by_a_requirement,AML.T0053,AI Agent Tool Invocation,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,,,1102,0
+original_definition,AML.T0054,LLM Jailbreak,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,XYXMBF3U_E9CM2TMI,2021-12-08,0,1
+full_coverage_after_listing,AML.T0054,LLM Jailbreak,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,YJNSEJS5_PSLSG37C,2025-01-01,434,1
+full_coverage_after_listing_that_stops_the_step,AML.T0054,LLM Jailbreak,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,YJNSEJS5_PSLSG37C,2025-01-01,434,1
+full_coverage_after_listing_by_a_requirement,AML.T0054,LLM Jailbreak,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,NTCRTABU_PE293MCL,2025-12-01,768,1
+original_definition,AML.T0055,Unsecured Credentials,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,iec62443-4-1-2018,2018-01-01,0,1
+full_coverage_after_listing,AML.T0055,Unsecured Credentials,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,owasp-top10-agentic-applications-2026,2025-12-01,768,1
+full_coverage_after_listing_that_stops_the_step,AML.T0055,Unsecured Credentials,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,owasp-top10-agentic-applications-2026,2025-12-01,768,1
+full_coverage_after_listing_by_a_requirement,AML.T0055,Unsecured Credentials,ATLAS 2026.10,ATLAS and OWASP Agentic,2023-10-25,,,1102,0
+original_definition,AML.T0066,Retrieval Content Crafting,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-03-12,YZU6B3F5_FWK5U4MY,2021-07-01,0,1
+full_coverage_after_listing,AML.T0066,Retrieval Content Crafting,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-03-12,,,598,0
+full_coverage_after_listing_that_stops_the_step,AML.T0066,Retrieval Content Crafting,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-03-12,,,598,0
+full_coverage_after_listing_by_a_requirement,AML.T0066,Retrieval Content Crafting,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-03-12,,,598,0
+original_definition,AML.T0068,LLM Prompt Obfuscation,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-03-12,iso27005-2022,2022-10-01,0,1
+full_coverage_after_listing,AML.T0068,LLM Prompt Obfuscation,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-03-12,,,598,0
+full_coverage_after_listing_that_stops_the_step,AML.T0068,LLM Prompt Obfuscation,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-03-12,,,598,0
+full_coverage_after_listing_by_a_requirement,AML.T0068,LLM Prompt Obfuscation,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-03-12,,,598,0
+original_definition,AML.T0069,Discover LLM System Information,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-03-12,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,AML.T0069,Discover LLM System Information,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-03-12,,,598,0
+full_coverage_after_listing_that_stops_the_step,AML.T0069,Discover LLM System Information,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-03-12,,,598,0
+full_coverage_after_listing_by_a_requirement,AML.T0069,Discover LLM System Information,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-03-12,,,598,0
+original_definition,AML.T0069.002,System Prompt,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-03-12,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,AML.T0069.002,System Prompt,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-03-12,,,598,0
+full_coverage_after_listing_that_stops_the_step,AML.T0069.002,System Prompt,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-03-12,,,598,0
+full_coverage_after_listing_by_a_requirement,AML.T0069.002,System Prompt,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-03-12,,,598,0
+original_definition,AML.T0073,Impersonation,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-04-14,iec62443-4-1-2018,2018-01-01,0,1
+full_coverage_after_listing,AML.T0073,Impersonation,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-04-14,,,565,0
+full_coverage_after_listing_that_stops_the_step,AML.T0073,Impersonation,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-04-14,,,565,0
+full_coverage_after_listing_by_a_requirement,AML.T0073,Impersonation,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-04-14,,,565,0
+original_definition,AML.T0075,Enterprise Resource Discovery,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-04-14,3WRTBI4D_4B6V6RR5,2015-12-01,0,1
+full_coverage_after_listing,AML.T0075,Enterprise Resource Discovery,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-04-14,,,565,0
+full_coverage_after_listing_that_stops_the_step,AML.T0075,Enterprise Resource Discovery,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-04-14,,,565,0
+full_coverage_after_listing_by_a_requirement,AML.T0075,Enterprise Resource Discovery,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-04-14,,,565,0
+original_definition,AML.T0081,Modify AI Agent Configuration,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-09-30,WLK7XX4H_6KZ8VDYK,2017-11-13,0,1
+full_coverage_after_listing,AML.T0081,Modify AI Agent Configuration,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-09-30,,,396,0
+full_coverage_after_listing_that_stops_the_step,AML.T0081,Modify AI Agent Configuration,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-09-30,,,396,0
+full_coverage_after_listing_by_a_requirement,AML.T0081,Modify AI Agent Configuration,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-09-30,,,396,0
+original_definition,AML.T0083,Credentials from AI Agent Configuration,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-09-30,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,AML.T0083,Credentials from AI Agent Configuration,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-09-30,,,396,0
+full_coverage_after_listing_that_stops_the_step,AML.T0083,Credentials from AI Agent Configuration,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-09-30,,,396,0
+full_coverage_after_listing_by_a_requirement,AML.T0083,Credentials from AI Agent Configuration,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-09-30,,,396,0
+original_definition,AML.T0086,Exfiltration via AI Agent Tool Invocation,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-09-30,iec62443-4-1-2018,2018-01-01,0,1
+full_coverage_after_listing,AML.T0086,Exfiltration via AI Agent Tool Invocation,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-09-30,,,396,0
+full_coverage_after_listing_that_stops_the_step,AML.T0086,Exfiltration via AI Agent Tool Invocation,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-09-30,,,396,0
+full_coverage_after_listing_by_a_requirement,AML.T0086,Exfiltration via AI Agent Tool Invocation,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-09-30,,,396,0
+original_definition,AML.T0087,Gather Victim Identity Information,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-10-31,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,AML.T0087,Gather Victim Identity Information,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-10-31,,,365,0
+full_coverage_after_listing_that_stops_the_step,AML.T0087,Gather Victim Identity Information,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-10-31,,,365,0
+full_coverage_after_listing_by_a_requirement,AML.T0087,Gather Victim Identity Information,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-10-31,,,365,0
+original_definition,AML.T0088,Generate Deepfakes,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-10-31,iso27002-2022,2022-02-01,0,1
+full_coverage_after_listing,AML.T0088,Generate Deepfakes,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-10-31,,,365,0
+full_coverage_after_listing_that_stops_the_step,AML.T0088,Generate Deepfakes,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-10-31,,,365,0
+full_coverage_after_listing_by_a_requirement,AML.T0088,Generate Deepfakes,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-10-31,,,365,0
+original_definition,AML.T0089,Enterprise Environment Discovery,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-10-27,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,AML.T0089,Enterprise Environment Discovery,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-10-27,,,369,0
+full_coverage_after_listing_that_stops_the_step,AML.T0089,Enterprise Environment Discovery,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-10-27,,,369,0
+full_coverage_after_listing_by_a_requirement,AML.T0089,Enterprise Environment Discovery,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-10-27,,,369,0
+original_definition,AML.T0101,Data Destruction via AI Agent Tool Invocation,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-11-25,B8RST6H3_N3GBWEB2,2014-09-01,0,1
+full_coverage_after_listing,AML.T0101,Data Destruction via AI Agent Tool Invocation,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-11-25,,,340,0
+full_coverage_after_listing_that_stops_the_step,AML.T0101,Data Destruction via AI Agent Tool Invocation,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-11-25,,,340,0
+full_coverage_after_listing_by_a_requirement,AML.T0101,Data Destruction via AI Agent Tool Invocation,ATLAS 2026.10,ATLAS and OWASP Agentic,2025-11-25,,,340,0
+original_definition,AML.T0103,Deploy AI Agent,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-01-28,XYXMBF3U_E9CM2TMI,2021-12-08,0,1
+full_coverage_after_listing,AML.T0103,Deploy AI Agent,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-01-28,,,276,0
+full_coverage_after_listing_that_stops_the_step,AML.T0103,Deploy AI Agent,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-01-28,,,276,0
+full_coverage_after_listing_by_a_requirement,AML.T0103,Deploy AI Agent,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-01-28,,,276,0
+original_definition,AML.T0111,AI Supply Chain Reputation Inflation,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-03-30,YZU6B3F5_FWK5U4MY,2021-07-01,0,1
+full_coverage_after_listing,AML.T0111,AI Supply Chain Reputation Inflation,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-03-30,,,215,0
+full_coverage_after_listing_that_stops_the_step,AML.T0111,AI Supply Chain Reputation Inflation,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-03-30,,,215,0
+full_coverage_after_listing_by_a_requirement,AML.T0111,AI Supply Chain Reputation Inflation,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-03-30,,,215,0
+original_definition,AML.T0112.000,Local AI Agent,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-03-30,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,AML.T0112.000,Local AI Agent,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-03-30,,,215,0
+full_coverage_after_listing_that_stops_the_step,AML.T0112.000,Local AI Agent,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-03-30,,,215,0
+full_coverage_after_listing_by_a_requirement,AML.T0112.000,Local AI Agent,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-03-30,,,215,0
+original_definition,AML.T0116,Autonomous Reconnaissance,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,iec62443-4-1-2018,2018-01-01,0,1
+full_coverage_after_listing,AML.T0116,Autonomous Reconnaissance,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,,,61,0
+full_coverage_after_listing_that_stops_the_step,AML.T0116,Autonomous Reconnaissance,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,,,61,0
+full_coverage_after_listing_by_a_requirement,AML.T0116,Autonomous Reconnaissance,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,,,61,0
+original_definition,AML.T0117,Autonomous Attack-Path Adaptation,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,iec62443-4-1-2018,2018-01-01,0,1
+full_coverage_after_listing,AML.T0117,Autonomous Attack-Path Adaptation,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,,,61,0
+full_coverage_after_listing_that_stops_the_step,AML.T0117,Autonomous Attack-Path Adaptation,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,,,61,0
+full_coverage_after_listing_by_a_requirement,AML.T0117,Autonomous Attack-Path Adaptation,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,,,61,0
+original_definition,AML.T0118,Autonomous AI Agent Communication,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,AML.T0118,Autonomous AI Agent Communication,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,,,61,0
+full_coverage_after_listing_that_stops_the_step,AML.T0118,Autonomous AI Agent Communication,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,,,61,0
+full_coverage_after_listing_by_a_requirement,AML.T0118,Autonomous AI Agent Communication,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,,,61,0
+original_definition,AML.T0118.000,Communication via Shared Artifacts,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,AML.T0118.000,Communication via Shared Artifacts,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,,,61,0
+full_coverage_after_listing_that_stops_the_step,AML.T0118.000,Communication via Shared Artifacts,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,,,61,0
+full_coverage_after_listing_by_a_requirement,AML.T0118.000,Communication via Shared Artifacts,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,,,61,0
+original_definition,AML.T0124,Autonomous Attack Orchestration,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,XYXMBF3U_E9CM2TMI,2021-12-08,0,1
+full_coverage_after_listing,AML.T0124,Autonomous Attack Orchestration,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,,,61,0
+full_coverage_after_listing_that_stops_the_step,AML.T0124,Autonomous Attack Orchestration,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,,,61,0
+full_coverage_after_listing_by_a_requirement,AML.T0124,Autonomous Attack Orchestration,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,,,61,0
+original_definition,AML.T0125,Create Account,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,AML.T0125,Create Account,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,,,61,0
+full_coverage_after_listing_that_stops_the_step,AML.T0125,Create Account,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,,,61,0
+full_coverage_after_listing_by_a_requirement,AML.T0125,Create Account,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,,,61,0
+original_definition,AML.T0126,Automated Collection,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,AML.T0126,Automated Collection,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,,,61,0
+full_coverage_after_listing_that_stops_the_step,AML.T0126,Automated Collection,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,,,61,0
+full_coverage_after_listing_by_a_requirement,AML.T0126,Automated Collection,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,,,61,0
+original_definition,AML.T0127,Data Staged,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,AML.T0127,Data Staged,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,,,61,0
+full_coverage_after_listing_that_stops_the_step,AML.T0127,Data Staged,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,,,61,0
+full_coverage_after_listing_by_a_requirement,AML.T0127,Data Staged,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-08-31,,,61,0
+original_definition,AML.T0136,Exfiltration via AI User Interface,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-10-28,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,AML.T0136,Exfiltration via AI User Interface,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-10-28,,,3,0
+full_coverage_after_listing_that_stops_the_step,AML.T0136,Exfiltration via AI User Interface,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-10-28,,,3,0
+full_coverage_after_listing_by_a_requirement,AML.T0136,Exfiltration via AI User Interface,ATLAS 2026.10,ATLAS and OWASP Agentic,2026-10-28,,,3,0
+original_definition,ASI01,Agent Goal Hijack,OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,iec62443-4-1-2018,2018-01-01,0,1
+full_coverage_after_listing,ASI01,Agent Goal Hijack,OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,owasp-top10-agentic-applications-2026,2025-12-01,0,1
+full_coverage_after_listing_that_stops_the_step,ASI01,Agent Goal Hijack,OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,owasp-top10-agentic-applications-2026,2025-12-01,0,1
+full_coverage_after_listing_by_a_requirement,ASI01,Agent Goal Hijack,OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,,,334,0
+original_definition,ASI02,Tool Misuse and Exploitation,OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,iec62443-4-1-2018,2018-01-01,0,1
+full_coverage_after_listing,ASI02,Tool Misuse and Exploitation,OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,owasp-top10-agentic-applications-2026,2025-12-01,0,1
+full_coverage_after_listing_that_stops_the_step,ASI02,Tool Misuse and Exploitation,OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,owasp-top10-agentic-applications-2026,2025-12-01,0,1
+full_coverage_after_listing_by_a_requirement,ASI02,Tool Misuse and Exploitation,OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,,,334,0
+original_definition,ASI03,Identity and Privilege Abuse,OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,iec62443-4-1-2018,2018-01-01,0,1
+full_coverage_after_listing,ASI03,Identity and Privilege Abuse,OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,owasp-top10-agentic-applications-2026,2025-12-01,0,1
+full_coverage_after_listing_that_stops_the_step,ASI03,Identity and Privilege Abuse,OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,owasp-top10-agentic-applications-2026,2025-12-01,0,1
+full_coverage_after_listing_by_a_requirement,ASI03,Identity and Privilege Abuse,OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,,,334,0
+original_definition,ASI04,Agentic Supply Chain Vulnerabilities,OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,iec62443-4-1-2018,2018-01-01,0,1
+full_coverage_after_listing,ASI04,Agentic Supply Chain Vulnerabilities,OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,owasp-top10-agentic-applications-2026,2025-12-01,0,1
+full_coverage_after_listing_that_stops_the_step,ASI04,Agentic Supply Chain Vulnerabilities,OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,owasp-top10-agentic-applications-2026,2025-12-01,0,1
+full_coverage_after_listing_by_a_requirement,ASI04,Agentic Supply Chain Vulnerabilities,OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,,,334,0
+original_definition,ASI05,Unexpected Code Execution (RCE),OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,ASI05,Unexpected Code Execution (RCE),OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,owasp-top10-agentic-applications-2026,2025-12-01,0,1
+full_coverage_after_listing_that_stops_the_step,ASI05,Unexpected Code Execution (RCE),OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,owasp-top10-agentic-applications-2026,2025-12-01,0,1
+full_coverage_after_listing_by_a_requirement,ASI05,Unexpected Code Execution (RCE),OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,,,334,0
+original_definition,ASI06,Memory & Context Poisoning,OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,iec62443-4-1-2018,2018-01-01,0,1
+full_coverage_after_listing,ASI06,Memory & Context Poisoning,OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,owasp-top10-agentic-applications-2026,2025-12-01,0,1
+full_coverage_after_listing_that_stops_the_step,ASI06,Memory & Context Poisoning,OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,owasp-top10-agentic-applications-2026,2025-12-01,0,1
+full_coverage_after_listing_by_a_requirement,ASI06,Memory & Context Poisoning,OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,,,334,0
+original_definition,ASI07,Insecure Inter-Agent Communication,OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,ASI07,Insecure Inter-Agent Communication,OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,owasp-top10-agentic-applications-2026,2025-12-01,0,1
+full_coverage_after_listing_that_stops_the_step,ASI07,Insecure Inter-Agent Communication,OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,owasp-top10-agentic-applications-2026,2025-12-01,0,1
+full_coverage_after_listing_by_a_requirement,ASI07,Insecure Inter-Agent Communication,OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,,,334,0
+original_definition,ASI08,Cascading Failures,OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,ASI08,Cascading Failures,OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,,,334,0
+full_coverage_after_listing_that_stops_the_step,ASI08,Cascading Failures,OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,,,334,0
+full_coverage_after_listing_by_a_requirement,ASI08,Cascading Failures,OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,,,334,0
+original_definition,ASI09,Human-Agent Trust Exploitation,OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,ASI09,Human-Agent Trust Exploitation,OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,owasp-top10-agentic-applications-2026,2025-12-01,0,1
+full_coverage_after_listing_that_stops_the_step,ASI09,Human-Agent Trust Exploitation,OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,,,334,0
+full_coverage_after_listing_by_a_requirement,ASI09,Human-Agent Trust Exploitation,OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,,,334,0
+original_definition,ASI10,Rogue Agents,OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,WLK7XX4H_6KZ8VDYK,2017-11-13,0,1
+full_coverage_after_listing,ASI10,Rogue Agents,OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,owasp-top10-agentic-applications-2026,2025-12-01,0,1
+full_coverage_after_listing_that_stops_the_step,ASI10,Rogue Agents,OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,owasp-top10-agentic-applications-2026,2025-12-01,0,1
+full_coverage_after_listing_by_a_requirement,ASI10,Rogue Agents,OWASP Top 10 for Agentic Applications 2026,ATLAS and OWASP Agentic,2025-12-01,,,334,0
+original_definition,T0809,Data Destruction,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,une-en-iec62443-3-3-2020,2013-08-01,0,1
+full_coverage_after_listing,T0809,Data Destruction,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,XYXMBF3U_E9CM2TMI,2021-12-08,566,1
+full_coverage_after_listing_that_stops_the_step,T0809,Data Destruction,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,XYXMBF3U_E9CM2TMI,2021-12-08,566,1
+full_coverage_after_listing_by_a_requirement,T0809,Data Destruction,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,iso27001-2022,2022-10-01,863,1
+original_definition,T0813,Denial of Control,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,une-en-iec62443-3-3-2020,2013-08-01,0,1
+full_coverage_after_listing,T0813,Denial of Control,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,XYXMBF3U_E9CM2TMI,2021-12-08,566,1
+full_coverage_after_listing_that_stops_the_step,T0813,Denial of Control,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,BLDTI2BT_TTZ6DM6W,2023-09-28,1225,1
+full_coverage_after_listing_by_a_requirement,T0813,Denial of Control,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,BLDTI2BT_TTZ6DM6W,2023-09-28,1225,1
+original_definition,T0819,Exploit Public-Facing Application,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,une-en-iec62443-3-3-2020,2013-08-01,0,1
+full_coverage_after_listing,T0819,Exploit Public-Facing Application,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,iso27002-2022,2022-02-01,621,1
+full_coverage_after_listing_that_stops_the_step,T0819,Exploit Public-Facing Application,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,iso27002-2022,2022-02-01,621,1
+full_coverage_after_listing_by_a_requirement,T0819,Exploit Public-Facing Application,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,BLDTI2BT_TTZ6DM6W,2023-09-28,1225,1
+original_definition,T0822,External Remote Services,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,une-en-iec62443-3-3-2020,2013-08-01,0,1
+full_coverage_after_listing,T0822,External Remote Services,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,QX58BXKY_AZW2XMEW,2021-05-07,351,1
+full_coverage_after_listing_that_stops_the_step,T0822,External Remote Services,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,QX58BXKY_AZW2XMEW,2021-05-07,351,1
+full_coverage_after_listing_by_a_requirement,T0822,External Remote Services,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,4SQHZUSL_YY2EYK99,2024-01-01,1320,1
+original_definition,T0827,Loss of Control,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,une-en-iec62443-3-3-2020,2013-08-01,0,1
+full_coverage_after_listing,T0827,Loss of Control,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,XYXMBF3U_E9CM2TMI,2021-12-08,566,1
+full_coverage_after_listing_that_stops_the_step,T0827,Loss of Control,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,,,2354,0
+full_coverage_after_listing_by_a_requirement,T0827,Loss of Control,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,BLDTI2BT_TTZ6DM6W,2023-09-28,1225,1
+original_definition,T0828,Loss of Productivity and Revenue,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,une-en-iec62443-3-3-2020,2013-08-01,0,1
+full_coverage_after_listing,T0828,Loss of Productivity and Revenue,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,XYXMBF3U_E9CM2TMI,2021-12-08,566,1
+full_coverage_after_listing_that_stops_the_step,T0828,Loss of Productivity and Revenue,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,,,2354,0
+full_coverage_after_listing_by_a_requirement,T0828,Loss of Productivity and Revenue,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,,,2354,0
+original_definition,T0829,Loss of View,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,une-en-iec62443-3-3-2020,2013-08-01,0,1
+full_coverage_after_listing,T0829,Loss of View,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,XYXMBF3U_E9CM2TMI,2021-12-08,566,1
+full_coverage_after_listing_that_stops_the_step,T0829,Loss of View,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,,,2354,0
+full_coverage_after_listing_by_a_requirement,T0829,Loss of View,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,BLDTI2BT_TTZ6DM6W,2023-09-28,1225,1
+original_definition,T0831,Manipulation of Control,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,une-en-iec62443-3-3-2020,2013-08-01,0,1
+full_coverage_after_listing,T0831,Manipulation of Control,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,BLDTI2BT_TTZ6DM6W,2023-09-28,1225,1
+full_coverage_after_listing_that_stops_the_step,T0831,Manipulation of Control,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,iec62443-2-1-2024,2024-08-01,1533,1
+full_coverage_after_listing_by_a_requirement,T0831,Manipulation of Control,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,BLDTI2BT_TTZ6DM6W,2023-09-28,1225,1
+original_definition,T0832,Manipulation of View,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,une-en-iec62443-3-3-2020,2013-08-01,0,1
+full_coverage_after_listing,T0832,Manipulation of View,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,XYXMBF3U_E9CM2TMI,2021-12-08,566,1
+full_coverage_after_listing_that_stops_the_step,T0832,Manipulation of View,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,,,2354,0
+full_coverage_after_listing_by_a_requirement,T0832,Manipulation of View,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,BLDTI2BT_TTZ6DM6W,2023-09-28,1225,1
+original_definition,T0834,Native API,ATT&CK for ICS 20.1,ATT&CK,2021-04-13,une-en-iec62443-3-3-2020,2013-08-01,0,1
+full_coverage_after_listing,T0834,Native API,ATT&CK for ICS 20.1,ATT&CK,2021-04-13,BLDTI2BT_TTZ6DM6W,2023-09-28,898,1
+full_coverage_after_listing_that_stops_the_step,T0834,Native API,ATT&CK for ICS 20.1,ATT&CK,2021-04-13,BLDTI2BT_TTZ6DM6W,2023-09-28,898,1
+full_coverage_after_listing_by_a_requirement,T0834,Native API,ATT&CK for ICS 20.1,ATT&CK,2021-04-13,BLDTI2BT_TTZ6DM6W,2023-09-28,898,1
+original_definition,T0836,Modify Parameter,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,une-en-iec62443-3-3-2020,2013-08-01,0,1
+full_coverage_after_listing,T0836,Modify Parameter,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,XYXMBF3U_E9CM2TMI,2021-12-08,566,1
+full_coverage_after_listing_that_stops_the_step,T0836,Modify Parameter,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,BLDTI2BT_TTZ6DM6W,2023-09-28,1225,1
+full_coverage_after_listing_by_a_requirement,T0836,Modify Parameter,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,BLDTI2BT_TTZ6DM6W,2023-09-28,1225,1
+original_definition,T0838,Modify Alarm Settings,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,une-en-iec62443-3-3-2020,2013-08-01,0,1
+full_coverage_after_listing,T0838,Modify Alarm Settings,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,BLDTI2BT_TTZ6DM6W,2023-09-28,1225,1
+full_coverage_after_listing_that_stops_the_step,T0838,Modify Alarm Settings,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,BLDTI2BT_TTZ6DM6W,2023-09-28,1225,1
+full_coverage_after_listing_by_a_requirement,T0838,Modify Alarm Settings,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,BLDTI2BT_TTZ6DM6W,2023-09-28,1225,1
+original_definition,T0846,Remote System Discovery,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,une-en-iec62443-3-3-2020,2013-08-01,0,1
+full_coverage_after_listing,T0846,Remote System Discovery,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,XYXMBF3U_E9CM2TMI,2021-12-08,566,1
+full_coverage_after_listing_that_stops_the_step,T0846,Remote System Discovery,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,XYXMBF3U_E9CM2TMI,2021-12-08,566,1
+full_coverage_after_listing_by_a_requirement,T0846,Remote System Discovery,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,BLDTI2BT_TTZ6DM6W,2023-09-28,1225,1
+original_definition,T0849,Masquerading,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,une-en-iec62443-3-3-2020,2013-08-01,0,1
+full_coverage_after_listing,T0849,Masquerading,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,XYXMBF3U_E9CM2TMI,2021-12-08,566,1
+full_coverage_after_listing_that_stops_the_step,T0849,Masquerading,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,,,2354,0
+full_coverage_after_listing_by_a_requirement,T0849,Masquerading,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,,,2354,0
+original_definition,T0859,Valid Accounts,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,une-en-iec62443-3-3-2020,2013-08-01,0,1
+full_coverage_after_listing,T0859,Valid Accounts,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,QX58BXKY_AZW2XMEW,2021-05-07,351,1
+full_coverage_after_listing_that_stops_the_step,T0859,Valid Accounts,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,iso27002-2022,2022-02-01,621,1
+full_coverage_after_listing_by_a_requirement,T0859,Valid Accounts,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,BLDTI2BT_TTZ6DM6W,2023-09-28,1225,1
+original_definition,T0879,Damage to Property,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,une-en-iec62443-3-3-2020,2013-08-01,0,1
+full_coverage_after_listing,T0879,Damage to Property,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,XYXMBF3U_E9CM2TMI,2021-12-08,566,1
+full_coverage_after_listing_that_stops_the_step,T0879,Damage to Property,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,XYXMBF3U_E9CM2TMI,2021-12-08,566,1
+full_coverage_after_listing_by_a_requirement,T0879,Damage to Property,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,BLDTI2BT_TTZ6DM6W,2023-09-28,1225,1
+original_definition,T0880,Loss of Safety,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,une-en-iec62443-3-3-2020,2013-08-01,0,1
+full_coverage_after_listing,T0880,Loss of Safety,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,BLDTI2BT_TTZ6DM6W,2023-09-28,1225,1
+full_coverage_after_listing_that_stops_the_step,T0880,Loss of Safety,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,BLDTI2BT_TTZ6DM6W,2023-09-28,1225,1
+full_coverage_after_listing_by_a_requirement,T0880,Loss of Safety,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,BLDTI2BT_TTZ6DM6W,2023-09-28,1225,1
+original_definition,T0882,Theft of Operational Information,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,une-en-iec62443-3-3-2020,2013-08-01,0,1
+full_coverage_after_listing,T0882,Theft of Operational Information,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,XYXMBF3U_E9CM2TMI,2021-12-08,566,1
+full_coverage_after_listing_that_stops_the_step,T0882,Theft of Operational Information,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,XYXMBF3U_E9CM2TMI,2021-12-08,566,1
+full_coverage_after_listing_by_a_requirement,T0882,Theft of Operational Information,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,iso27001-2022,2022-10-01,863,1
+original_definition,T0883,Internet Accessible Device,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,une-en-iec62443-3-3-2020,2013-08-01,0,1
+full_coverage_after_listing,T0883,Internet Accessible Device,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,QX58BXKY_AZW2XMEW,2021-05-07,351,1
+full_coverage_after_listing_that_stops_the_step,T0883,Internet Accessible Device,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,QX58BXKY_AZW2XMEW,2021-05-07,351,1
+full_coverage_after_listing_by_a_requirement,T0883,Internet Accessible Device,ATT&CK for ICS 20.1,ATT&CK,2020-05-21,BLDTI2BT_TTZ6DM6W,2023-09-28,1225,1
+original_definition,T0888,Remote System Information Discovery,ATT&CK for ICS 20.1,ATT&CK,2021-04-13,une-en-iec62443-3-3-2020,2013-08-01,0,1
+full_coverage_after_listing,T0888,Remote System Information Discovery,ATT&CK for ICS 20.1,ATT&CK,2021-04-13,iso27002-2022,2022-02-01,294,1
+full_coverage_after_listing_that_stops_the_step,T0888,Remote System Information Discovery,ATT&CK for ICS 20.1,ATT&CK,2021-04-13,,,2027,0
+full_coverage_after_listing_by_a_requirement,T0888,Remote System Information Discovery,ATT&CK for ICS 20.1,ATT&CK,2021-04-13,BLDTI2BT_TTZ6DM6W,2023-09-28,898,1
+original_definition,T0889,Modify Program,ATT&CK for ICS 20.1,ATT&CK,2021-04-13,une-en-iec62443-3-3-2020,2013-08-01,0,1
+full_coverage_after_listing,T0889,Modify Program,ATT&CK for ICS 20.1,ATT&CK,2021-04-13,BLDTI2BT_TTZ6DM6W,2023-09-28,898,1
+full_coverage_after_listing_that_stops_the_step,T0889,Modify Program,ATT&CK for ICS 20.1,ATT&CK,2021-04-13,BLDTI2BT_TTZ6DM6W,2023-09-28,898,1
+full_coverage_after_listing_by_a_requirement,T0889,Modify Program,ATT&CK for ICS 20.1,ATT&CK,2021-04-13,BLDTI2BT_TTZ6DM6W,2023-09-28,898,1
+original_definition,T0892,Change Credential,ATT&CK for ICS 20.1,ATT&CK,2023-03-30,une-en-iec62443-3-3-2020,2013-08-01,0,1
+full_coverage_after_listing,T0892,Change Credential,ATT&CK for ICS 20.1,ATT&CK,2023-03-30,BLDTI2BT_TTZ6DM6W,2023-09-28,182,1
+full_coverage_after_listing_that_stops_the_step,T0892,Change Credential,ATT&CK for ICS 20.1,ATT&CK,2023-03-30,,,1311,0
+full_coverage_after_listing_by_a_requirement,T0892,Change Credential,ATT&CK for ICS 20.1,ATT&CK,2023-03-30,BLDTI2BT_TTZ6DM6W,2023-09-28,182,1
+original_definition,T0893,Data from Local System,ATT&CK for ICS 20.1,ATT&CK,2023-03-30,une-en-iec62443-3-3-2020,2013-08-01,0,1
+full_coverage_after_listing,T0893,Data from Local System,ATT&CK for ICS 20.1,ATT&CK,2023-03-30,iec62443-2-1-2024,2024-08-01,490,1
+full_coverage_after_listing_that_stops_the_step,T0893,Data from Local System,ATT&CK for ICS 20.1,ATT&CK,2023-03-30,,,1311,0
+full_coverage_after_listing_by_a_requirement,T0893,Data from Local System,ATT&CK for ICS 20.1,ATT&CK,2023-03-30,iec62443-2-1-2024,2024-08-01,490,1
+original_definition,T1003.001,LSASS Memory,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,FYCU6AB5_ZFEMULE5,2021-01-01,325,1
+full_coverage_after_listing,T1003.001,LSASS Memory,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,,,2454,0
+full_coverage_after_listing_that_stops_the_step,T1003.001,LSASS Memory,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,,,2454,0
+full_coverage_after_listing_by_a_requirement,T1003.001,LSASS Memory,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,,,2454,0
+original_definition,T1003.006,DCSync,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,B8RST6H3_N3GBWEB2,2014-09-01,0,1
+full_coverage_after_listing,T1003.006,DCSync,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,,,2454,0
+full_coverage_after_listing_that_stops_the_step,T1003.006,DCSync,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,,,2454,0
+full_coverage_after_listing_by_a_requirement,T1003.006,DCSync,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,,,2454,0
+original_definition,T1003.007,Proc Filesystem,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,FYCU6AB5_ZFEMULE5,2021-01-01,325,1
+full_coverage_after_listing,T1003.007,Proc Filesystem,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,,,2454,0
+full_coverage_after_listing_that_stops_the_step,T1003.007,Proc Filesystem,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,,,2454,0
+full_coverage_after_listing_by_a_requirement,T1003.007,Proc Filesystem,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,,,2454,0
+original_definition,T1003.008,/etc/passwd and /etc/shadow,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,FYCU6AB5_ZFEMULE5,2021-01-01,325,1
+full_coverage_after_listing,T1003.008,/etc/passwd and /etc/shadow,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,iso27002-2022,2022-02-01,721,1
+full_coverage_after_listing_that_stops_the_step,T1003.008,/etc/passwd and /etc/shadow,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,,,2454,0
+full_coverage_after_listing_by_a_requirement,T1003.008,/etc/passwd and /etc/shadow,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,,,2454,0
+original_definition,T1016.001,Internet Connection Discovery,ATT&CK Enterprise 20.1,ATT&CK,2021-03-17,WLK7XX4H_6KZ8VDYK,2017-11-13,0,1
+full_coverage_after_listing,T1016.001,Internet Connection Discovery,ATT&CK Enterprise 20.1,ATT&CK,2021-03-17,,,2054,0
+full_coverage_after_listing_that_stops_the_step,T1016.001,Internet Connection Discovery,ATT&CK Enterprise 20.1,ATT&CK,2021-03-17,,,2054,0
+full_coverage_after_listing_by_a_requirement,T1016.001,Internet Connection Discovery,ATT&CK Enterprise 20.1,ATT&CK,2021-03-17,,,2054,0
+original_definition,T1021.001,Remote Desktop Protocol,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,FYCU6AB5_ZFEMULE5,2021-01-01,325,1
+full_coverage_after_listing,T1021.001,Remote Desktop Protocol,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,iso27002-2022,2022-02-01,721,1
+full_coverage_after_listing_that_stops_the_step,T1021.001,Remote Desktop Protocol,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,iso27002-2022,2022-02-01,721,1
+full_coverage_after_listing_by_a_requirement,T1021.001,Remote Desktop Protocol,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,KBVQZI4M_SY3TZANI,2025-10-01,2059,1
+original_definition,T1021.002,SMB/Windows Admin Shares,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,B8RST6H3_N3GBWEB2,2014-09-01,0,1
+full_coverage_after_listing,T1021.002,SMB/Windows Admin Shares,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,ECEUFDLE_6JA3C38M,2024-01-01,1420,1
+full_coverage_after_listing_that_stops_the_step,T1021.002,SMB/Windows Admin Shares,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,,,2454,0
+full_coverage_after_listing_by_a_requirement,T1021.002,SMB/Windows Admin Shares,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,,,2454,0
+original_definition,T1021.004,SSH,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,B8RST6H3_N3GBWEB2,2014-09-01,0,1
+full_coverage_after_listing,T1021.004,SSH,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,FYCU6AB5_ZFEMULE5,2021-01-01,325,1
+full_coverage_after_listing_that_stops_the_step,T1021.004,SSH,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,FYCU6AB5_ZFEMULE5,2021-01-01,325,1
+full_coverage_after_listing_by_a_requirement,T1021.004,SSH,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,KBVQZI4M_SY3TZANI,2025-10-01,2059,1
+original_definition,T1021.006,Windows Remote Management,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,FYCU6AB5_ZFEMULE5,2021-01-01,325,1
+full_coverage_after_listing,T1021.006,Windows Remote Management,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,,,2454,0
+full_coverage_after_listing_that_stops_the_step,T1021.006,Windows Remote Management,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,,,2454,0
+full_coverage_after_listing_by_a_requirement,T1021.006,Windows Remote Management,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,,,2454,0
+original_definition,T1021.007,Cloud Services,ATT&CK Enterprise 20.1,ATT&CK,2023-02-21,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,T1021.007,Cloud Services,ATT&CK Enterprise 20.1,ATT&CK,2023-02-21,,,1348,0
+full_coverage_after_listing_that_stops_the_step,T1021.007,Cloud Services,ATT&CK Enterprise 20.1,ATT&CK,2023-02-21,,,1348,0
+full_coverage_after_listing_by_a_requirement,T1021.007,Cloud Services,ATT&CK Enterprise 20.1,ATT&CK,2023-02-21,,,1348,0
+original_definition,T1036.005,Match Legitimate Resource Name or Location,ATT&CK Enterprise 20.1,ATT&CK,2020-02-10,FYCU6AB5_ZFEMULE5,2021-01-01,326,1
+full_coverage_after_listing,T1036.005,Match Legitimate Resource Name or Location,ATT&CK Enterprise 20.1,ATT&CK,2020-02-10,4SQHZUSL_YY2EYK99,2024-01-01,1421,1
+full_coverage_after_listing_that_stops_the_step,T1036.005,Match Legitimate Resource Name or Location,ATT&CK Enterprise 20.1,ATT&CK,2020-02-10,4SQHZUSL_YY2EYK99,2024-01-01,1421,1
+full_coverage_after_listing_by_a_requirement,T1036.005,Match Legitimate Resource Name or Location,ATT&CK Enterprise 20.1,ATT&CK,2020-02-10,,,2455,0
+original_definition,T1048.002,Exfiltration Over Asymmetric Encrypted Non-C2 Protocol,ATT&CK Enterprise 20.1,ATT&CK,2020-03-15,FYCU6AB5_ZFEMULE5,2021-01-01,292,1
+full_coverage_after_listing,T1048.002,Exfiltration Over Asymmetric Encrypted Non-C2 Protocol,ATT&CK Enterprise 20.1,ATT&CK,2020-03-15,iso27001-2022,2022-10-01,930,1
+full_coverage_after_listing_that_stops_the_step,T1048.002,Exfiltration Over Asymmetric Encrypted Non-C2 Protocol,ATT&CK Enterprise 20.1,ATT&CK,2020-03-15,,,2421,0
+full_coverage_after_listing_by_a_requirement,T1048.002,Exfiltration Over Asymmetric Encrypted Non-C2 Protocol,ATT&CK Enterprise 20.1,ATT&CK,2020-03-15,iso27001-2022,2022-10-01,930,1
+original_definition,T1056.001,Keylogging,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,FYCU6AB5_ZFEMULE5,2021-01-01,325,1
+full_coverage_after_listing,T1056.001,Keylogging,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,iso27002-2022,2022-02-01,721,1
+full_coverage_after_listing_that_stops_the_step,T1056.001,Keylogging,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,iso27002-2022,2022-02-01,721,1
+full_coverage_after_listing_by_a_requirement,T1056.001,Keylogging,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,,,2454,0
+original_definition,T1056.002,GUI Input Capture,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,FYCU6AB5_ZFEMULE5,2021-01-01,325,1
+full_coverage_after_listing,T1056.002,GUI Input Capture,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,,,2454,0
+full_coverage_after_listing_that_stops_the_step,T1056.002,GUI Input Capture,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,,,2454,0
+full_coverage_after_listing_by_a_requirement,T1056.002,GUI Input Capture,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,,,2454,0
+original_definition,T1056.003,Web Portal Capture,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,FYCU6AB5_ZFEMULE5,2021-01-01,325,1
+full_coverage_after_listing,T1056.003,Web Portal Capture,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,iso27002-2022,2022-02-01,721,1
+full_coverage_after_listing_that_stops_the_step,T1056.003,Web Portal Capture,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,iso27002-2022,2022-02-01,721,1
+full_coverage_after_listing_by_a_requirement,T1056.003,Web Portal Capture,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,iso27001-2022,2022-10-01,963,1
+original_definition,T1059.001,PowerShell,ATT&CK Enterprise 20.1,ATT&CK,2020-03-09,FYCU6AB5_ZFEMULE5,2021-01-01,298,1
+full_coverage_after_listing,T1059.001,PowerShell,ATT&CK Enterprise 20.1,ATT&CK,2020-03-09,XYXMBF3U_E9CM2TMI,2021-12-08,639,1
+full_coverage_after_listing_that_stops_the_step,T1059.001,PowerShell,ATT&CK Enterprise 20.1,ATT&CK,2020-03-09,XYXMBF3U_E9CM2TMI,2021-12-08,639,1
+full_coverage_after_listing_by_a_requirement,T1059.001,PowerShell,ATT&CK Enterprise 20.1,ATT&CK,2020-03-09,,,2427,0
+original_definition,T1059.004,Unix Shell,ATT&CK Enterprise 20.1,ATT&CK,2020-03-09,iec62443-4-1-2018,2018-01-01,0,1
+full_coverage_after_listing,T1059.004,Unix Shell,ATT&CK Enterprise 20.1,ATT&CK,2020-03-09,owasp-top10-agentic-applications-2026,2025-12-01,2093,1
+full_coverage_after_listing_that_stops_the_step,T1059.004,Unix Shell,ATT&CK Enterprise 20.1,ATT&CK,2020-03-09,owasp-top10-agentic-applications-2026,2025-12-01,2093,1
+full_coverage_after_listing_by_a_requirement,T1059.004,Unix Shell,ATT&CK Enterprise 20.1,ATT&CK,2020-03-09,,,2427,0
+original_definition,T1059.006,Python,ATT&CK Enterprise 20.1,ATT&CK,2020-03-09,FYCU6AB5_ZFEMULE5,2021-01-01,298,1
+full_coverage_after_listing,T1059.006,Python,ATT&CK Enterprise 20.1,ATT&CK,2020-03-09,owasp-top10-agentic-applications-2026,2025-12-01,2093,1
+full_coverage_after_listing_that_stops_the_step,T1059.006,Python,ATT&CK Enterprise 20.1,ATT&CK,2020-03-09,owasp-top10-agentic-applications-2026,2025-12-01,2093,1
+full_coverage_after_listing_by_a_requirement,T1059.006,Python,ATT&CK Enterprise 20.1,ATT&CK,2020-03-09,,,2427,0
+original_definition,T1059.007,JavaScript,ATT&CK Enterprise 20.1,ATT&CK,2020-06-23,FYCU6AB5_ZFEMULE5,2021-01-01,192,1
+full_coverage_after_listing,T1059.007,JavaScript,ATT&CK Enterprise 20.1,ATT&CK,2020-06-23,,,2321,0
+full_coverage_after_listing_that_stops_the_step,T1059.007,JavaScript,ATT&CK Enterprise 20.1,ATT&CK,2020-06-23,,,2321,0
+full_coverage_after_listing_by_a_requirement,T1059.007,JavaScript,ATT&CK Enterprise 20.1,ATT&CK,2020-06-23,,,2321,0
+original_definition,T1059.009,Cloud API,ATT&CK Enterprise 20.1,ATT&CK,2022-03-17,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,T1059.009,Cloud API,ATT&CK Enterprise 20.1,ATT&CK,2022-03-17,,,1689,0
+full_coverage_after_listing_that_stops_the_step,T1059.009,Cloud API,ATT&CK Enterprise 20.1,ATT&CK,2022-03-17,,,1689,0
+full_coverage_after_listing_by_a_requirement,T1059.009,Cloud API,ATT&CK Enterprise 20.1,ATT&CK,2022-03-17,,,1689,0
+original_definition,T1069.003,Cloud Groups,ATT&CK Enterprise 20.1,ATT&CK,2020-02-21,3WRTBI4D_4B6V6RR5,2015-12-01,0,1
+full_coverage_after_listing,T1069.003,Cloud Groups,ATT&CK Enterprise 20.1,ATT&CK,2020-02-21,XYXMBF3U_E9CM2TMI,2021-12-08,656,1
+full_coverage_after_listing_that_stops_the_step,T1069.003,Cloud Groups,ATT&CK Enterprise 20.1,ATT&CK,2020-02-21,,,2444,0
+full_coverage_after_listing_by_a_requirement,T1069.003,Cloud Groups,ATT&CK Enterprise 20.1,ATT&CK,2020-02-21,,,2444,0
+original_definition,T1070.006,Timestomp,ATT&CK Enterprise 20.1,ATT&CK,2020-01-31,FYCU6AB5_ZFEMULE5,2021-01-01,336,1
+full_coverage_after_listing,T1070.006,Timestomp,ATT&CK Enterprise 20.1,ATT&CK,2020-01-31,iso27002-2022,2022-02-01,732,1
+full_coverage_after_listing_that_stops_the_step,T1070.006,Timestomp,ATT&CK Enterprise 20.1,ATT&CK,2020-01-31,,,2465,0
+full_coverage_after_listing_by_a_requirement,T1070.006,Timestomp,ATT&CK Enterprise 20.1,ATT&CK,2020-01-31,,,2465,0
+original_definition,T1071.001,Web Protocols,ATT&CK Enterprise 20.1,ATT&CK,2020-03-15,FYCU6AB5_ZFEMULE5,2021-01-01,292,1
+full_coverage_after_listing,T1071.001,Web Protocols,ATT&CK Enterprise 20.1,ATT&CK,2020-03-15,XYXMBF3U_E9CM2TMI,2021-12-08,633,1
+full_coverage_after_listing_that_stops_the_step,T1071.001,Web Protocols,ATT&CK Enterprise 20.1,ATT&CK,2020-03-15,XYXMBF3U_E9CM2TMI,2021-12-08,633,1
+full_coverage_after_listing_by_a_requirement,T1071.001,Web Protocols,ATT&CK Enterprise 20.1,ATT&CK,2020-03-15,,,2421,0
+original_definition,T1071.004,DNS,ATT&CK Enterprise 20.1,ATT&CK,2020-03-15,WLK7XX4H_6KZ8VDYK,2017-11-13,0,1
+full_coverage_after_listing,T1071.004,DNS,ATT&CK Enterprise 20.1,ATT&CK,2020-03-15,,,2421,0
+full_coverage_after_listing_that_stops_the_step,T1071.004,DNS,ATT&CK Enterprise 20.1,ATT&CK,2020-03-15,,,2421,0
+full_coverage_after_listing_by_a_requirement,T1071.004,DNS,ATT&CK Enterprise 20.1,ATT&CK,2020-03-15,,,2421,0
+original_definition,T1074.001,Local Data Staging,ATT&CK Enterprise 20.1,ATT&CK,2020-03-13,FYCU6AB5_ZFEMULE5,2021-01-01,294,1
+full_coverage_after_listing,T1074.001,Local Data Staging,ATT&CK Enterprise 20.1,ATT&CK,2020-03-13,XYXMBF3U_E9CM2TMI,2021-12-08,635,1
+full_coverage_after_listing_that_stops_the_step,T1074.001,Local Data Staging,ATT&CK Enterprise 20.1,ATT&CK,2020-03-13,,,2423,0
+full_coverage_after_listing_by_a_requirement,T1074.001,Local Data Staging,ATT&CK Enterprise 20.1,ATT&CK,2020-03-13,,,2423,0
+original_definition,T1078.001,Default Accounts,ATT&CK Enterprise 20.1,ATT&CK,2020-03-13,iec62443-4-1-2018,2018-01-01,0,1
+full_coverage_after_listing,T1078.001,Default Accounts,ATT&CK Enterprise 20.1,ATT&CK,2020-03-13,iso27002-2022,2022-02-01,690,1
+full_coverage_after_listing_that_stops_the_step,T1078.001,Default Accounts,ATT&CK Enterprise 20.1,ATT&CK,2020-03-13,iso27002-2022,2022-02-01,690,1
+full_coverage_after_listing_by_a_requirement,T1078.001,Default Accounts,ATT&CK Enterprise 20.1,ATT&CK,2020-03-13,ECEUFDLE_6JA3C38M,2024-01-01,1389,1
+original_definition,T1078.004,Cloud Accounts,ATT&CK Enterprise 20.1,ATT&CK,2020-03-13,3WRTBI4D_4B6V6RR5,2015-12-01,0,1
+full_coverage_after_listing,T1078.004,Cloud Accounts,ATT&CK Enterprise 20.1,ATT&CK,2020-03-13,FYCU6AB5_ZFEMULE5,2021-01-01,294,1
+full_coverage_after_listing_that_stops_the_step,T1078.004,Cloud Accounts,ATT&CK Enterprise 20.1,ATT&CK,2020-03-13,FYCU6AB5_ZFEMULE5,2021-01-01,294,1
+full_coverage_after_listing_by_a_requirement,T1078.004,Cloud Accounts,ATT&CK Enterprise 20.1,ATT&CK,2020-03-13,iso27001-2022,2022-10-01,932,1
+original_definition,T1087.004,Cloud Account,ATT&CK Enterprise 20.1,ATT&CK,2020-02-21,3WRTBI4D_4B6V6RR5,2015-12-01,0,1
+full_coverage_after_listing,T1087.004,Cloud Account,ATT&CK Enterprise 20.1,ATT&CK,2020-02-21,XYXMBF3U_E9CM2TMI,2021-12-08,656,1
+full_coverage_after_listing_that_stops_the_step,T1087.004,Cloud Account,ATT&CK Enterprise 20.1,ATT&CK,2020-02-21,,,2444,0
+full_coverage_after_listing_by_a_requirement,T1087.004,Cloud Account,ATT&CK Enterprise 20.1,ATT&CK,2020-02-21,,,2444,0
+original_definition,T1090.001,Internal Proxy,ATT&CK Enterprise 20.1,ATT&CK,2020-03-14,FYCU6AB5_ZFEMULE5,2021-01-01,293,1
+full_coverage_after_listing,T1090.001,Internal Proxy,ATT&CK Enterprise 20.1,ATT&CK,2020-03-14,XYXMBF3U_E9CM2TMI,2021-12-08,634,1
+full_coverage_after_listing_that_stops_the_step,T1090.001,Internal Proxy,ATT&CK Enterprise 20.1,ATT&CK,2020-03-14,XYXMBF3U_E9CM2TMI,2021-12-08,634,1
+full_coverage_after_listing_by_a_requirement,T1090.001,Internal Proxy,ATT&CK Enterprise 20.1,ATT&CK,2020-03-14,,,2422,0
+original_definition,T1090.002,External Proxy,ATT&CK Enterprise 20.1,ATT&CK,2020-03-14,FYCU6AB5_ZFEMULE5,2021-01-01,293,1
+full_coverage_after_listing,T1090.002,External Proxy,ATT&CK Enterprise 20.1,ATT&CK,2020-03-14,XYXMBF3U_E9CM2TMI,2021-12-08,634,1
+full_coverage_after_listing_that_stops_the_step,T1090.002,External Proxy,ATT&CK Enterprise 20.1,ATT&CK,2020-03-14,XYXMBF3U_E9CM2TMI,2021-12-08,634,1
+full_coverage_after_listing_by_a_requirement,T1090.002,External Proxy,ATT&CK Enterprise 20.1,ATT&CK,2020-03-14,,,2422,0
+original_definition,T1090.003,Multi-hop Proxy,ATT&CK Enterprise 20.1,ATT&CK,2020-03-14,FYCU6AB5_ZFEMULE5,2021-01-01,293,1
+full_coverage_after_listing,T1090.003,Multi-hop Proxy,ATT&CK Enterprise 20.1,ATT&CK,2020-03-14,XYXMBF3U_E9CM2TMI,2021-12-08,634,1
+full_coverage_after_listing_that_stops_the_step,T1090.003,Multi-hop Proxy,ATT&CK Enterprise 20.1,ATT&CK,2020-03-14,XYXMBF3U_E9CM2TMI,2021-12-08,634,1
+full_coverage_after_listing_by_a_requirement,T1090.003,Multi-hop Proxy,ATT&CK Enterprise 20.1,ATT&CK,2020-03-14,,,2422,0
+original_definition,T1098.001,Additional Cloud Credentials,ATT&CK Enterprise 20.1,ATT&CK,2020-01-19,FYCU6AB5_ZFEMULE5,2021-01-01,348,1
+full_coverage_after_listing,T1098.001,Additional Cloud Credentials,ATT&CK Enterprise 20.1,ATT&CK,2020-01-19,,,2477,0
+full_coverage_after_listing_that_stops_the_step,T1098.001,Additional Cloud Credentials,ATT&CK Enterprise 20.1,ATT&CK,2020-01-19,,,2477,0
+full_coverage_after_listing_by_a_requirement,T1098.001,Additional Cloud Credentials,ATT&CK Enterprise 20.1,ATT&CK,2020-01-19,,,2477,0
+original_definition,T1098.003,Additional Cloud Roles,ATT&CK Enterprise 20.1,ATT&CK,2020-01-19,3WRTBI4D_4B6V6RR5,2015-12-01,0,1
+full_coverage_after_listing,T1098.003,Additional Cloud Roles,ATT&CK Enterprise 20.1,ATT&CK,2020-01-19,iso27002-2022,2022-02-01,744,1
+full_coverage_after_listing_that_stops_the_step,T1098.003,Additional Cloud Roles,ATT&CK Enterprise 20.1,ATT&CK,2020-01-19,iso27002-2022,2022-02-01,744,1
+full_coverage_after_listing_by_a_requirement,T1098.003,Additional Cloud Roles,ATT&CK Enterprise 20.1,ATT&CK,2020-01-19,,,2477,0
+original_definition,T1098.004,SSH Authorized Keys,ATT&CK Enterprise 20.1,ATT&CK,2020-06-24,une-en-iec62443-3-3-2020,2013-08-01,0,1
+full_coverage_after_listing,T1098.004,SSH Authorized Keys,ATT&CK Enterprise 20.1,ATT&CK,2020-06-24,owasp-top10-agentic-applications-2026,2025-12-01,1986,1
+full_coverage_after_listing_that_stops_the_step,T1098.004,SSH Authorized Keys,ATT&CK Enterprise 20.1,ATT&CK,2020-06-24,owasp-top10-agentic-applications-2026,2025-12-01,1986,1
+full_coverage_after_listing_by_a_requirement,T1098.004,SSH Authorized Keys,ATT&CK Enterprise 20.1,ATT&CK,2020-06-24,,,2320,0
+original_definition,T1098.005,Device Registration,ATT&CK Enterprise 20.1,ATT&CK,2022-03-04,3WRTBI4D_4B6V6RR5,2015-12-01,0,1
+full_coverage_after_listing,T1098.005,Device Registration,ATT&CK Enterprise 20.1,ATT&CK,2022-03-04,,,1702,0
+full_coverage_after_listing_that_stops_the_step,T1098.005,Device Registration,ATT&CK Enterprise 20.1,ATT&CK,2022-03-04,,,1702,0
+full_coverage_after_listing_by_a_requirement,T1098.005,Device Registration,ATT&CK Enterprise 20.1,ATT&CK,2022-03-04,,,1702,0
+original_definition,T1102.002,Bidirectional Communication,ATT&CK Enterprise 20.1,ATT&CK,2020-03-14,FYCU6AB5_ZFEMULE5,2021-01-01,293,1
+full_coverage_after_listing,T1102.002,Bidirectional Communication,ATT&CK Enterprise 20.1,ATT&CK,2020-03-14,XYXMBF3U_E9CM2TMI,2021-12-08,634,1
+full_coverage_after_listing_that_stops_the_step,T1102.002,Bidirectional Communication,ATT&CK Enterprise 20.1,ATT&CK,2020-03-14,XYXMBF3U_E9CM2TMI,2021-12-08,634,1
+full_coverage_after_listing_by_a_requirement,T1102.002,Bidirectional Communication,ATT&CK Enterprise 20.1,ATT&CK,2020-03-14,,,2422,0
+original_definition,T1102.003,One-Way Communication,ATT&CK Enterprise 20.1,ATT&CK,2020-03-14,FYCU6AB5_ZFEMULE5,2021-01-01,293,1
+full_coverage_after_listing,T1102.003,One-Way Communication,ATT&CK Enterprise 20.1,ATT&CK,2020-03-14,,,2422,0
+full_coverage_after_listing_that_stops_the_step,T1102.003,One-Way Communication,ATT&CK Enterprise 20.1,ATT&CK,2020-03-14,,,2422,0
+full_coverage_after_listing_by_a_requirement,T1102.003,One-Way Communication,ATT&CK Enterprise 20.1,ATT&CK,2020-03-14,,,2422,0
+original_definition,T1110.001,Password Guessing,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,une-en-iec62443-3-3-2020,2013-08-01,0,1
+full_coverage_after_listing,T1110.001,Password Guessing,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,iso27002-2022,2022-02-01,721,1
+full_coverage_after_listing_that_stops_the_step,T1110.001,Password Guessing,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,iso27002-2022,2022-02-01,721,1
+full_coverage_after_listing_by_a_requirement,T1110.001,Password Guessing,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,BLDTI2BT_TTZ6DM6W,2023-09-28,1325,1
+original_definition,T1110.003,Password Spraying,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,B8RST6H3_N3GBWEB2,2014-09-01,0,1
+full_coverage_after_listing,T1110.003,Password Spraying,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,FYCU6AB5_ZFEMULE5,2021-01-01,325,1
+full_coverage_after_listing_that_stops_the_step,T1110.003,Password Spraying,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,FYCU6AB5_ZFEMULE5,2021-01-01,325,1
+full_coverage_after_listing_by_a_requirement,T1110.003,Password Spraying,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,KBVQZI4M_SY3TZANI,2025-10-01,2059,1
+original_definition,T1110.004,Credential Stuffing,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,une-en-iec62443-3-3-2020,2013-08-01,0,1
+full_coverage_after_listing,T1110.004,Credential Stuffing,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,FYCU6AB5_ZFEMULE5,2021-01-01,325,1
+full_coverage_after_listing_that_stops_the_step,T1110.004,Credential Stuffing,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,FYCU6AB5_ZFEMULE5,2021-01-01,325,1
+full_coverage_after_listing_by_a_requirement,T1110.004,Credential Stuffing,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,BLDTI2BT_TTZ6DM6W,2023-09-28,1325,1
+original_definition,T1114.002,Remote Email Collection,ATT&CK Enterprise 20.1,ATT&CK,2020-02-19,3WRTBI4D_4B6V6RR5,2015-12-01,0,1
+full_coverage_after_listing,T1114.002,Remote Email Collection,ATT&CK Enterprise 20.1,ATT&CK,2020-02-19,XYXMBF3U_E9CM2TMI,2021-12-08,658,1
+full_coverage_after_listing_that_stops_the_step,T1114.002,Remote Email Collection,ATT&CK Enterprise 20.1,ATT&CK,2020-02-19,,,2446,0
+full_coverage_after_listing_by_a_requirement,T1114.002,Remote Email Collection,ATT&CK Enterprise 20.1,ATT&CK,2020-02-19,,,2446,0
+original_definition,T1114.003,Email Forwarding Rule,ATT&CK Enterprise 20.1,ATT&CK,2020-02-19,3WRTBI4D_4B6V6RR5,2015-12-01,0,1
+full_coverage_after_listing,T1114.003,Email Forwarding Rule,ATT&CK Enterprise 20.1,ATT&CK,2020-02-19,,,2446,0
+full_coverage_after_listing_that_stops_the_step,T1114.003,Email Forwarding Rule,ATT&CK Enterprise 20.1,ATT&CK,2020-02-19,,,2446,0
+full_coverage_after_listing_by_a_requirement,T1114.003,Email Forwarding Rule,ATT&CK Enterprise 20.1,ATT&CK,2020-02-19,,,2446,0
+original_definition,T1136.001,Local Account,ATT&CK Enterprise 20.1,ATT&CK,2020-01-28,B8RST6H3_N3GBWEB2,2014-09-01,0,1
+full_coverage_after_listing,T1136.001,Local Account,ATT&CK Enterprise 20.1,ATT&CK,2020-01-28,iso27002-2022,2022-02-01,735,1
+full_coverage_after_listing_that_stops_the_step,T1136.001,Local Account,ATT&CK Enterprise 20.1,ATT&CK,2020-01-28,iso27002-2022,2022-02-01,735,1
+full_coverage_after_listing_by_a_requirement,T1136.001,Local Account,ATT&CK Enterprise 20.1,ATT&CK,2020-01-28,,,2468,0
+original_definition,T1136.002,Domain Account,ATT&CK Enterprise 20.1,ATT&CK,2020-01-28,B8RST6H3_N3GBWEB2,2014-09-01,0,1
+full_coverage_after_listing,T1136.002,Domain Account,ATT&CK Enterprise 20.1,ATT&CK,2020-01-28,iso27002-2022,2022-02-01,735,1
+full_coverage_after_listing_that_stops_the_step,T1136.002,Domain Account,ATT&CK Enterprise 20.1,ATT&CK,2020-01-28,iso27002-2022,2022-02-01,735,1
+full_coverage_after_listing_by_a_requirement,T1136.002,Domain Account,ATT&CK Enterprise 20.1,ATT&CK,2020-01-28,,,2468,0
+original_definition,T1136.003,Cloud Account,ATT&CK Enterprise 20.1,ATT&CK,2020-01-29,FYCU6AB5_ZFEMULE5,2021-01-01,338,1
+full_coverage_after_listing,T1136.003,Cloud Account,ATT&CK Enterprise 20.1,ATT&CK,2020-01-29,,,2467,0
+full_coverage_after_listing_that_stops_the_step,T1136.003,Cloud Account,ATT&CK Enterprise 20.1,ATT&CK,2020-01-29,,,2467,0
+full_coverage_after_listing_by_a_requirement,T1136.003,Cloud Account,ATT&CK Enterprise 20.1,ATT&CK,2020-01-29,,,2467,0
+original_definition,T1195.001,Compromise Software Dependencies and Development Tools,ATT&CK Enterprise 20.1,ATT&CK,2020-03-11,iec62443-4-1-2018,2018-01-01,0,1
+full_coverage_after_listing,T1195.001,Compromise Software Dependencies and Development Tools,ATT&CK Enterprise 20.1,ATT&CK,2020-03-11,owasp-top10-agentic-applications-2026,2025-12-01,2091,1
+full_coverage_after_listing_that_stops_the_step,T1195.001,Compromise Software Dependencies and Development Tools,ATT&CK Enterprise 20.1,ATT&CK,2020-03-11,owasp-top10-agentic-applications-2026,2025-12-01,2091,1
+full_coverage_after_listing_by_a_requirement,T1195.001,Compromise Software Dependencies and Development Tools,ATT&CK Enterprise 20.1,ATT&CK,2020-03-11,,,2425,0
+original_definition,T1195.002,Compromise Software Supply Chain,ATT&CK Enterprise 20.1,ATT&CK,2020-03-11,iec62443-4-1-2018,2018-01-01,0,1
+full_coverage_after_listing,T1195.002,Compromise Software Supply Chain,ATT&CK Enterprise 20.1,ATT&CK,2020-03-11,iso27002-2022,2022-02-01,692,1
+full_coverage_after_listing_that_stops_the_step,T1195.002,Compromise Software Supply Chain,ATT&CK Enterprise 20.1,ATT&CK,2020-03-11,iso27002-2022,2022-02-01,692,1
+full_coverage_after_listing_by_a_requirement,T1195.002,Compromise Software Supply Chain,ATT&CK Enterprise 20.1,ATT&CK,2020-03-11,,,2425,0
+original_definition,T1204.002,Malicious File,ATT&CK Enterprise 20.1,ATT&CK,2020-03-11,B8RST6H3_N3GBWEB2,2014-09-01,0,1
+full_coverage_after_listing,T1204.002,Malicious File,ATT&CK Enterprise 20.1,ATT&CK,2020-03-11,iso27002-2022,2022-02-01,692,1
+full_coverage_after_listing_that_stops_the_step,T1204.002,Malicious File,ATT&CK Enterprise 20.1,ATT&CK,2020-03-11,iso27002-2022,2022-02-01,692,1
+full_coverage_after_listing_by_a_requirement,T1204.002,Malicious File,ATT&CK Enterprise 20.1,ATT&CK,2020-03-11,,,2425,0
+original_definition,T1204.004,Malicious Copy and Paste,ATT&CK Enterprise 20.1,ATT&CK,2025-03-18,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,T1204.004,Malicious Copy and Paste,ATT&CK Enterprise 20.1,ATT&CK,2025-03-18,,,592,0
+full_coverage_after_listing_that_stops_the_step,T1204.004,Malicious Copy and Paste,ATT&CK Enterprise 20.1,ATT&CK,2025-03-18,,,592,0
+full_coverage_after_listing_by_a_requirement,T1204.004,Malicious Copy and Paste,ATT&CK Enterprise 20.1,ATT&CK,2025-03-18,,,592,0
+original_definition,T1204.005,Malicious Library,ATT&CK Enterprise 20.1,ATT&CK,2025-05-22,iec62443-4-1-2018,2018-01-01,0,1
+full_coverage_after_listing,T1204.005,Malicious Library,ATT&CK Enterprise 20.1,ATT&CK,2025-05-22,,,527,0
+full_coverage_after_listing_that_stops_the_step,T1204.005,Malicious Library,ATT&CK Enterprise 20.1,ATT&CK,2025-05-22,,,527,0
+full_coverage_after_listing_by_a_requirement,T1204.005,Malicious Library,ATT&CK Enterprise 20.1,ATT&CK,2025-05-22,,,527,0
+original_definition,T1484.001,Group Policy Modification,ATT&CK Enterprise 20.1,ATT&CK,2020-12-28,B8RST6H3_N3GBWEB2,2014-09-01,0,1
+full_coverage_after_listing,T1484.001,Group Policy Modification,ATT&CK Enterprise 20.1,ATT&CK,2020-12-28,XYXMBF3U_E9CM2TMI,2021-12-08,345,1
+full_coverage_after_listing_that_stops_the_step,T1484.001,Group Policy Modification,ATT&CK Enterprise 20.1,ATT&CK,2020-12-28,ECEUFDLE_6JA3C38M,2024-01-01,1099,1
+full_coverage_after_listing_by_a_requirement,T1484.001,Group Policy Modification,ATT&CK Enterprise 20.1,ATT&CK,2020-12-28,ECEUFDLE_6JA3C38M,2024-01-01,1099,1
+original_definition,T1491.002,External Defacement,ATT&CK Enterprise 20.1,ATT&CK,2020-02-20,iec62443-4-1-2018,2018-01-01,0,1
+full_coverage_after_listing,T1491.002,External Defacement,ATT&CK Enterprise 20.1,ATT&CK,2020-02-20,iso27001-2022,2022-10-01,954,1
+full_coverage_after_listing_that_stops_the_step,T1491.002,External Defacement,ATT&CK Enterprise 20.1,ATT&CK,2020-02-20,iso27001-2022,2022-10-01,954,1
+full_coverage_after_listing_by_a_requirement,T1491.002,External Defacement,ATT&CK Enterprise 20.1,ATT&CK,2020-02-20,iso27001-2022,2022-10-01,954,1
+original_definition,T1496.001,Compute Hijacking,ATT&CK Enterprise 20.1,ATT&CK,2024-09-25,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,T1496.001,Compute Hijacking,ATT&CK Enterprise 20.1,ATT&CK,2024-09-25,,,766,0
+full_coverage_after_listing_that_stops_the_step,T1496.001,Compute Hijacking,ATT&CK Enterprise 20.1,ATT&CK,2024-09-25,,,766,0
+full_coverage_after_listing_by_a_requirement,T1496.001,Compute Hijacking,ATT&CK Enterprise 20.1,ATT&CK,2024-09-25,,,766,0
+original_definition,T1496.004,Cloud Service Hijacking,ATT&CK Enterprise 20.1,ATT&CK,2024-09-25,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,T1496.004,Cloud Service Hijacking,ATT&CK Enterprise 20.1,ATT&CK,2024-09-25,,,766,0
+full_coverage_after_listing_that_stops_the_step,T1496.004,Cloud Service Hijacking,ATT&CK Enterprise 20.1,ATT&CK,2024-09-25,,,766,0
+full_coverage_after_listing_by_a_requirement,T1496.004,Cloud Service Hijacking,ATT&CK Enterprise 20.1,ATT&CK,2024-09-25,,,766,0
+original_definition,T1518.001,Security Software Discovery,ATT&CK Enterprise 20.1,ATT&CK,2020-02-21,FYCU6AB5_ZFEMULE5,2021-01-01,315,1
+full_coverage_after_listing,T1518.001,Security Software Discovery,ATT&CK Enterprise 20.1,ATT&CK,2020-02-21,,,2444,0
+full_coverage_after_listing_that_stops_the_step,T1518.001,Security Software Discovery,ATT&CK Enterprise 20.1,ATT&CK,2020-02-21,,,2444,0
+full_coverage_after_listing_by_a_requirement,T1518.001,Security Software Discovery,ATT&CK Enterprise 20.1,ATT&CK,2020-02-21,,,2444,0
+original_definition,T1543,Create or Modify System Process,ATT&CK Enterprise 20.1,ATT&CK,2020-01-10,une-en-iec62443-3-3-2020,2013-08-01,0,1
+full_coverage_after_listing,T1543,Create or Modify System Process,ATT&CK Enterprise 20.1,ATT&CK,2020-01-10,BLDTI2BT_TTZ6DM6W,2023-09-28,1357,1
+full_coverage_after_listing_that_stops_the_step,T1543,Create or Modify System Process,ATT&CK Enterprise 20.1,ATT&CK,2020-01-10,BLDTI2BT_TTZ6DM6W,2023-09-28,1357,1
+full_coverage_after_listing_by_a_requirement,T1543,Create or Modify System Process,ATT&CK Enterprise 20.1,ATT&CK,2020-01-10,BLDTI2BT_TTZ6DM6W,2023-09-28,1357,1
+original_definition,T1543.001,Launch Agent,ATT&CK Enterprise 20.1,ATT&CK,2020-01-17,FYCU6AB5_ZFEMULE5,2021-01-01,350,1
+full_coverage_after_listing,T1543.001,Launch Agent,ATT&CK Enterprise 20.1,ATT&CK,2020-01-17,ECEUFDLE_6JA3C38M,2024-01-01,1445,1
+full_coverage_after_listing_that_stops_the_step,T1543.001,Launch Agent,ATT&CK Enterprise 20.1,ATT&CK,2020-01-17,ECEUFDLE_6JA3C38M,2024-01-01,1445,1
+full_coverage_after_listing_by_a_requirement,T1543.001,Launch Agent,ATT&CK Enterprise 20.1,ATT&CK,2020-01-17,,,2479,0
+original_definition,T1546,Event Triggered Execution,ATT&CK Enterprise 20.1,ATT&CK,2020-01-22,FYCU6AB5_ZFEMULE5,2021-01-01,345,1
+full_coverage_after_listing,T1546,Event Triggered Execution,ATT&CK Enterprise 20.1,ATT&CK,2020-01-22,,,2474,0
+full_coverage_after_listing_that_stops_the_step,T1546,Event Triggered Execution,ATT&CK Enterprise 20.1,ATT&CK,2020-01-22,,,2474,0
+full_coverage_after_listing_by_a_requirement,T1546,Event Triggered Execution,ATT&CK Enterprise 20.1,ATT&CK,2020-01-22,,,2474,0
+original_definition,T1547.001,Registry Run Keys / Startup Folder,ATT&CK Enterprise 20.1,ATT&CK,2020-01-23,FYCU6AB5_ZFEMULE5,2021-01-01,344,1
+full_coverage_after_listing,T1547.001,Registry Run Keys / Startup Folder,ATT&CK Enterprise 20.1,ATT&CK,2020-01-23,,,2473,0
+full_coverage_after_listing_that_stops_the_step,T1547.001,Registry Run Keys / Startup Folder,ATT&CK Enterprise 20.1,ATT&CK,2020-01-23,,,2473,0
+full_coverage_after_listing_by_a_requirement,T1547.001,Registry Run Keys / Startup Folder,ATT&CK Enterprise 20.1,ATT&CK,2020-01-23,,,2473,0
+original_definition,T1548.005,Temporary Elevated Cloud Access,ATT&CK Enterprise 20.1,ATT&CK,2023-07-10,3WRTBI4D_4B6V6RR5,2015-12-01,0,1
+full_coverage_after_listing,T1548.005,Temporary Elevated Cloud Access,ATT&CK Enterprise 20.1,ATT&CK,2023-07-10,,,1209,0
+full_coverage_after_listing_that_stops_the_step,T1548.005,Temporary Elevated Cloud Access,ATT&CK Enterprise 20.1,ATT&CK,2023-07-10,,,1209,0
+full_coverage_after_listing_by_a_requirement,T1548.005,Temporary Elevated Cloud Access,ATT&CK Enterprise 20.1,ATT&CK,2023-07-10,,,1209,0
+original_definition,T1550,Use Alternate Authentication Material,ATT&CK Enterprise 20.1,ATT&CK,2020-01-30,FYCU6AB5_ZFEMULE5,2021-01-01,337,1
+full_coverage_after_listing,T1550,Use Alternate Authentication Material,ATT&CK Enterprise 20.1,ATT&CK,2020-01-30,iso27002-2022,2022-02-01,733,1
+full_coverage_after_listing_that_stops_the_step,T1550,Use Alternate Authentication Material,ATT&CK Enterprise 20.1,ATT&CK,2020-01-30,iso27002-2022,2022-02-01,733,1
+full_coverage_after_listing_by_a_requirement,T1550,Use Alternate Authentication Material,ATT&CK Enterprise 20.1,ATT&CK,2020-01-30,,,2466,0
+original_definition,T1550.001,Application Access Token,ATT&CK Enterprise 20.1,ATT&CK,2020-01-30,3WRTBI4D_4B6V6RR5,2015-12-01,0,1
+full_coverage_after_listing,T1550.001,Application Access Token,ATT&CK Enterprise 20.1,ATT&CK,2020-01-30,,,2466,0
+full_coverage_after_listing_that_stops_the_step,T1550.001,Application Access Token,ATT&CK Enterprise 20.1,ATT&CK,2020-01-30,,,2466,0
+full_coverage_after_listing_by_a_requirement,T1550.001,Application Access Token,ATT&CK Enterprise 20.1,ATT&CK,2020-01-30,,,2466,0
+original_definition,T1550.002,Pass the Hash,ATT&CK Enterprise 20.1,ATT&CK,2020-01-30,B8RST6H3_N3GBWEB2,2014-09-01,0,1
+full_coverage_after_listing,T1550.002,Pass the Hash,ATT&CK Enterprise 20.1,ATT&CK,2020-01-30,ECEUFDLE_6JA3C38M,2024-01-01,1432,1
+full_coverage_after_listing_that_stops_the_step,T1550.002,Pass the Hash,ATT&CK Enterprise 20.1,ATT&CK,2020-01-30,ECEUFDLE_6JA3C38M,2024-01-01,1432,1
+full_coverage_after_listing_by_a_requirement,T1550.002,Pass the Hash,ATT&CK Enterprise 20.1,ATT&CK,2020-01-30,,,2466,0
+original_definition,T1550.003,Pass the Ticket,ATT&CK Enterprise 20.1,ATT&CK,2020-01-30,FYCU6AB5_ZFEMULE5,2021-01-01,337,1
+full_coverage_after_listing,T1550.003,Pass the Ticket,ATT&CK Enterprise 20.1,ATT&CK,2020-01-30,ECEUFDLE_6JA3C38M,2024-01-01,1432,1
+full_coverage_after_listing_that_stops_the_step,T1550.003,Pass the Ticket,ATT&CK Enterprise 20.1,ATT&CK,2020-01-30,,,2466,0
+full_coverage_after_listing_by_a_requirement,T1550.003,Pass the Ticket,ATT&CK Enterprise 20.1,ATT&CK,2020-01-30,,,2466,0
+original_definition,T1552,Unsecured Credentials,ATT&CK Enterprise 20.1,ATT&CK,2020-02-04,B8RST6H3_N3GBWEB2,2014-09-01,0,1
+full_coverage_after_listing,T1552,Unsecured Credentials,ATT&CK Enterprise 20.1,ATT&CK,2020-02-04,XYXMBF3U_E9CM2TMI,2021-12-08,673,1
+full_coverage_after_listing_that_stops_the_step,T1552,Unsecured Credentials,ATT&CK Enterprise 20.1,ATT&CK,2020-02-04,XYXMBF3U_E9CM2TMI,2021-12-08,673,1
+full_coverage_after_listing_by_a_requirement,T1552,Unsecured Credentials,ATT&CK Enterprise 20.1,ATT&CK,2020-02-04,YX4MHEBB_YZGGZ2ZQ,2025-10-01,2066,1
+original_definition,T1552.001,Credentials In Files,ATT&CK Enterprise 20.1,ATT&CK,2020-02-04,B8RST6H3_N3GBWEB2,2014-09-01,0,1
+full_coverage_after_listing,T1552.001,Credentials In Files,ATT&CK Enterprise 20.1,ATT&CK,2020-02-04,XYXMBF3U_E9CM2TMI,2021-12-08,673,1
+full_coverage_after_listing_that_stops_the_step,T1552.001,Credentials In Files,ATT&CK Enterprise 20.1,ATT&CK,2020-02-04,XYXMBF3U_E9CM2TMI,2021-12-08,673,1
+full_coverage_after_listing_by_a_requirement,T1552.001,Credentials In Files,ATT&CK Enterprise 20.1,ATT&CK,2020-02-04,,,2461,0
+original_definition,T1552.004,Private Keys,ATT&CK Enterprise 20.1,ATT&CK,2020-02-04,FYCU6AB5_ZFEMULE5,2021-01-01,332,1
+full_coverage_after_listing,T1552.004,Private Keys,ATT&CK Enterprise 20.1,ATT&CK,2020-02-04,ECEUFDLE_6JA3C38M,2024-01-01,1427,1
+full_coverage_after_listing_that_stops_the_step,T1552.004,Private Keys,ATT&CK Enterprise 20.1,ATT&CK,2020-02-04,ECEUFDLE_6JA3C38M,2024-01-01,1427,1
+full_coverage_after_listing_by_a_requirement,T1552.004,Private Keys,ATT&CK Enterprise 20.1,ATT&CK,2020-02-04,,,2461,0
+original_definition,T1552.005,Cloud Instance Metadata API,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,iec62443-4-1-2018,2018-01-01,0,1
+full_coverage_after_listing,T1552.005,Cloud Instance Metadata API,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,,,2454,0
+full_coverage_after_listing_that_stops_the_step,T1552.005,Cloud Instance Metadata API,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,,,2454,0
+full_coverage_after_listing_by_a_requirement,T1552.005,Cloud Instance Metadata API,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,,,2454,0
+original_definition,T1552.007,Container API,ATT&CK Enterprise 20.1,ATT&CK,2021-03-31,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,T1552.007,Container API,ATT&CK Enterprise 20.1,ATT&CK,2021-03-31,,,2040,0
+full_coverage_after_listing_that_stops_the_step,T1552.007,Container API,ATT&CK Enterprise 20.1,ATT&CK,2021-03-31,,,2040,0
+full_coverage_after_listing_by_a_requirement,T1552.007,Container API,ATT&CK Enterprise 20.1,ATT&CK,2021-03-31,,,2040,0
+original_definition,T1555,Credentials from Password Stores,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,FYCU6AB5_ZFEMULE5,2021-01-01,325,1
+full_coverage_after_listing,T1555,Credentials from Password Stores,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,ECEUFDLE_6JA3C38M,2024-01-01,1420,1
+full_coverage_after_listing_that_stops_the_step,T1555,Credentials from Password Stores,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,ECEUFDLE_6JA3C38M,2024-01-01,1420,1
+full_coverage_after_listing_by_a_requirement,T1555,Credentials from Password Stores,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,,,2454,0
+original_definition,T1555.003,Credentials from Web Browsers,ATT&CK Enterprise 20.1,ATT&CK,2020-02-12,B8RST6H3_N3GBWEB2,2014-09-01,0,1
+full_coverage_after_listing,T1555.003,Credentials from Web Browsers,ATT&CK Enterprise 20.1,ATT&CK,2020-02-12,,,2453,0
+full_coverage_after_listing_that_stops_the_step,T1555.003,Credentials from Web Browsers,ATT&CK Enterprise 20.1,ATT&CK,2020-02-12,,,2453,0
+full_coverage_after_listing_by_a_requirement,T1555.003,Credentials from Web Browsers,ATT&CK Enterprise 20.1,ATT&CK,2020-02-12,,,2453,0
+original_definition,T1555.006,Cloud Secrets Management Stores,ATT&CK Enterprise 20.1,ATT&CK,2023-09-25,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,T1555.006,Cloud Secrets Management Stores,ATT&CK Enterprise 20.1,ATT&CK,2023-09-25,ECEUFDLE_6JA3C38M,2024-01-01,98,1
+full_coverage_after_listing_that_stops_the_step,T1555.006,Cloud Secrets Management Stores,ATT&CK Enterprise 20.1,ATT&CK,2023-09-25,ECEUFDLE_6JA3C38M,2024-01-01,98,1
+full_coverage_after_listing_by_a_requirement,T1555.006,Cloud Secrets Management Stores,ATT&CK Enterprise 20.1,ATT&CK,2023-09-25,,,1132,0
+original_definition,T1556,Modify Authentication Process,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,FYCU6AB5_ZFEMULE5,2021-01-01,325,1
+full_coverage_after_listing,T1556,Modify Authentication Process,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,,,2454,0
+full_coverage_after_listing_that_stops_the_step,T1556,Modify Authentication Process,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,,,2454,0
+full_coverage_after_listing_by_a_requirement,T1556,Modify Authentication Process,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,,,2454,0
+original_definition,T1557,Adversary-in-the-Middle,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,FYCU6AB5_ZFEMULE5,2021-01-01,325,1
+full_coverage_after_listing,T1557,Adversary-in-the-Middle,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,,,2454,0
+full_coverage_after_listing_that_stops_the_step,T1557,Adversary-in-the-Middle,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,,,2454,0
+full_coverage_after_listing_by_a_requirement,T1557,Adversary-in-the-Middle,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,,,2454,0
+original_definition,T1557.001,Name Resolution Poisoning and SMB Relay,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,FYCU6AB5_ZFEMULE5,2021-01-01,325,1
+full_coverage_after_listing,T1557.001,Name Resolution Poisoning and SMB Relay,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,ECEUFDLE_6JA3C38M,2024-01-01,1420,1
+full_coverage_after_listing_that_stops_the_step,T1557.001,Name Resolution Poisoning and SMB Relay,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,,,2454,0
+full_coverage_after_listing_by_a_requirement,T1557.001,Name Resolution Poisoning and SMB Relay,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,,,2454,0
+original_definition,T1558,Steal or Forge Kerberos Tickets,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,FYCU6AB5_ZFEMULE5,2021-01-01,325,1
+full_coverage_after_listing,T1558,Steal or Forge Kerberos Tickets,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,,,2454,0
+full_coverage_after_listing_that_stops_the_step,T1558,Steal or Forge Kerberos Tickets,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,,,2454,0
+full_coverage_after_listing_by_a_requirement,T1558,Steal or Forge Kerberos Tickets,ATT&CK Enterprise 20.1,ATT&CK,2020-02-11,,,2454,0
+original_definition,T1560,Archive Collected Data,ATT&CK Enterprise 20.1,ATT&CK,2020-02-20,FYCU6AB5_ZFEMULE5,2021-01-01,316,1
+full_coverage_after_listing,T1560,Archive Collected Data,ATT&CK Enterprise 20.1,ATT&CK,2020-02-20,XYXMBF3U_E9CM2TMI,2021-12-08,657,1
+full_coverage_after_listing_that_stops_the_step,T1560,Archive Collected Data,ATT&CK Enterprise 20.1,ATT&CK,2020-02-20,iso27002-2022,2022-02-01,712,1
+full_coverage_after_listing_by_a_requirement,T1560,Archive Collected Data,ATT&CK Enterprise 20.1,ATT&CK,2020-02-20,,,2445,0
+original_definition,T1560.002,Archive via Library,ATT&CK Enterprise 20.1,ATT&CK,2020-02-20,FYCU6AB5_ZFEMULE5,2021-01-01,316,1
+full_coverage_after_listing,T1560.002,Archive via Library,ATT&CK Enterprise 20.1,ATT&CK,2020-02-20,iso27002-2022,2022-02-01,712,1
+full_coverage_after_listing_that_stops_the_step,T1560.002,Archive via Library,ATT&CK Enterprise 20.1,ATT&CK,2020-02-20,iso27002-2022,2022-02-01,712,1
+full_coverage_after_listing_by_a_requirement,T1560.002,Archive via Library,ATT&CK Enterprise 20.1,ATT&CK,2020-02-20,iso27001-2022,2022-10-01,954,1
+original_definition,T1561,Disk Wipe,ATT&CK Enterprise 20.1,ATT&CK,2020-02-20,FYCU6AB5_ZFEMULE5,2021-01-01,316,1
+full_coverage_after_listing,T1561,Disk Wipe,ATT&CK Enterprise 20.1,ATT&CK,2020-02-20,iso27002-2022,2022-02-01,712,1
+full_coverage_after_listing_that_stops_the_step,T1561,Disk Wipe,ATT&CK Enterprise 20.1,ATT&CK,2020-02-20,iso27002-2022,2022-02-01,712,1
+full_coverage_after_listing_by_a_requirement,T1561,Disk Wipe,ATT&CK Enterprise 20.1,ATT&CK,2020-02-20,,,2445,0
+original_definition,T1561.001,Disk Content Wipe,ATT&CK Enterprise 20.1,ATT&CK,2020-02-20,FYCU6AB5_ZFEMULE5,2021-01-01,316,1
+full_coverage_after_listing,T1561.001,Disk Content Wipe,ATT&CK Enterprise 20.1,ATT&CK,2020-02-20,XYXMBF3U_E9CM2TMI,2021-12-08,657,1
+full_coverage_after_listing_that_stops_the_step,T1561.001,Disk Content Wipe,ATT&CK Enterprise 20.1,ATT&CK,2020-02-20,iso27001-2022,2022-10-01,954,1
+full_coverage_after_listing_by_a_requirement,T1561.001,Disk Content Wipe,ATT&CK Enterprise 20.1,ATT&CK,2020-02-20,iso27001-2022,2022-10-01,954,1
+original_definition,T1564.008,Email Hiding Rules,ATT&CK Enterprise 20.1,ATT&CK,2021-06-07,3WRTBI4D_4B6V6RR5,2015-12-01,0,1
+full_coverage_after_listing,T1564.008,Email Hiding Rules,ATT&CK Enterprise 20.1,ATT&CK,2021-06-07,,,1972,0
+full_coverage_after_listing_that_stops_the_step,T1564.008,Email Hiding Rules,ATT&CK Enterprise 20.1,ATT&CK,2021-06-07,,,1972,0
+full_coverage_after_listing_by_a_requirement,T1564.008,Email Hiding Rules,ATT&CK Enterprise 20.1,ATT&CK,2021-06-07,,,1972,0
+original_definition,T1565.001,Stored Data Manipulation,ATT&CK Enterprise 20.1,ATT&CK,2020-03-02,FYCU6AB5_ZFEMULE5,2021-01-01,305,1
+full_coverage_after_listing,T1565.001,Stored Data Manipulation,ATT&CK Enterprise 20.1,ATT&CK,2020-03-02,,,2434,0
+full_coverage_after_listing_that_stops_the_step,T1565.001,Stored Data Manipulation,ATT&CK Enterprise 20.1,ATT&CK,2020-03-02,,,2434,0
+full_coverage_after_listing_by_a_requirement,T1565.001,Stored Data Manipulation,ATT&CK Enterprise 20.1,ATT&CK,2020-03-02,,,2434,0
+original_definition,T1566,Phishing,ATT&CK Enterprise 20.1,ATT&CK,2020-03-02,FYCU6AB5_ZFEMULE5,2021-01-01,305,1
+full_coverage_after_listing,T1566,Phishing,ATT&CK Enterprise 20.1,ATT&CK,2020-03-02,,,2434,0
+full_coverage_after_listing_that_stops_the_step,T1566,Phishing,ATT&CK Enterprise 20.1,ATT&CK,2020-03-02,,,2434,0
+full_coverage_after_listing_by_a_requirement,T1566,Phishing,ATT&CK Enterprise 20.1,ATT&CK,2020-03-02,,,2434,0
+original_definition,T1566.001,Spearphishing Attachment,ATT&CK Enterprise 20.1,ATT&CK,2020-03-02,B8RST6H3_N3GBWEB2,2014-09-01,0,1
+full_coverage_after_listing,T1566.001,Spearphishing Attachment,ATT&CK Enterprise 20.1,ATT&CK,2020-03-02,iso27002-2022,2022-02-01,701,1
+full_coverage_after_listing_that_stops_the_step,T1566.001,Spearphishing Attachment,ATT&CK Enterprise 20.1,ATT&CK,2020-03-02,iso27002-2022,2022-02-01,701,1
+full_coverage_after_listing_by_a_requirement,T1566.001,Spearphishing Attachment,ATT&CK Enterprise 20.1,ATT&CK,2020-03-02,,,2434,0
+original_definition,T1566.002,Spearphishing Link,ATT&CK Enterprise 20.1,ATT&CK,2020-03-02,3WRTBI4D_4B6V6RR5,2015-12-01,0,1
+full_coverage_after_listing,T1566.002,Spearphishing Link,ATT&CK Enterprise 20.1,ATT&CK,2020-03-02,,,2434,0
+full_coverage_after_listing_that_stops_the_step,T1566.002,Spearphishing Link,ATT&CK Enterprise 20.1,ATT&CK,2020-03-02,,,2434,0
+full_coverage_after_listing_by_a_requirement,T1566.002,Spearphishing Link,ATT&CK Enterprise 20.1,ATT&CK,2020-03-02,,,2434,0
+original_definition,T1566.003,Spearphishing via Service,ATT&CK Enterprise 20.1,ATT&CK,2020-03-02,FYCU6AB5_ZFEMULE5,2021-01-01,305,1
+full_coverage_after_listing,T1566.003,Spearphishing via Service,ATT&CK Enterprise 20.1,ATT&CK,2020-03-02,iso27002-2022,2022-02-01,701,1
+full_coverage_after_listing_that_stops_the_step,T1566.003,Spearphishing via Service,ATT&CK Enterprise 20.1,ATT&CK,2020-03-02,iso27002-2022,2022-02-01,701,1
+full_coverage_after_listing_by_a_requirement,T1566.003,Spearphishing via Service,ATT&CK Enterprise 20.1,ATT&CK,2020-03-02,,,2434,0
+original_definition,T1567,Exfiltration Over Web Service,ATT&CK Enterprise 20.1,ATT&CK,2020-03-09,3WRTBI4D_4B6V6RR5,2015-12-01,0,1
+full_coverage_after_listing,T1567,Exfiltration Over Web Service,ATT&CK Enterprise 20.1,ATT&CK,2020-03-09,iso27002-2022,2022-02-01,694,1
+full_coverage_after_listing_that_stops_the_step,T1567,Exfiltration Over Web Service,ATT&CK Enterprise 20.1,ATT&CK,2020-03-09,iso27002-2022,2022-02-01,694,1
+full_coverage_after_listing_by_a_requirement,T1567,Exfiltration Over Web Service,ATT&CK Enterprise 20.1,ATT&CK,2020-03-09,iso27001-2022,2022-10-01,936,1
+original_definition,T1567.001,Exfiltration to Code Repository,ATT&CK Enterprise 20.1,ATT&CK,2020-03-09,iec62443-4-1-2018,2018-01-01,0,1
+full_coverage_after_listing,T1567.001,Exfiltration to Code Repository,ATT&CK Enterprise 20.1,ATT&CK,2020-03-09,iso27002-2022,2022-02-01,694,1
+full_coverage_after_listing_that_stops_the_step,T1567.001,Exfiltration to Code Repository,ATT&CK Enterprise 20.1,ATT&CK,2020-03-09,iso27002-2022,2022-02-01,694,1
+full_coverage_after_listing_by_a_requirement,T1567.001,Exfiltration to Code Repository,ATT&CK Enterprise 20.1,ATT&CK,2020-03-09,iso27001-2022,2022-10-01,936,1
+original_definition,T1567.002,Exfiltration to Cloud Storage,ATT&CK Enterprise 20.1,ATT&CK,2020-03-09,FYCU6AB5_ZFEMULE5,2021-01-01,298,1
+full_coverage_after_listing,T1567.002,Exfiltration to Cloud Storage,ATT&CK Enterprise 20.1,ATT&CK,2020-03-09,iso27002-2022,2022-02-01,694,1
+full_coverage_after_listing_that_stops_the_step,T1567.002,Exfiltration to Cloud Storage,ATT&CK Enterprise 20.1,ATT&CK,2020-03-09,iso27002-2022,2022-02-01,694,1
+full_coverage_after_listing_by_a_requirement,T1567.002,Exfiltration to Cloud Storage,ATT&CK Enterprise 20.1,ATT&CK,2020-03-09,iso27001-2022,2022-10-01,936,1
+original_definition,T1567.004,Exfiltration Over Webhook,ATT&CK Enterprise 20.1,ATT&CK,2023-07-20,iec62443-4-1-2018,2018-01-01,0,1
+full_coverage_after_listing,T1567.004,Exfiltration Over Webhook,ATT&CK Enterprise 20.1,ATT&CK,2023-07-20,owasp-top10-agentic-applications-2026,2025-12-01,865,1
+full_coverage_after_listing_that_stops_the_step,T1567.004,Exfiltration Over Webhook,ATT&CK Enterprise 20.1,ATT&CK,2023-07-20,owasp-top10-agentic-applications-2026,2025-12-01,865,1
+full_coverage_after_listing_by_a_requirement,T1567.004,Exfiltration Over Webhook,ATT&CK Enterprise 20.1,ATT&CK,2023-07-20,,,1199,0
+original_definition,T1572,Protocol Tunneling,ATT&CK Enterprise 20.1,ATT&CK,2020-03-15,B8RST6H3_N3GBWEB2,2014-09-01,0,1
+full_coverage_after_listing,T1572,Protocol Tunneling,ATT&CK Enterprise 20.1,ATT&CK,2020-03-15,FYCU6AB5_ZFEMULE5,2021-01-01,292,1
+full_coverage_after_listing_that_stops_the_step,T1572,Protocol Tunneling,ATT&CK Enterprise 20.1,ATT&CK,2020-03-15,FYCU6AB5_ZFEMULE5,2021-01-01,292,1
+full_coverage_after_listing_by_a_requirement,T1572,Protocol Tunneling,ATT&CK Enterprise 20.1,ATT&CK,2020-03-15,,,2421,0
+original_definition,T1574,Hijack Execution Flow,ATT&CK Enterprise 20.1,ATT&CK,2020-03-12,YZU6B3F5_FWK5U4MY,2021-07-01,476,1
+full_coverage_after_listing,T1574,Hijack Execution Flow,ATT&CK Enterprise 20.1,ATT&CK,2020-03-12,,,2424,0
+full_coverage_after_listing_that_stops_the_step,T1574,Hijack Execution Flow,ATT&CK Enterprise 20.1,ATT&CK,2020-03-12,,,2424,0
+full_coverage_after_listing_by_a_requirement,T1574,Hijack Execution Flow,ATT&CK Enterprise 20.1,ATT&CK,2020-03-12,,,2424,0
+original_definition,T1574.001,DLL,ATT&CK Enterprise 20.1,ATT&CK,2020-03-13,FYCU6AB5_ZFEMULE5,2021-01-01,294,1
+full_coverage_after_listing,T1574.001,DLL,ATT&CK Enterprise 20.1,ATT&CK,2020-03-13,,,2423,0
+full_coverage_after_listing_that_stops_the_step,T1574.001,DLL,ATT&CK Enterprise 20.1,ATT&CK,2020-03-13,,,2423,0
+full_coverage_after_listing_by_a_requirement,T1574.001,DLL,ATT&CK Enterprise 20.1,ATT&CK,2020-03-13,,,2423,0
+original_definition,T1578.002,Create Cloud Instance,ATT&CK Enterprise 20.1,ATT&CK,2020-05-14,FYCU6AB5_ZFEMULE5,2021-01-01,232,1
+full_coverage_after_listing,T1578.002,Create Cloud Instance,ATT&CK Enterprise 20.1,ATT&CK,2020-05-14,,,2361,0
+full_coverage_after_listing_that_stops_the_step,T1578.002,Create Cloud Instance,ATT&CK Enterprise 20.1,ATT&CK,2020-05-14,,,2361,0
+full_coverage_after_listing_by_a_requirement,T1578.002,Create Cloud Instance,ATT&CK Enterprise 20.1,ATT&CK,2020-05-14,,,2361,0
+original_definition,T1578.003,Delete Cloud Instance,ATT&CK Enterprise 20.1,ATT&CK,2020-06-16,3WRTBI4D_4B6V6RR5,2015-12-01,0,1
+full_coverage_after_listing,T1578.003,Delete Cloud Instance,ATT&CK Enterprise 20.1,ATT&CK,2020-06-16,XYXMBF3U_E9CM2TMI,2021-12-08,540,1
+full_coverage_after_listing_that_stops_the_step,T1578.003,Delete Cloud Instance,ATT&CK Enterprise 20.1,ATT&CK,2020-06-16,XYXMBF3U_E9CM2TMI,2021-12-08,540,1
+full_coverage_after_listing_by_a_requirement,T1578.003,Delete Cloud Instance,ATT&CK Enterprise 20.1,ATT&CK,2020-06-16,,,2328,0
+original_definition,T1580,Cloud Infrastructure Discovery,ATT&CK Enterprise 20.1,ATT&CK,2020-08-20,3WRTBI4D_4B6V6RR5,2015-12-01,0,1
+full_coverage_after_listing,T1580,Cloud Infrastructure Discovery,ATT&CK Enterprise 20.1,ATT&CK,2020-08-20,XYXMBF3U_E9CM2TMI,2021-12-08,475,1
+full_coverage_after_listing_that_stops_the_step,T1580,Cloud Infrastructure Discovery,ATT&CK Enterprise 20.1,ATT&CK,2020-08-20,iso27002-2022,2022-02-01,530,1
+full_coverage_after_listing_by_a_requirement,T1580,Cloud Infrastructure Discovery,ATT&CK Enterprise 20.1,ATT&CK,2020-08-20,,,2263,0
+original_definition,T1583,Acquire Infrastructure,ATT&CK Enterprise 20.1,ATT&CK,2020-09-30,une-en-iec62443-3-3-2020,2013-08-01,0,1
+full_coverage_after_listing,T1583,Acquire Infrastructure,ATT&CK Enterprise 20.1,ATT&CK,2020-09-30,QX58BXKY_AZW2XMEW,2021-05-07,219,1
+full_coverage_after_listing_that_stops_the_step,T1583,Acquire Infrastructure,ATT&CK Enterprise 20.1,ATT&CK,2020-09-30,QX58BXKY_AZW2XMEW,2021-05-07,219,1
+full_coverage_after_listing_by_a_requirement,T1583,Acquire Infrastructure,ATT&CK Enterprise 20.1,ATT&CK,2020-09-30,iec62443-2-1-2024,2024-08-01,1401,1
+original_definition,T1583.001,Domains,ATT&CK Enterprise 20.1,ATT&CK,2020-09-30,XYXMBF3U_E9CM2TMI,2021-12-08,434,1
+full_coverage_after_listing,T1583.001,Domains,ATT&CK Enterprise 20.1,ATT&CK,2020-09-30,,,2222,0
+full_coverage_after_listing_that_stops_the_step,T1583.001,Domains,ATT&CK Enterprise 20.1,ATT&CK,2020-09-30,,,2222,0
+full_coverage_after_listing_by_a_requirement,T1583.001,Domains,ATT&CK Enterprise 20.1,ATT&CK,2020-09-30,,,2222,0
+original_definition,T1583.006,Web Services,ATT&CK Enterprise 20.1,ATT&CK,2020-10-01,XYXMBF3U_E9CM2TMI,2021-12-08,433,1
+full_coverage_after_listing,T1583.006,Web Services,ATT&CK Enterprise 20.1,ATT&CK,2020-10-01,,,2221,0
+full_coverage_after_listing_that_stops_the_step,T1583.006,Web Services,ATT&CK Enterprise 20.1,ATT&CK,2020-10-01,,,2221,0
+full_coverage_after_listing_by_a_requirement,T1583.006,Web Services,ATT&CK Enterprise 20.1,ATT&CK,2020-10-01,,,2221,0
+original_definition,T1583.007,Serverless,ATT&CK Enterprise 20.1,ATT&CK,2022-07-08,3WRTBI4D_4B6V6RR5,2015-12-01,0,1
+full_coverage_after_listing,T1583.007,Serverless,ATT&CK Enterprise 20.1,ATT&CK,2022-07-08,,,1576,0
+full_coverage_after_listing_that_stops_the_step,T1583.007,Serverless,ATT&CK Enterprise 20.1,ATT&CK,2022-07-08,,,1576,0
+full_coverage_after_listing_by_a_requirement,T1583.007,Serverless,ATT&CK Enterprise 20.1,ATT&CK,2022-07-08,,,1576,0
+original_definition,T1583.008,Malvertising,ATT&CK Enterprise 20.1,ATT&CK,2023-02-21,,,1348,0
+full_coverage_after_listing,T1583.008,Malvertising,ATT&CK Enterprise 20.1,ATT&CK,2023-02-21,,,1348,0
+full_coverage_after_listing_that_stops_the_step,T1583.008,Malvertising,ATT&CK Enterprise 20.1,ATT&CK,2023-02-21,,,1348,0
+full_coverage_after_listing_by_a_requirement,T1583.008,Malvertising,ATT&CK Enterprise 20.1,ATT&CK,2023-02-21,,,1348,0
+original_definition,T1584,Compromise Infrastructure,ATT&CK Enterprise 20.1,ATT&CK,2020-10-01,une-en-iec62443-3-3-2020,2013-08-01,0,1
+full_coverage_after_listing,T1584,Compromise Infrastructure,ATT&CK Enterprise 20.1,ATT&CK,2020-10-01,iso27002-2022,2022-02-01,488,1
+full_coverage_after_listing_that_stops_the_step,T1584,Compromise Infrastructure,ATT&CK Enterprise 20.1,ATT&CK,2020-10-01,iso27002-2022,2022-02-01,488,1
+full_coverage_after_listing_by_a_requirement,T1584,Compromise Infrastructure,ATT&CK Enterprise 20.1,ATT&CK,2020-10-01,,,2221,0
+original_definition,T1584.003,Virtual Private Server,ATT&CK Enterprise 20.1,ATT&CK,2020-10-01,une-en-iec62443-3-3-2020,2013-08-01,0,1
+full_coverage_after_listing,T1584.003,Virtual Private Server,ATT&CK Enterprise 20.1,ATT&CK,2020-10-01,iso27002-2022,2022-02-01,488,1
+full_coverage_after_listing_that_stops_the_step,T1584.003,Virtual Private Server,ATT&CK Enterprise 20.1,ATT&CK,2020-10-01,iso27002-2022,2022-02-01,488,1
+full_coverage_after_listing_by_a_requirement,T1584.003,Virtual Private Server,ATT&CK Enterprise 20.1,ATT&CK,2020-10-01,,,2221,0
+original_definition,T1585,Establish Accounts,ATT&CK Enterprise 20.1,ATT&CK,2020-10-01,FYCU6AB5_ZFEMULE5,2021-01-01,92,1
+full_coverage_after_listing,T1585,Establish Accounts,ATT&CK Enterprise 20.1,ATT&CK,2020-10-01,XYXMBF3U_E9CM2TMI,2021-12-08,433,1
+full_coverage_after_listing_that_stops_the_step,T1585,Establish Accounts,ATT&CK Enterprise 20.1,ATT&CK,2020-10-01,XYXMBF3U_E9CM2TMI,2021-12-08,433,1
+full_coverage_after_listing_by_a_requirement,T1585,Establish Accounts,ATT&CK Enterprise 20.1,ATT&CK,2020-10-01,,,2221,0
+original_definition,T1585.002,Email Accounts,ATT&CK Enterprise 20.1,ATT&CK,2020-10-01,FYCU6AB5_ZFEMULE5,2021-01-01,92,1
+full_coverage_after_listing,T1585.002,Email Accounts,ATT&CK Enterprise 20.1,ATT&CK,2020-10-01,XYXMBF3U_E9CM2TMI,2021-12-08,433,1
+full_coverage_after_listing_that_stops_the_step,T1585.002,Email Accounts,ATT&CK Enterprise 20.1,ATT&CK,2020-10-01,XYXMBF3U_E9CM2TMI,2021-12-08,433,1
+full_coverage_after_listing_by_a_requirement,T1585.002,Email Accounts,ATT&CK Enterprise 20.1,ATT&CK,2020-10-01,,,2221,0
+original_definition,T1587,Develop Capabilities,ATT&CK Enterprise 20.1,ATT&CK,2020-10-01,FYCU6AB5_ZFEMULE5,2021-01-01,92,1
+full_coverage_after_listing,T1587,Develop Capabilities,ATT&CK Enterprise 20.1,ATT&CK,2020-10-01,,,2221,0
+full_coverage_after_listing_that_stops_the_step,T1587,Develop Capabilities,ATT&CK Enterprise 20.1,ATT&CK,2020-10-01,,,2221,0
+full_coverage_after_listing_by_a_requirement,T1587,Develop Capabilities,ATT&CK Enterprise 20.1,ATT&CK,2020-10-01,,,2221,0
+original_definition,T1587.001,Malware,ATT&CK Enterprise 20.1,ATT&CK,2020-10-01,FYCU6AB5_ZFEMULE5,2021-01-01,92,1
+full_coverage_after_listing,T1587.001,Malware,ATT&CK Enterprise 20.1,ATT&CK,2020-10-01,iso27002-2022,2022-02-01,488,1
+full_coverage_after_listing_that_stops_the_step,T1587.001,Malware,ATT&CK Enterprise 20.1,ATT&CK,2020-10-01,ECEUFDLE_6JA3C38M,2024-01-01,1187,1
+full_coverage_after_listing_by_a_requirement,T1587.001,Malware,ATT&CK Enterprise 20.1,ATT&CK,2020-10-01,,,2221,0
+original_definition,T1587.004,Exploits,ATT&CK Enterprise 20.1,ATT&CK,2020-10-01,B8RST6H3_N3GBWEB2,2014-09-01,0,1
+full_coverage_after_listing,T1587.004,Exploits,ATT&CK Enterprise 20.1,ATT&CK,2020-10-01,iso27002-2022,2022-02-01,488,1
+full_coverage_after_listing_that_stops_the_step,T1587.004,Exploits,ATT&CK Enterprise 20.1,ATT&CK,2020-10-01,iso27002-2022,2022-02-01,488,1
+full_coverage_after_listing_by_a_requirement,T1587.004,Exploits,ATT&CK Enterprise 20.1,ATT&CK,2020-10-01,YX4MHEBB_YZGGZ2ZQ,2025-10-01,1826,1
+original_definition,T1588.005,Exploits,ATT&CK Enterprise 20.1,ATT&CK,2020-10-01,iec62443-4-1-2018,2018-01-01,0,1
+full_coverage_after_listing,T1588.005,Exploits,ATT&CK Enterprise 20.1,ATT&CK,2020-10-01,iso27002-2022,2022-02-01,488,1
+full_coverage_after_listing_that_stops_the_step,T1588.005,Exploits,ATT&CK Enterprise 20.1,ATT&CK,2020-10-01,iso27002-2022,2022-02-01,488,1
+full_coverage_after_listing_by_a_requirement,T1588.005,Exploits,ATT&CK Enterprise 20.1,ATT&CK,2020-10-01,iso27001-2022,2022-10-01,730,1
+original_definition,T1588.006,Vulnerabilities,ATT&CK Enterprise 20.1,ATT&CK,2020-10-15,iec62443-4-1-2018,2018-01-01,0,1
+full_coverage_after_listing,T1588.006,Vulnerabilities,ATT&CK Enterprise 20.1,ATT&CK,2020-10-15,iso27002-2022,2022-02-01,474,1
+full_coverage_after_listing_that_stops_the_step,T1588.006,Vulnerabilities,ATT&CK Enterprise 20.1,ATT&CK,2020-10-15,,,2207,0
+full_coverage_after_listing_by_a_requirement,T1588.006,Vulnerabilities,ATT&CK Enterprise 20.1,ATT&CK,2020-10-15,iso27001-2022,2022-10-01,716,1
+original_definition,T1588.007,Artificial Intelligence,ATT&CK Enterprise 20.1,ATT&CK,2024-03-11,B8RST6H3_N3GBWEB2,2014-09-01,0,1
+full_coverage_after_listing,T1588.007,Artificial Intelligence,ATT&CK Enterprise 20.1,ATT&CK,2024-03-11,,,964,0
+full_coverage_after_listing_that_stops_the_step,T1588.007,Artificial Intelligence,ATT&CK Enterprise 20.1,ATT&CK,2024-03-11,,,964,0
+full_coverage_after_listing_by_a_requirement,T1588.007,Artificial Intelligence,ATT&CK Enterprise 20.1,ATT&CK,2024-03-11,,,964,0
+original_definition,T1589,Gather Victim Identity Information,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,FYCU6AB5_ZFEMULE5,2021-01-01,91,1
+full_coverage_after_listing,T1589,Gather Victim Identity Information,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,,,2220,0
+full_coverage_after_listing_that_stops_the_step,T1589,Gather Victim Identity Information,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,,,2220,0
+full_coverage_after_listing_by_a_requirement,T1589,Gather Victim Identity Information,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,,,2220,0
+original_definition,T1590,Gather Victim Network Information,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,XYXMBF3U_E9CM2TMI,2021-12-08,432,1
+full_coverage_after_listing,T1590,Gather Victim Network Information,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,HNU3XYMG_4H32JLDR,2022-11-16,775,1
+full_coverage_after_listing_that_stops_the_step,T1590,Gather Victim Network Information,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,,,2220,0
+full_coverage_after_listing_by_a_requirement,T1590,Gather Victim Network Information,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,,,2220,0
+original_definition,T1592,Gather Victim Host Information,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,FYCU6AB5_ZFEMULE5,2021-01-01,91,1
+full_coverage_after_listing,T1592,Gather Victim Host Information,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,,,2220,0
+full_coverage_after_listing_that_stops_the_step,T1592,Gather Victim Host Information,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,,,2220,0
+full_coverage_after_listing_by_a_requirement,T1592,Gather Victim Host Information,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,,,2220,0
+original_definition,T1593,Search Open Websites/Domains,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,XYXMBF3U_E9CM2TMI,2021-12-08,432,1
+full_coverage_after_listing,T1593,Search Open Websites/Domains,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,,,2220,0
+full_coverage_after_listing_that_stops_the_step,T1593,Search Open Websites/Domains,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,,,2220,0
+full_coverage_after_listing_by_a_requirement,T1593,Search Open Websites/Domains,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,,,2220,0
+original_definition,T1593.003,Code Repositories,ATT&CK Enterprise 20.1,ATT&CK,2022-08-09,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,T1593.003,Code Repositories,ATT&CK Enterprise 20.1,ATT&CK,2022-08-09,,,1544,0
+full_coverage_after_listing_that_stops_the_step,T1593.003,Code Repositories,ATT&CK Enterprise 20.1,ATT&CK,2022-08-09,,,1544,0
+full_coverage_after_listing_by_a_requirement,T1593.003,Code Repositories,ATT&CK Enterprise 20.1,ATT&CK,2022-08-09,,,1544,0
+original_definition,T1594,Search Victim-Owned Websites,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,FYCU6AB5_ZFEMULE5,2021-01-01,91,1
+full_coverage_after_listing,T1594,Search Victim-Owned Websites,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,,,2220,0
+full_coverage_after_listing_that_stops_the_step,T1594,Search Victim-Owned Websites,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,,,2220,0
+full_coverage_after_listing_by_a_requirement,T1594,Search Victim-Owned Websites,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,,,2220,0
+original_definition,T1595,Active Scanning,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,B8RST6H3_N3GBWEB2,2014-09-01,0,1
+full_coverage_after_listing,T1595,Active Scanning,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,XYXMBF3U_E9CM2TMI,2021-12-08,432,1
+full_coverage_after_listing_that_stops_the_step,T1595,Active Scanning,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,iso27002-2022,2022-02-01,487,1
+full_coverage_after_listing_by_a_requirement,T1595,Active Scanning,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,,,2220,0
+original_definition,T1595.001,Scanning IP Blocks,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,B8RST6H3_N3GBWEB2,2014-09-01,0,1
+full_coverage_after_listing,T1595.001,Scanning IP Blocks,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,iso27002-2022,2022-02-01,487,1
+full_coverage_after_listing_that_stops_the_step,T1595.001,Scanning IP Blocks,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,,,2220,0
+full_coverage_after_listing_by_a_requirement,T1595.001,Scanning IP Blocks,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,,,2220,0
+original_definition,T1595.002,Vulnerability Scanning,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,B8RST6H3_N3GBWEB2,2014-09-01,0,1
+full_coverage_after_listing,T1595.002,Vulnerability Scanning,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,iso27002-2022,2022-02-01,487,1
+full_coverage_after_listing_that_stops_the_step,T1595.002,Vulnerability Scanning,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,iso27002-2022,2022-02-01,487,1
+full_coverage_after_listing_by_a_requirement,T1595.002,Vulnerability Scanning,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,,,2220,0
+original_definition,T1596.005,Scan Databases,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,une-en-iec62443-3-3-2020,2013-08-01,0,1
+full_coverage_after_listing,T1596.005,Scan Databases,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,iso27002-2022,2022-02-01,487,1
+full_coverage_after_listing_that_stops_the_step,T1596.005,Scan Databases,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,iso27002-2022,2022-02-01,487,1
+full_coverage_after_listing_by_a_requirement,T1596.005,Scan Databases,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,iec62443-2-1-2024,2024-08-01,1399,1
+original_definition,T1598,Phishing for Information,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,FYCU6AB5_ZFEMULE5,2021-01-01,91,1
+full_coverage_after_listing,T1598,Phishing for Information,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,,,2220,0
+full_coverage_after_listing_that_stops_the_step,T1598,Phishing for Information,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,,,2220,0
+full_coverage_after_listing_by_a_requirement,T1598,Phishing for Information,ATT&CK Enterprise 20.1,ATT&CK,2020-10-02,,,2220,0
+original_definition,T1602.002,Network Device Configuration Dump,ATT&CK Enterprise 20.1,ATT&CK,2020-10-20,B8RST6H3_N3GBWEB2,2014-09-01,0,1
+full_coverage_after_listing,T1602.002,Network Device Configuration Dump,ATT&CK Enterprise 20.1,ATT&CK,2020-10-20,iso27002-2022,2022-02-01,469,1
+full_coverage_after_listing_that_stops_the_step,T1602.002,Network Device Configuration Dump,ATT&CK Enterprise 20.1,ATT&CK,2020-10-20,iso27002-2022,2022-02-01,469,1
+full_coverage_after_listing_by_a_requirement,T1602.002,Network Device Configuration Dump,ATT&CK Enterprise 20.1,ATT&CK,2020-10-20,,,2202,0
+original_definition,T1606,Forge Web Credentials,ATT&CK Enterprise 20.1,ATT&CK,2020-12-17,B8RST6H3_N3GBWEB2,2014-09-01,0,1
+full_coverage_after_listing,T1606,Forge Web Credentials,ATT&CK Enterprise 20.1,ATT&CK,2020-12-17,iso27002-2022,2022-02-01,411,1
+full_coverage_after_listing_that_stops_the_step,T1606,Forge Web Credentials,ATT&CK Enterprise 20.1,ATT&CK,2020-12-17,iso27002-2022,2022-02-01,411,1
+full_coverage_after_listing_by_a_requirement,T1606,Forge Web Credentials,ATT&CK Enterprise 20.1,ATT&CK,2020-12-17,YX4MHEBB_YZGGZ2ZQ,2025-10-01,1749,1
+original_definition,T1608,Stage Capabilities,ATT&CK Enterprise 20.1,ATT&CK,2021-03-17,iso27001-2022,2022-10-01,563,1
+full_coverage_after_listing,T1608,Stage Capabilities,ATT&CK Enterprise 20.1,ATT&CK,2021-03-17,,,2054,0
+full_coverage_after_listing_that_stops_the_step,T1608,Stage Capabilities,ATT&CK Enterprise 20.1,ATT&CK,2021-03-17,,,2054,0
+full_coverage_after_listing_by_a_requirement,T1608,Stage Capabilities,ATT&CK Enterprise 20.1,ATT&CK,2021-03-17,,,2054,0
+original_definition,T1608.001,Upload Malware,ATT&CK Enterprise 20.1,ATT&CK,2021-03-17,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,T1608.001,Upload Malware,ATT&CK Enterprise 20.1,ATT&CK,2021-03-17,4SQHZUSL_YY2EYK99,2024-01-01,1020,1
+full_coverage_after_listing_that_stops_the_step,T1608.001,Upload Malware,ATT&CK Enterprise 20.1,ATT&CK,2021-03-17,4SQHZUSL_YY2EYK99,2024-01-01,1020,1
+full_coverage_after_listing_by_a_requirement,T1608.001,Upload Malware,ATT&CK Enterprise 20.1,ATT&CK,2021-03-17,,,2054,0
+original_definition,T1611,Escape to Host,ATT&CK Enterprise 20.1,ATT&CK,2021-03-30,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,T1611,Escape to Host,ATT&CK Enterprise 20.1,ATT&CK,2021-03-30,,,2041,0
+full_coverage_after_listing_that_stops_the_step,T1611,Escape to Host,ATT&CK Enterprise 20.1,ATT&CK,2021-03-30,,,2041,0
+full_coverage_after_listing_by_a_requirement,T1611,Escape to Host,ATT&CK Enterprise 20.1,ATT&CK,2021-03-30,,,2041,0
+original_definition,T1613,Container and Resource Discovery,ATT&CK Enterprise 20.1,ATT&CK,2021-03-31,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,T1613,Container and Resource Discovery,ATT&CK Enterprise 20.1,ATT&CK,2021-03-31,XYXMBF3U_E9CM2TMI,2021-12-08,252,1
+full_coverage_after_listing_that_stops_the_step,T1613,Container and Resource Discovery,ATT&CK Enterprise 20.1,ATT&CK,2021-03-31,XYXMBF3U_E9CM2TMI,2021-12-08,252,1
+full_coverage_after_listing_by_a_requirement,T1613,Container and Resource Discovery,ATT&CK Enterprise 20.1,ATT&CK,2021-03-31,,,2040,0
+original_definition,T1614,System Location Discovery,ATT&CK Enterprise 20.1,ATT&CK,2021-04-01,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,T1614,System Location Discovery,ATT&CK Enterprise 20.1,ATT&CK,2021-04-01,,,2039,0
+full_coverage_after_listing_that_stops_the_step,T1614,System Location Discovery,ATT&CK Enterprise 20.1,ATT&CK,2021-04-01,,,2039,0
+full_coverage_after_listing_by_a_requirement,T1614,System Location Discovery,ATT&CK Enterprise 20.1,ATT&CK,2021-04-01,,,2039,0
+original_definition,T1648,Serverless Execution,ATT&CK Enterprise 20.1,ATT&CK,2022-05-27,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,T1648,Serverless Execution,ATT&CK Enterprise 20.1,ATT&CK,2022-05-27,,,1618,0
+full_coverage_after_listing_that_stops_the_step,T1648,Serverless Execution,ATT&CK Enterprise 20.1,ATT&CK,2022-05-27,,,1618,0
+full_coverage_after_listing_by_a_requirement,T1648,Serverless Execution,ATT&CK Enterprise 20.1,ATT&CK,2022-05-27,,,1618,0
+original_definition,T1650,Acquire Access,ATT&CK Enterprise 20.1,ATT&CK,2023-03-10,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,T1650,Acquire Access,ATT&CK Enterprise 20.1,ATT&CK,2023-03-10,,,1331,0
+full_coverage_after_listing_that_stops_the_step,T1650,Acquire Access,ATT&CK Enterprise 20.1,ATT&CK,2023-03-10,,,1331,0
+full_coverage_after_listing_by_a_requirement,T1650,Acquire Access,ATT&CK Enterprise 20.1,ATT&CK,2023-03-10,,,1331,0
+original_definition,T1651,Cloud Administration Command,ATT&CK Enterprise 20.1,ATT&CK,2023-03-13,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,T1651,Cloud Administration Command,ATT&CK Enterprise 20.1,ATT&CK,2023-03-13,ECEUFDLE_6JA3C38M,2024-01-01,294,1
+full_coverage_after_listing_that_stops_the_step,T1651,Cloud Administration Command,ATT&CK Enterprise 20.1,ATT&CK,2023-03-13,,,1328,0
+full_coverage_after_listing_by_a_requirement,T1651,Cloud Administration Command,ATT&CK Enterprise 20.1,ATT&CK,2023-03-13,,,1328,0
+original_definition,T1654,Log Enumeration,ATT&CK Enterprise 20.1,ATT&CK,2023-07-10,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,T1654,Log Enumeration,ATT&CK Enterprise 20.1,ATT&CK,2023-07-10,,,1209,0
+full_coverage_after_listing_that_stops_the_step,T1654,Log Enumeration,ATT&CK Enterprise 20.1,ATT&CK,2023-07-10,,,1209,0
+full_coverage_after_listing_by_a_requirement,T1654,Log Enumeration,ATT&CK Enterprise 20.1,ATT&CK,2023-07-10,,,1209,0
+original_definition,T1657,Financial Theft,ATT&CK Enterprise 20.1,ATT&CK,2023-08-18,B8RST6H3_N3GBWEB2,2014-09-01,0,1
+full_coverage_after_listing,T1657,Financial Theft,ATT&CK Enterprise 20.1,ATT&CK,2023-08-18,ECEUFDLE_6JA3C38M,2024-01-01,136,1
+full_coverage_after_listing_that_stops_the_step,T1657,Financial Theft,ATT&CK Enterprise 20.1,ATT&CK,2023-08-18,,,1170,0
+full_coverage_after_listing_by_a_requirement,T1657,Financial Theft,ATT&CK Enterprise 20.1,ATT&CK,2023-08-18,,,1170,0
+original_definition,T1659,Content Injection,ATT&CK Enterprise 20.1,ATT&CK,2023-09-01,FYCU6AB5_ZFEMULE5,2021-01-01,0,1
+full_coverage_after_listing,T1659,Content Injection,ATT&CK Enterprise 20.1,ATT&CK,2023-09-01,,,1156,0
+full_coverage_after_listing_that_stops_the_step,T1659,Content Injection,ATT&CK Enterprise 20.1,ATT&CK,2023-09-01,,,1156,0
+full_coverage_after_listing_by_a_requirement,T1659,Content Injection,ATT&CK Enterprise 20.1,ATT&CK,2023-09-01,,,1156,0
+original_definition,T1677,Poisoned Pipeline Execution,ATT&CK Enterprise 20.1,ATT&CK,2025-05-22,iec62443-4-1-2018,2018-01-01,0,1
+full_coverage_after_listing,T1677,Poisoned Pipeline Execution,ATT&CK Enterprise 20.1,ATT&CK,2025-05-22,,,527,0
+full_coverage_after_listing_that_stops_the_step,T1677,Poisoned Pipeline Execution,ATT&CK Enterprise 20.1,ATT&CK,2025-05-22,,,527,0
+full_coverage_after_listing_by_a_requirement,T1677,Poisoned Pipeline Execution,ATT&CK Enterprise 20.1,ATT&CK,2025-05-22,,,527,0
+original_definition,T1684,Social Engineering,ATT&CK Enterprise 20.1,ATT&CK,2026-04-14,YZU6B3F5_FWK5U4MY,2021-07-01,0,1
+full_coverage_after_listing,T1684,Social Engineering,ATT&CK Enterprise 20.1,ATT&CK,2026-04-14,,,200,0
+full_coverage_after_listing_that_stops_the_step,T1684,Social Engineering,ATT&CK Enterprise 20.1,ATT&CK,2026-04-14,,,200,0
+full_coverage_after_listing_by_a_requirement,T1684,Social Engineering,ATT&CK Enterprise 20.1,ATT&CK,2026-04-14,,,200,0
+original_definition,T1684.001,Impersonation,ATT&CK Enterprise 20.1,ATT&CK,2026-04-14,iec62443-4-1-2018,2018-01-01,0,1
+full_coverage_after_listing,T1684.001,Impersonation,ATT&CK Enterprise 20.1,ATT&CK,2026-04-14,,,200,0
+full_coverage_after_listing_that_stops_the_step,T1684.001,Impersonation,ATT&CK Enterprise 20.1,ATT&CK,2026-04-14,,,200,0
+full_coverage_after_listing_by_a_requirement,T1684.001,Impersonation,ATT&CK Enterprise 20.1,ATT&CK,2026-04-14,,,200,0
+original_definition,T1685,Disable or Modify Tools,ATT&CK Enterprise 20.1,ATT&CK,2026-04-14,WLK7XX4H_6KZ8VDYK,2017-11-13,0,1
+full_coverage_after_listing,T1685,Disable or Modify Tools,ATT&CK Enterprise 20.1,ATT&CK,2026-04-14,,,200,0
+full_coverage_after_listing_that_stops_the_step,T1685,Disable or Modify Tools,ATT&CK Enterprise 20.1,ATT&CK,2026-04-14,,,200,0
+full_coverage_after_listing_by_a_requirement,T1685,Disable or Modify Tools,ATT&CK Enterprise 20.1,ATT&CK,2026-04-14,,,200,0
+original_definition,T1692.002,Reporting Message,ATT&CK for ICS 20.1,ATT&CK,2026-04-20,une-en-iec62443-3-3-2020,2013-08-01,0,1
+full_coverage_after_listing,T1692.002,Reporting Message,ATT&CK for ICS 20.1,ATT&CK,2026-04-20,,,194,0
+full_coverage_after_listing_that_stops_the_step,T1692.002,Reporting Message,ATT&CK for ICS 20.1,ATT&CK,2026-04-20,,,194,0
+full_coverage_after_listing_by_a_requirement,T1692.002,Reporting Message,ATT&CK for ICS 20.1,ATT&CK,2026-04-20,,,194,0
+original_definition,T1693.001,System Firmware,ATT&CK for ICS 20.1,ATT&CK,2026-04-20,une-en-iec62443-3-3-2020,2013-08-01,0,1
+full_coverage_after_listing,T1693.001,System Firmware,ATT&CK for ICS 20.1,ATT&CK,2026-04-20,,,194,0
+full_coverage_after_listing_that_stops_the_step,T1693.001,System Firmware,ATT&CK for ICS 20.1,ATT&CK,2026-04-20,,,194,0
+full_coverage_after_listing_by_a_requirement,T1693.001,System Firmware,ATT&CK for ICS 20.1,ATT&CK,2026-04-20,,,194,0
+original_definition,T1694,Insecure Credentials,ATT&CK for ICS 20.1,ATT&CK,2026-04-20,une-en-iec62443-3-3-2020,2013-08-01,0,1
+full_coverage_after_listing,T1694,Insecure Credentials,ATT&CK for ICS 20.1,ATT&CK,2026-04-20,,,194,0
+full_coverage_after_listing_that_stops_the_step,T1694,Insecure Credentials,ATT&CK for ICS 20.1,ATT&CK,2026-04-20,,,194,0
+full_coverage_after_listing_by_a_requirement,T1694,Insecure Credentials,ATT&CK for ICS 20.1,ATT&CK,2026-04-20,,,194,0
+original_definition,T1698,Indirect Prompt Injection,ATT&CK Enterprise 20.1,ATT&CK,2026-09-18,iec62443-4-1-2018,2018-01-01,0,1
+full_coverage_after_listing,T1698,Indirect Prompt Injection,ATT&CK Enterprise 20.1,ATT&CK,2026-09-18,,,43,0
+full_coverage_after_listing_that_stops_the_step,T1698,Indirect Prompt Injection,ATT&CK Enterprise 20.1,ATT&CK,2026-09-18,,,43,0
+full_coverage_after_listing_by_a_requirement,T1698,Indirect Prompt Injection,ATT&CK Enterprise 20.1,ATT&CK,2026-09-18,,,43,0
+original_definition,T1699,Direct Prompt Injection,ATT&CK Enterprise 20.1,ATT&CK,2026-09-18,iec62443-4-1-2018,2018-01-01,0,1
+full_coverage_after_listing,T1699,Direct Prompt Injection,ATT&CK Enterprise 20.1,ATT&CK,2026-09-18,,,43,0
+full_coverage_after_listing_that_stops_the_step,T1699,Direct Prompt Injection,ATT&CK Enterprise 20.1,ATT&CK,2026-09-18,,,43,0
+full_coverage_after_listing_by_a_requirement,T1699,Direct Prompt Injection,ATT&CK Enterprise 20.1,ATT&CK,2026-09-18,,,43,0
+original_definition,T1700,AI-Enabled Exfiltration,ATT&CK Enterprise 20.1,ATT&CK,2026-09-22,iec62443-4-1-2018,2018-01-01,0,1
+full_coverage_after_listing,T1700,AI-Enabled Exfiltration,ATT&CK Enterprise 20.1,ATT&CK,2026-09-22,,,39,0
+full_coverage_after_listing_that_stops_the_step,T1700,AI-Enabled Exfiltration,ATT&CK Enterprise 20.1,ATT&CK,2026-09-22,,,39,0
+full_coverage_after_listing_by_a_requirement,T1700,AI-Enabled Exfiltration,ATT&CK Enterprise 20.1,ATT&CK,2026-09-22,,,39,0
