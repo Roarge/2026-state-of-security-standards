@@ -148,9 +148,9 @@ def headline(tables: dict[str, list[dict]]) -> dict:
         "documents_without_a_full_code": len(tables["documents"]) - len(
             {p["document_id"] for p in pairs if p["coverage"] == "full"}),
         "step_counts": step_counts(pairs, tables),
-        "step_counts_without_the_standards_coded_on_12_november": step_counts(
+        "step_counts_without_the_seven_central_standards": step_counts(
             [p for p in pairs if p["document_id"] not in
-             {d["document_id"] for d in tables["documents"] if d.get("coded_on_12_november") == "yes"}], tables),
+             {d["document_id"] for d in tables["documents"] if d.get("left_out_in_s6") == "yes"}], tables),
         "time_to_coverage": time_to_coverage(tables),
         "attacker_profiles": {
             "documents_profiled": len(profiled),
@@ -215,8 +215,8 @@ def print_headline(numbers: dict) -> None:
     line("steps covered in full by one document only", numbers["steps_covered_in_full_by_one_document_only"])
     line("documents without a full code", numbers["documents_without_a_full_code"])
     for title, key in (("Steps with a full code, all 83 documents", "step_counts"),
-                       ("The same without the seven standards coded on 12 November",
-                        "step_counts_without_the_standards_coded_on_12_november")):
+                       ("The same without the seven central standards (row S6)",
+                        "step_counts_without_the_seven_central_standards")):
         print(title)
         for name, count in numbers[key].items():
             line(name.replace("_", " "), count)

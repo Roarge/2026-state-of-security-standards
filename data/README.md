@@ -23,7 +23,7 @@ One row for each of the 83 standards and guidance documents.
 | `document_type` | Finer type: `standard` (a standard from a standards body), `technical_specification` (a technical specification from a standards body or an industry alliance), `technical_report` (a technical report from a standards body), `government_normative` (a normative technical publication from a government body), `authority_guidance` (guidance from a public authority or a public development bank), `industry_guidance` (guidance from an industry or community body), `directive` (a binding order from an authority to the bodies it oversees), `threat_report` (a report on current threats from an authority that tells its readers what to do), `framework_release_note` (a release note of a security framework), `other` (another kind of text from an authority) |
 | `layers` | The layers of smart city infrastructure the document addresses: field devices, networks and protocols, platforms and data, applications and services, operations and governance |
 | `text_obtained_as` | `publisher_text` when the text came from the publisher's own file, `ocr` when it was read from page images by optical character recognition, `machine_translation` when the coded text is a machine translation of another language edition |
-| `coded_on_12_november` | `yes` for the seven standards whose full text was obtained on 12 November 2026, after the first results for the other 76 documents were known |
+| `left_out_in_s6` | `yes` for the seven central standards that row S6 of `sensitivity.csv` leaves out: ISO/IEC 27001, ISO/IEC 27002, ISO/IEC 27005 and parts 2-1, 3-3, 4-1 and 4-2 of IEC 62443 |
 
 ## events.csv
 
@@ -162,7 +162,7 @@ What each variation leaves out or changes, and why it is worth testing:
 | S4a | Uses the answers of coder A alone in place of the final codes. Coder A gave full coverage far more often than coder B, and the result should not depend on which of the two is believed |
 | S4b | Uses the answers of coder B alone. This coder was the stricter of the two, and its answer became the final code wherever the two agreed |
 | S5 | Leaves out the three drafts. A draft can still change, and nobody is yet asked to follow it |
-| S6 | Leaves out the seven standards coded on 12 November 2026, after the first results were known. This row shows what the results are without them |
+| S6 | Leaves out the seven central standards: ISO/IEC 27001, ISO/IEC 27002, ISO/IEC 27005 and parts 2-1, 3-3, 4-1 and 4-2 of IEC 62443. This row shows how far the results rest on them |
 | S7 | Leaves out the two events that the search missed and that entered only because they stood on an earlier list of known events, which was used to test how complete the search was. Events added from such a list may reflect what the researcher already had in mind |
 | S8 | Keeps only the 337 steps from the events in which an AI system carried out most or all of the steps. These events are the centre of the study, and their result should also be seen on its own |
 | S9 | Leaves out the 22 events for which the only account of what the AI system did comes from the company that built it. Nobody outside has confirmed these accounts |
